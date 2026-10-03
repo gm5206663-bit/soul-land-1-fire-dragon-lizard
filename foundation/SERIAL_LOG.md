@@ -150,3 +150,13 @@ after an explicit rejection is how a wrong fix ships.
 rebuild. Emoji verdicts are recorded, never treated as rulings (house
 precedent). The order in force remains: "Find out yourself, try again and
 again and again." Continuing the self-diagnosis.
+### 2026-10-03 — round 7 — R13 correction + expansion (cycle 4)
+- Self-check against the author's own project: his chapters = 4622/4154/3776 words
+  → the 2400–3400 band was an unchecked agent default. Band corrected to 3600–5000
+  (RULINGS_LOG R13 correction entry; chapter_gate + selftest 14/14; OPEN_RULINGS row).
+- Both chapters expanded in his voice and now PASS: Chapter_01 3702 words,
+  Chapter_02 3630 words (chapter gate, R13 band).
+- His storyos templates folded in: coverage tables (beats consumed, scene ledger,
+  knowledge delta, power check, butterfly register) appended to both coverage files;
+  audits/RECEIPTS_2026-10-03_cycle4.md written in his RECEIPT_TEMPLATE shape.
+- STATUS footers updated same turn (PASS counts). Foundation gates: to run below.

@@ -41,6 +41,36 @@ already understood that some questions were really other things.
 
 He ate.
 
+The bread was dark and heavy and his. His mother had a way of setting
+the bowl that was not quite serving and not quite presenting — it was
+*providing*, the way weather provides. Outside, the village had already
+begun the day's business: a cart wheel complaining somewhere toward the
+well, a dog with an opinion, Old Jack's voice arriving early and
+entire, doing errands at a distance.
+
+"Will you be afraid?" she asked, not looking up from her own bowl.
+
+"No."
+
+"Good answer?"
+
+"I don't know yet. I'll tell you after."
+
+She did smile at that — the quick one, there and gone. "That is the
+first honest thing anyone has said in this house this month."
+
+"Father says honest things," he offered.
+
+"Your father says sentences that can be carried into a courtroom
+without damage. There is a difference." She stood, took the bowls, and
+passed her two fingers across his forehead on the way — the old check,
+the weather check, as automatic as breathing — and her hand lingered
+one beat longer than the check required, and he let it, because he was
+six today, and the day was the day, and even he could feel that the
+house was holding its breath a little.
+
+"Go on," she said. "The village is waiting for you."
+
 ---
 
 The boy called Xiao San was already at the bend in the road.
@@ -121,6 +151,23 @@ The words came out like a man counting out small change. The line
 shortened. The room got quieter. The boys and girls who failed went to
 stand by the wall with the careful faces of people who had just been
 told, kindly and forever, what the rest of their lives looked like.
+
+The mothers had their own arithmetic. A sickle was survivable. A hoe
+meant the fields, which was not a disgrace, because the fields were
+where half the village already lived. Grass — anything plant-like and
+soft — was worse than useless, because the crystal could not even be
+blamed. No power. The word moved through the packed room without moving
+anyone's lips: *no power, no power, no power*, a rhythm as old as the
+black stones themselves, and the old women folded their arms tighter
+over it the way you fold arms against weather you cannot argue with.
+
+One boy came out of the star with a sprig of blue grass and a dignity
+he had not walked in with. Another came out wiping his eyes and was
+greeted by his father with a hand on the head and no words at all,
+which was somehow worse. The line shortened. Su Yuntao's voice stayed
+exactly level: no soul power, next; no soul power, next — and the level
+voice, more than the failures themselves, made the room understand how
+ordinary its children were being today.
 
 Then it was Xiao San's turn.
 
@@ -325,7 +372,39 @@ had always sat, patient and sure, no longer a question.
 
 That evening he stood at the bend in the road with Tang San, watching
 the light go out of the sky, and neither of them said anything that
-needed saying. Tomorrow there would be the hill and the river and the
+needed saying.
+
+The village helped them not say it. From the road you could hear the
+whole evening machinery of Holy Spirit Village: the well, the gates,
+someone calling someone in for food, the forge — always the forge,
+one stroke every few breaths, keeping its own hours. Smoke stood over
+the west-side house the way it had stood there all day, all year, all
+the boy's life, and the smoke from the north-end house came up too, and
+between them the road ran on in the dark like a sentence neither of
+them had started.
+
+"I am not going to be afraid of it," the boy said at last.
+
+"Of what?"
+
+"The expecting."
+
+Tang San considered this the way he considered everything — fully, at
+length, with his hands folded. "Then you will not be," he said, which
+was either a promise or a piece of logic, and with Xiao San the two had
+always been the same thing.
+
+A dog barked once and thought better of it. The first cold came down
+off the fields, and the boy stood in it with his sleeves loose and his
+arms down, warm to the bone, the small living weight on his shoulder
+turning once in its sleep — and the village went on closing its doors
+one at a time around the two of them, and nobody anywhere in it knew
+what it had just finished a day of.
+
+They walked home together as far as the bend and then apart the way
+roads do, each boy carrying the other's day in his mouth like a piece
+of hard candy, turning it over, saving the sweetness for the years
+ahead of them — which is to say, ahead of them, and not far. Tomorrow there would be the hill and the river and the
 long runs. Tomorrow there would be stones in pockets and the whole unlit
 country of the year ahead.
 
@@ -337,7 +416,8 @@ the way it always had, without asking anyone what it was supposed to be.
 
 ## Footer
 
-- **Project state:** Chapter 2 (awakening day) — gated, band 2400–3400.
+- **Project state:** Chapter 2 (awakening day) — **gated PASS at 3630
+  words** (band 3600–5000, R13 correction).
   Originally written as Chapter 1; rehomed here when Chapter 1 was rebuilt
   to the author's birth-foundation structure (2026-10-03).
 - **Canon span touched:** Douluo novel ch1 + the ch2 awakening ceremony

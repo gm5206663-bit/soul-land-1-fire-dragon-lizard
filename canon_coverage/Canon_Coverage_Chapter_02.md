@@ -73,3 +73,51 @@ years on evidence (runs, river, forge door), the village's expectation
 settling on the OC (D1 butterfly, natural), blacksmithing days (canon's
 three months, canon-shaped), then Jack's road to Nuoding — the OC's
 place on it earned on page, never assumed. New coverage before prose.
+
+## Chapter table (CHAPTER_COVERAGE_TEMPLATE, adopted 2026-10-03)
+
+| Field | Entry |
+|---|---|
+| Fic chapter | Chapter_02 — The Fire in the Star (3630 words, gate PASS) |
+| Canon source consumed | SWSEC ch.1 awakening-day frame (ceremony, father's absence, blessing reveal) — compressed |
+| Source fetch | Fetched in-round; NO_MISTAKE screening applied |
+| Branch status | First canon deviation: OC attends ceremony (baseline absorbed) |
+
+### Beats consumed in order
+| # | Beat | Keep/compress/expand | Why |
+|---|---|---|---|
+| 1 | Six-year bridge morning + mother | expand | His voice: domestic before the stage |
+| 2 | Road meeting with Tang San | keep | Relationship continuity |
+| 3 | Hall + Su Yuntao ceremony | expand | Failed-children texture is canon's own weight |
+| 4 | OC's testing (living crystal) | expand | Deviation beat; father's absence + mother's dread |
+| 5 | No element → "the fire in the star" | keep | Father-echo title beat |
+| 6 | Blessing reveal to father (POV cross) | keep | His own ch.2 pattern; generation note attached |
+| 7 | Evening at the bend | expand | Convergence before the road splits |
+
+### Scene ledger
+| Location | Time | Present | Positions |
+|---|---|---|---|
+| North-end house | Morning | OC, mother | Six years later |
+| Road, bend | Morning | OC, Tang San | Walk together |
+| Old man's hall | Day | Su Yuntao, villagers, all children | Ceremony |
+| Hall (testing) | Day | OC, mother (doorway), father (absent) | Deviation beat |
+| Well-side cottage | Night | Blessing party | POV cross to adults |
+| Road bend | Dusk | OC, Tang San | Coda |
+
+### Knowledge delta
+| Who learns | Before | After | Earliest valid change |
+|---|---|---|---|
+| Village | OC is "healthy" | OC has no tested soul power + implausible blessing | Ceremony night |
+| Mother | Suspects the window-weather | Blessing confirms fear is too small | Testing beat |
+| Tang San | OC is his constant | OC will walk a road with no soul power | Bend, dusk |
+| OC | Expecting | It is not what he expected; he is not afraid | Testing + coda |
+
+### Power check
+| Rank/SP before | Change | Floor/Ceiling |
+|---|---|---|
+| None | No element, no ring, no soul power; blessing = adult power in debt | Floors: never a rank, never a figure in prose (R11); blessing consumes itself |
+
+### Butterfly register
+| Event | Divergence | Status |
+|---|---|---|
+| OC present at blessing | Deviates from canon's silent-father night; father reacts in fiction | Logged; generation note attached (not a rule change) |

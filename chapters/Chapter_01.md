@@ -24,6 +24,29 @@ and pulled their sleeves down, and she stood a moment longer than she
 needed to, feeling the cold the way you feel a knock on a door you
 already know is there — acknowledged, considered, closed.
 
+"You are going to fall in, one of these mornings," the baker's wife
+told her, not unkindly.
+
+"Perhaps."
+
+"And then we will have to fish you out, and I have bread in the oven."
+
+"Then I will not fall in."
+
+The baker's wife laughed and went back to her opinions, and the cold
+went on moving over the fields, and the woman at the edge of the well
+rolled her sleeves down last, in her own time, with her hands steady on
+the rope. Inside her, the child approved of none of it and objected to
+none of it. He simply continued, the way a coal continues, arranging
+the small country of heat he had been given, waiting — though there was
+no word yet for waiting — for the world to finish being built around
+him.
+
+That winter the village lost an old man to the cold, as it always did,
+and counted its sheep more carefully than usual, and said the frost was
+hard this year. The frost was hard this year. At the north-end house no
+one mentioned it, and no one needed to.
+
 Inside her, the child did not think. Thinking came later, with breath
 and language and the long patient work of becoming a person. What
 happened inside her was older than thinking. Heat would rise in her, the
@@ -110,6 +133,25 @@ morning lay against his mother's heart and arranged the small country
 of his body for the first time in the open air — hold, release, soften,
 strengthen, live — as if nothing about the arrangement were new.
 
+The first night he slept against her the way he had been arranged to
+sleep — curled, certain, one fist under his chin — and the house made
+its small night sounds around them, and the lamp burned low.
+
+Once he woke. Not crying — assessing. She knew the difference now,
+three hours into motherhood, with the expertise of someone who had
+passed every examination in an afternoon. She lifted him, settled him,
+felt the small heat of him travel down her arm and back like a cat
+deciding where it would be tonight, and he was done, and she was done,
+and the dark outside the window had nothing in it for either of them.
+
+In the morning the frost was back on the sill, and his breath made no
+cloud, and his mother looked at the window she had opened the night
+before out of habit — the window she had opened every night of the
+winter out of habit — and understood, without deciding to understand,
+that something in this house had changed its weather.
+
+She left the window open.
+
 That was the whole of it. No one wrote anything down. No one called a
 spirit master. There was no sign over the child, no mark on his palm, no
 old woman prophesying at the door — only a cold morning, a short labor,
@@ -146,6 +188,27 @@ His father did not push him into rivers.
 His father put a hammer in his hands instead, and the boy held it the
 way he held everything — seriously, exactly, as if the weight of the
 thing had been waiting for him to understand it.
+
+He was small for it. Everyone said so, and no one said it to the boy,
+because the boy had a way of receiving observations that made grown men
+feel they had been the ones observed. He did not swing. He stood at the
+anvil's edge while his father worked — three strokes, turn, quench,
+three strokes — and when he was set to the bellows he worked the
+bellows exactly, and when he was sent for water he came back with the
+bucket full and not spilled, and if a tool was in the wrong place he
+put it in the right place without being asked, which is the most
+unnerving thing a child can do in a workshop.
+
+"You watch too much," his father told him once, without turning.
+
+"Yes," said the boy, and did not stop.
+
+The sparks came down orange in the dim. The forge breathed. Outside,
+the village went about its business, and inside the crudest house on
+the west side a child with folded hands and his mother's careful face
+learned the grammar of fire secondhand — heat, distance, patience,
+iron — the way another child somewhere across the village was learning
+it directly, without knowing there was a grammar at all.
 
 That winter, smoke stood over the west-side house the way it always did.
 
@@ -203,6 +266,32 @@ what she saw, because she had learned early that the world told you what
 it wanted you to be, and her job was to know the difference before he
 did.
 
+Spring: the river came up and he came up with it, first in and last
+out, and came home with his teeth chattering and a grin he could not
+have stopped if the village elder had ordered it.
+
+Summer: he carried water the way other boys carried arguments — easily,
+one arm, talking the whole way — and the women at the well learned that
+sending "the warm one's boy" was worth two sendings of anyone else.
+
+Autumn: he fell out of the big oak by the west field, down through the
+branches like a sack of stones, and sat at the bottom of the tree
+considering the sky, and when the others came running he had already
+stood up, and the tear in his trousers was the only evidence, and by
+supper the scrape under it was a memory.
+
+Winter again: the open window, the frost on the sill, his breath that
+was not a cloud, and his mother's two fingers against his forehead at
+night, checking weather, saying nothing, filing her own long row of
+answers to questions she had not yet asked him.
+
+He did not know he was different. Children do not. He knew he was warm,
+the way he knew he had two hands — a fact about the world, requiring
+no comment. The other children were cold sometimes and not cold other
+times. He was warm. There was nothing to explain, and he explained
+nothing, and the village filled the silence the way villages do: with a
+shrug, and then with forgetting.
+
 On the west side, the blacksmith's boy grew too.
 
 They met the way the smallest things meet — by accident, which is to say
@@ -248,6 +337,33 @@ went inside, and nothing happened, which is to say the most important
 thing that had happened to either of them in four years happened, and
 the village did not notice, and did not need to.
 
+His mother asked him about the bucket that night, the way she asked him
+about everything — sideways, while he was eating, as if the question
+had wandered in by accident.
+
+"We carried it."
+
+"Both of you?"
+
+"Him and me. His hands were cold."
+
+"And yours were not."
+
+It was not a question. He looked up anyway, spoon halfway, and found
+her face in the lamplight wearing the expression he had never once
+seen her wear at the well or the door or the road — the expression that
+meant she had put something down and picked something else up, and was
+holding it carefully, and was not going to drop it.
+
+"No," he said. "Mine were not."
+
+"Eat," she said, and the expression closed like a hand, and the lamp
+burned, and outside the village went on with its evening — the forge
+ringing once more before dark, the elder latching his door, two
+children asleep in two houses on two sides of one road, each carrying
+the other's weight for exactly as long as it had taken to carry a
+bucket, and neither of them dreaming of it at all.
+
 And the village — three hundred souls, one sage's old name, one smith,
 one elder with white hair and an important manner — went on counting its
 children, and minding its own business, and waiting for nothing in
@@ -257,6 +373,31 @@ Under the same sky, in the same year, two boys who did not yet know each
 other's names were learning, separately, how to be alive in their bodies
 — one in the silence of a forge, one in the heat of a north-end house —
 while the road between them shortened by a few footsteps every season.
+
+The years are like that. They do not announce themselves. They arrive
+one bucket, one scrape, one cold morning at a time, and by the time you
+have counted them they have already made you.
+
+Somewhere in those years the village elders began saying, without
+saying, that the blacksmith's boy would amount to something — book
+learning, maybe, if anyone had the sense to spend on it. And they said,
+with the particular vagueness reserved for facts they did not enjoy,
+that the north-end one was *healthy*. Not smart, not clever: healthy.
+The way you call a horse healthy. The word followed the warm boy up the
+road and down the hill and into the river, and he wore it the way he
+wore everything — completely, without suspecting that other children
+were called other things.
+
+His mother heard the word too. She heard it the way you hear a door in
+the night — all of it at once. And she went on combing his hair in the
+evenings and asking him what he had learned, and the answers got longer
+and stranger year by year, because he answered seriously, and he had
+been paying attention to everything, and the two of them never once
+discussed the window or the river or the healed shins, because some
+conversations belong to the day when the world finally asks its
+question.
+
+That day had not come yet.
 
 The world had not begun arranging anything yet.
 
@@ -268,7 +409,8 @@ themselves.
 ## Footer
 
 - **Project state:** Chapter 1 rewritten to the author's structure
-  (birth foundation, fire-phoenix shape) — gated, band 2400–3400.
+  (birth foundation, fire-phoenix shape) — **gated PASS at 3702 words**
+  (band 3600–5000, R13 correction, receipts: the author's own chapters).
 - **Canon span touched:** Douluo novel ch1 era — Holy Spirit Village,
   Tang Hao's west-side forge, Tang San already the blacksmith's quiet son
   (receipts: `canon_coverage/Canon_Coverage_Chapter_01.md`).

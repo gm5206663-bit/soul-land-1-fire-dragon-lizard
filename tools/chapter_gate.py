@@ -22,7 +22,11 @@ import re
 import sys
 from pathlib import Path
 
-BAND_MIN, BAND_MAX = 2400, 3400          # R13
+# R13 default corrected 2026-10-03 against the AUTHOR'S REAL chapters:
+# his Chapter_01/02/03 = 4622 / 4154 / 3776 words (receipts: raw fetch
+# that date). The original 2400-3400 was an unchecked agent default the
+# author never typed; 'everything was wrong' + his practice corrected it.
+BAND_MIN, BAND_MAX = 3600, 5000
 # Paragraph advisory calibrated to the AUTHOR'S OWN STYLE, 2026-10-03:
 # his Chapter 1 (soul_land_4_fire_phoenix/chapters/Chapter_01.md) runs 272
 # non-empty blocks; the old 14-18 guess was never his voice. Warn-only —
@@ -115,7 +119,7 @@ def selftest() -> int:
             failed += 1
             print(f"  FAIL selftest: {name}")
 
-    t(BAND_MIN == 2400 and BAND_MAX == 3400, True)          # R13 band literal
+    t(BAND_MIN == 3600 and BAND_MAX == 5000, True)          # R13 band (corrected)
     t(words("one two three") == 3, True)
     t(words("【hello world】 kept now") == 2, True)          # panel stripped
     t(bool(re.search(BANNED_FAIL[0][0], "The System spoke")), True)
@@ -132,12 +136,12 @@ def selftest() -> int:
         (root / "foundation" / "OPEN_RULINGS.md").write_text("🔴 OPEN lane")
         t(len(check_stage0(root)[0]) == 1, True)            # red marker locks
     good = "word\n\n" * 17                                   # ~17 short blocks
-    good = " ".join(["filler"] * 2600).join(["\n\n"]) if False else ("filler " * 2600)
+    good = " ".join(["filler"] * 2600).join(["\n\n"]) if False else ("filler " * 3700)
     with tempfile.TemporaryDirectory() as d:
         p = Path(d) / "Chapter_01.md"
         p.write_text(good, encoding="utf-8")
         errs, _, _ = check_chapter(p)
-        t(len(errs) == 0, True)                              # 2600 words in band
+        t(len(errs) == 0, True)                              # 3700 words in band
         p.write_text("too short", encoding="utf-8")
         errs, _, _ = check_chapter(p)
         t(len(errs) >= 1, True)                              # under band fails

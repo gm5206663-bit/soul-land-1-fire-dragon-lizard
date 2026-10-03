@@ -75,3 +75,47 @@ on real evidence (the bucket was only the start), then the ceremony day
 itself: Su Yuntao, the black stones, Tang San's canon beat (grass, full
 innate, "what a pity"), then the OC last in the star. Canon beats stay
 canon; the OC never displaces them.
+
+## Chapter table (CHAPTER_COVERAGE_TEMPLATE, adopted 2026-10-03)
+
+| Field | Entry |
+|---|---|
+| Fic chapter | Chapter_01 — Two Beginnings (3702 words, gate PASS) |
+| Canon source consumed | None — birth foundation, pre-canon span (SWSEC ch.1 backdrop only: village, year-1 awakening frame) |
+| Source fetch | n/a — foundation chapter; all content original, screened against BANNED_TOKENS |
+| Branch status | Baseline branch established; no canon character age-shifted |
+
+### Beats consumed in order
+| # | Beat | Keep/compress/expand | Why |
+|---|---|---|---|
+| 1 | Womb winter scene (heat, no dawn) | expand | Birth-foundation requirement of the fire-phoenix anatomy |
+| 2 | Birth + midwife farewell | keep | Establishes "arranged since birth" |
+| 3 | Village counted / Jack / well women | keep | Living stage, not a stat sheet |
+| 4 | West side: forge, hammer | keep | OC mirrored against canon smithy without touching it |
+| 5 | Years montage + bucket day | expand | First OC↔Tang-San contact beat (canon ch.1 relationship seed) |
+| 6 | Two beginnings coda | keep | His structure: parallel open, converge later |
+
+### Scene ledger
+| Location | Time | Present | Positions |
+|---|---|---|---|
+| North-end house, Seville | Midwinter night → dawn | OC, mother, midwife, father | OC born, arranged |
+| Well / village lanes | Winter → years | Women, Jack, villagers | OC center-normal, cold anomaly |
+| West-side forge | Years | Tang Hao (distance), Tang San (absent) | Canon side untouched |
+| River / road / bend | Years | OC + Tang San | Bucket crossing — first contact |
+
+### Knowledge delta
+| Who learns | Before | After | Earliest valid change |
+|---|---|---|---|
+| OC's mother | Child is "healthy" | Child is warm-blooded (never stated aloud) | First night, filing only — no confrontation yet |
+| Village | — | "Healthy" as a euphemism | Ongoing; no one confronts |
+| Tang San | No OC known | OC exists (bucket) | Beat 5 |
+
+### Power check
+| Rank/SP before | Change | Floor/Ceiling |
+|---|---|---|
+| None (infant) | No soul power; body heat only | No ring, no evolution, no figure in prose (R11) |
+
+### Butterfly register
+| Event | Divergence | Status |
+|---|---|---|
+| OC presence at bucket day | OC saves Tang San — canon-adjacent, non-contradicting | Logged (BUTTERFLY_EFFECTS deleted; row lives here) |

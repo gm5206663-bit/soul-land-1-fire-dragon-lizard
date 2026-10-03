@@ -18,7 +18,7 @@ The author's exact words for every ruling are in `RULINGS_LOG.md`.
 | R10 | Talent module | The locked universal adaptation core; never named in prose |
 | R11 | Voice | Third-limited OC, past, plain and clear; numbers in STATUS |
 | R12 | Direction | **"Full start: close R12 with defaults + build the chapter gate"** (his selection) → canon road + natural consequences. Blank-sentence format rejected and banned |
-| R13 | Chapter band | 2400–3400 words (gate-enforced) |
+| R13 | Chapter band | Default 2400–3400 **corrected same day** to **3600–5000** — receipts: the author's own chapters are 4622/4154/3776 words (RULINGS_LOG R13 correction) |
 
 ## Before the next chapter
 

@@ -199,3 +199,22 @@ Stage 0, drafting unlocks.
 mine to find, through iteration. The style reference is his own serial:
 `soul_land_4_fire_phoenix` Chapter 1 (plain prose, concrete talent beats,
 family core, dialogue-first, structured Footer).
+
+---
+
+## R13 correction — the band (2026-10-03, receipts not guesses)
+
+**What happened:** R13's band (2400–3400) was an agent recommendation
+taken with the defaults package — the author never typed those numbers,
+and the agent never measured the author's own chapters first.
+
+**Receipts:** his `Chapter_01` = **4622 words**, `Chapter_02` = **4154**,
+`Chapter_03` = **3776** (raw fetch, 2026-10-03). Every chapter he writes
+sits above the old cap.
+
+**Signal:** the author's "Complete everything was wrong" plus
+"find out yourself, try again and again" — thin chapters were part of it.
+
+**Corrected band: 3600–5000 words**, enforced by `tools/chapter_gate.py`
+(selftest updated). Stricter minimum, roomier maximum, matched to his
+practice. If the author ever types different numbers, his numbers win.
