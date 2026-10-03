@@ -54,16 +54,16 @@ def paragraphs(text: str) -> int:
     return len([b for b in re.split(r"\n\s*\n", text) if re.search(r"\S", b)])
 
 
-def check_stage0(root: Path) -> list[str]:
-    errs = []
+def check_stage0(root: Path) -> tuple[list[str], list[str], list[str]]:
+    errs: list[str] = []
     open_file = root / "foundation" / "OPEN_RULINGS.md"
     if not open_file.exists():
         errs.append("foundation/OPEN_RULINGS.md missing — no foundation, no chapters")
-        return errs
+        return errs, [], []
     text = open_file.read_text(encoding="utf-8")
     if "🔴" in text:
         errs.append("foundation/OPEN_RULINGS.md still carries a red-lane marker — drafting locked (Stage 0)")
-    return errs
+    return errs, [], []
 
 
 def check_chapter(path: Path) -> tuple[list[str], list[str], list[str]]:
@@ -124,9 +124,9 @@ def selftest() -> int:
         root = Path(d)
         (root / "foundation").mkdir()
         (root / "foundation" / "OPEN_RULINGS.md").write_text("all ruled ✅")
-        t(check_stage0(root) == [], True)                   # no red marker
+        t(check_stage0(root)[0] == [], True)                # no red marker
         (root / "foundation" / "OPEN_RULINGS.md").write_text("🔴 OPEN lane")
-        t(len(check_stage0(root)) == 1, True)               # red marker locks
+        t(len(check_stage0(root)[0]) == 1, True)            # red marker locks
     good = "word\n\n" * 17                                   # ~17 short blocks
     good = " ".join(["filler"] * 2600).join(["\n\n"]) if False else ("filler " * 2600)
     with tempfile.TemporaryDirectory() as d:

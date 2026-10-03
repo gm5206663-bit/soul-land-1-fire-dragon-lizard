@@ -7,13 +7,14 @@ both.**
 
 ## 1. State of the serial
 
-- **Stage 0 COMPLETE — 13 of 13 lanes ruled (2026-10-03). Zero chapters;
-  drafting unlocks on `foundation_gate.py` PASS; chapter 1 waits for the
-  author's word.**
+- **Stage 0 COMPLETE — 13 of 13 lanes ruled; Chapter 1 written and gated
+  (Chapter_01, 2444 words, band PASS). Chapter 2 waits for the author's
+  word; coverage file first, gate before present.**
 - **R12 direction: RULED** — fire-phoenix pattern (canon road in parallel +
   natural butterflies under the No-Fix Law); the author's selection
   verbatim: "Full start: close R12 with defaults + build the chapter gate".
-- **Chapter gate built:** `tools/chapter_gate.py`, band 2400–3400 (R13).
+- **Chapter gate:** `tools/chapter_gate.py`, band 2400–3400 (R13) —
+  selftest 14/14.
 
 ## 2. Hard bans
 

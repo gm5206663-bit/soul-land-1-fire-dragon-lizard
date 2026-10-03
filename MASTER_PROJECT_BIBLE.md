@@ -10,18 +10,20 @@ Pattern learned from `soul_land_4_fire_phoenix` → `MASTER_PROJECT_BIBLE.md`
 
 ## 1. Current artifacts
 
-- Latest prose: **none — zero chapters, drafting locked.**
-- Foundation: 20 files + `bible/` (PROTAGONIST, ADAPTATION_TALENT) +
-  `canon_coverage/` protocol home.
-- Latest validation: `foundation_gate.py` PASS (locked state correct).
-- Canon consumed for prose: **none** (research receipts only, in
-  `CANON_GROUND.md`).
+- Latest prose: `chapters/Chapter_01.md` — **"The Lizard and the Grass"**
+  (gated PASS 2026-10-03; 2444 words; coverage-first).
+- Latest coverage: `canon_coverage/Canon_Coverage_Chapter_01.md`.
+- Foundation: 20 files + `bible/` + `canon_coverage/` protocol +
+  `tools/chapter_gate.py` (selftest 14/14).
+- Canon consumed for prose: Douluo ch1 (+ corroborated ch2 ceremony
+  details) — receipts in the coverage file.
+- Next: Chapter 2 — new coverage file BEFORE prose, on the author's word.
 
 ## 2. Current fic/canon sequence
 
 | Fic chapter | Canon source consumed | Status |
 |---:|---|---|
-| — | — | sequence begins after Stage 0 closes |
+| 1 | Douluo ch1 (village, Jack, invite) + ceremony mechanics (corroborated ch2) | shipped, gated PASS |
 
 ## 3. Current edge
 

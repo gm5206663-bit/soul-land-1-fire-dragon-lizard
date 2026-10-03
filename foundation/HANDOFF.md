@@ -1,8 +1,9 @@
 # HANDOFF — if you are writing the next chat, read this first
 
-**Current state: Stage 0 COMPLETE — 13 of 13 lanes ruled. Zero chapters.
-Gate built (`tools/chapter_gate.py`, band 2400–3400); drafting unlocks on
-`foundation_gate.py` PASS; chapter 1 waits for the author's word.**
+**Current state: Stage 0 COMPLETE (13/13) and Chapter 1 shipped —
+`chapters/Chapter_01.md` "The Lizard and the Grass", gated PASS (2444
+words), coverage-first. Chapter 2 waits for the author's word; then
+coverage before prose, gate before present.**
 
 1. **R12 is ruled: the fire-phoenix pattern** (canon road in parallel +
    natural butterflies under the No-Fix Law) — author's selection verbatim:

@@ -53,3 +53,20 @@ Append future events below, newest last. Never rewrite history.
   TIMELINE, STORY_ARCS, CHARACTERS, RELATIONSHIPS, CODEX).
 - Drafting unlocks on `foundation_gate.py` PASS; chapter 1 waits for the
   author's word.
+
+## 2026-10-03 (chapter 1)
+
+- Author's word: **"Write"** → Chapter 1 opened. Coverage written FIRST
+  (`canon_coverage/Canon_Coverage_Chapter_01.md` — Douluo ch1 receipts +
+  corroborated ceremony mechanics; disputed details excluded).
+- **`chapters/Chapter_01.md` — "The Lizard and the Grass"** — coverage-
+  first, third-limited OC POV, 2444 words, two gain-beat panels.
+  `tools/chapter_gate.py`: **PASS (0 errors, band 2400–3400).**
+  Ceremony: Su Yuntao, black stones, golden motes, blue crystal —
+  Tang San's canon beat intact (Blue Silver Grass → innate full → "what a
+  pity"), then the OC last: Ground Fire Dragon Lizard, innate mid (no
+  digit written). D1 earned on page.
+- Mirrors synced same turn: STATUS v2, README, MASTER_PROJECT_BIBLE,
+  NO_MISTAKE, HANDOFF, CODEX.
+- Next: chapter 2 on the author's word; coverage before prose; gate
+  before present.

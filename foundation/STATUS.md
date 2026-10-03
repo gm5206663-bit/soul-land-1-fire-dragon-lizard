@@ -1,7 +1,7 @@
 # STATUS — Fire Dragon Lizard — single current-truth source
 
-> **Snapshot v1 — FOUNDATION, PRE-CHAPTER. 2026-10-03.** Stage 0 **COMPLETE:
-> 13 of 13 ruled**; gate ordered built; drafting unlocks on gate PASS.
+> **Snapshot v2 — POST-CHAPTER. 2026-10-03.** Stage 0 complete (13/13) and
+> **Chapter 1 written and gated** (`Chapter_01` — 2444 words, band PASS).
 > **This is the most important file in the serial.** When anything changes in
 > the story, this file changes the same turn. Everything else may be rebuilt from this file plus the chapters; this
 > file may never be rebuilt from memory.
@@ -10,9 +10,12 @@
 
 ## Window
 
-- **Live edge:** none. Zero chapters. All thirteen lanes ruled 2026-10-03 —
-  **Stage 0 complete**; `tools/chapter_gate.py` built per the author's
-  "Full start" selection (R12, R13).
+- **Live edge:** `chapters/Chapter_01.md` — "The Lizard and the Grass"
+  (2026-10-03, gated PASS: 2444 words). Coverage:
+  `canon_coverage/Canon_Coverage_Chapter_01.md`. Day-0 ceremony complete:
+  the OC's Ground Fire Dragon Lizard awakened, innate reads **mid** (5–7);
+  Tang San's canon beat intact (Blue Silver Grass + innate full power).
+  Zero rings for everyone.
 - **Clock:** day 0 = the age-6 awakening, **Douluo Calendar 2637** — the
   same ceremony Tang San sits (R3; receipt: Baidu Baike "In 2637 of the
   Douluo Calendar, Tang San was six years old").
@@ -53,8 +56,9 @@
 
 | Who | Where | State |
 |---|---|---|
-| the OC (unnamed) | Holy Spirit Village | age ~6 at day 0; Ground Fire Dragon Lizard; innate 5–7; zero rings |
-| Tang San | Holy Spirit Village, the blacksmith's house | canon child, canon untouched (R7) |
+| the OC (unnamed) | Holy Spirit Village | **awakened D0:** Ground Fire Dragon Lizard (fire beast, Power Attack), innate **mid (5–7)**, zero rings; the lizard rides his shoulder; village expectation forming (D1 butterfly live) |
+| Tang San | Holy Spirit Village, the blacksmith's house | canon beat intact: Blue Silver Grass + innate full power, undismayed, second soul secret untouched (R7) |
+| Su Yuntao | Nuoding Spirit Sub-Hall — departed | ran the ceremony (canon); noted the OC's "mid + fire beast" before leaving (design detail) |
 | Tang Hao | west side, the crudest house | the village's only blacksmith (canon receipt) |
 | Old Jack | the village | village elder, runs the awakening ceremony (canon receipt) |
 | mother of the OC | village (PRE2 — womb talent) | no ruling beyond existence; write nothing further |
@@ -63,9 +67,10 @@
 
 | # | Canon says | We say | Earned how | Receipt |
 |---|---|---|---|---|
-| D1 | Tang San has no named childhood friend in the village | the OC is his childhood friend | premise (PRE2) | never displaces his beats — R7 |
+| D1 | Tang San has no named childhood friend in the village | the OC is his childhood friend | premise (PRE2); **earned on-page in Chapter 1** (walk, wall wait, road home) | never displaces his beats — R7 |
 
 ## Numbers, if any
 
 Exact figures live here and in the ledgers — never in chapter prose (R11).
-Day-1 numbers listed under Window. **No System meters exist (PRE4).**
+Innate reading written as **"mid"/steady glow** only — the digit exists
+nowhere in prose, per the same rule. **No System meters exist (PRE4).**

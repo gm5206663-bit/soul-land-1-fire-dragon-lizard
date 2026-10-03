@@ -11,6 +11,7 @@ Read order: RULINGS_LOG → OPEN_RULINGS → STATUS → the rest → HANDOFF las
 | 2026-10-03 | **R12 OPEN** — author's answer to the spine question: **"What"** (verbatim); re-asked in plainer words; drafting stays locked | `OPEN_RULINGS.md`, `RULINGS_LOG.md` |
 | 2026-10-03 | **Round 3 — author rejected the blank-sentence spine format** (verbatim in RULINGS_LOG) and ordered the fire-phoenix project studied; useful parts only adopted: `bible/ADAPTATION_TALENT.md`, `bible/PROTAGONIST.md`, `NO_MISTAKE_LIVE_RULES.md`, `BUTTERFLY_EFFECTS.md`, `canon_coverage/` protocol, cockpit README/bible, pacing rule. R12 reframed = fire-phoenix pattern | `RULINGS_LOG.md` Round 3 |
 | 2026-10-03 | **R12 RULED — author's selection verbatim: "Full start: close R12 with defaults + build the chapter gate."** Direction = fire-phoenix pattern; band 2400–3400 applied; `tools/chapter_gate.py` built; **13/13 — Stage 0 complete** | `RULINGS_LOG.md` R12, `OPEN_RULINGS.md` |
+| 2026-10-03 | **Chapter 1 written and gated** — author's word "Write"; coverage-first (`Canon_Coverage_Chapter_01.md`), `Chapter_01` 2444 words band PASS, STATUS v2 synced | `chapters/Chapter_01.md`, `SERIAL_LOG.md` |
 
 ## Index
 

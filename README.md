@@ -1,9 +1,9 @@
 # soul-land-1-fire-dragon-lizard — Stage 0 foundation
 
-**Status: STAGE 0 COMPLETE — 13 of 13 lanes ruled (2026-10-03). Gate built
-(`tools/chapter_gate.py`, band 2400–3400). Drafting unlocks on
-`foundation_gate.py` PASS; chapter 1 waits for the author's word. Zero
-chapters right now — by design.**
+**Status: STAGE 0 COMPLETE + CHAPTER 1 WRITTEN AND GATED. 13/13 lanes
+ruled. Live edge: `chapters/Chapter_01.md` — "The Lizard and the Grass"
+(2444 words, band PASS, coverage-first). Chapter 2 waits for the author's
+word.**
 
 The serial: a **new Soul Land 1** line — the OC is the same age as Tang San,
 from **Holy Spirit Village**, his **childhood friend**, with the **Ground
@@ -29,5 +29,5 @@ naturally, this is rule.*
 
 ## Next step
 
-`foundation_gate.py` PASS → Stage 0 closes → drafting unlocked →
-chapter 1 on the author's word ("write").
+`foundation_gate.py` PASS ✅ → Stage 0 closed ✅ → drafting unlocked ✅ →
+**Chapter 1 shipped (gated)** → chapter 2 on the author's word ("write").
