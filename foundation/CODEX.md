@@ -28,4 +28,7 @@ Read order: RULINGS_LOG → OPEN_RULINGS → STATUS → the rest → HANDOFF las
 | POWER_LAW / SKILLS_CANON / RAILS | strength, skills, voice |
 | STORY_ARCS / PANELS / PLACES / GLOSSARY | the rest of the skeleton (kept plain on purpose) |
 | SERIAL_LOG | this serial's chronology |
+| storyos/ | universal NO_MISTAKE (R01–R24) + BANNED_TOKENS regression list |
+| audits/ | validation receipts |
+| canon_coverage/ | 6-part receipts written before prose (+ index) |
 | HANDOFF | the guard rails for whoever writes next |

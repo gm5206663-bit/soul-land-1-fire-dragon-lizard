@@ -1,358 +1,287 @@
-# Chapter 1: The Fire in the Star
+# Chapter 1: Two Beginnings
 
-He woke because the house was cold and he liked it that way.
+The winter before he was born was the warmest his mother could remember.
 
-The window had been open all night. Frost sat on the sill like a thin
-white rime, and his breath should have been a cloud, and it was not. This
-was ordinary to him. It had always been ordinary. Other children shoved
-their hands into their sleeves in the cold season; he walked out with his
-arms loose and his skin warm, and the village had learned to call that
-healthy, because healthy was simpler to say than anything truer.
+Not warm the way summers were warm. Warm the way a room is warm when
+someone in it is paying attention. She noticed it first in the mornings:
+frost on the window, cold air in the doorway, and her own hands steady
+when other women's hands were blue. She noticed it in the evenings: a
+heat under her ribs that did not come from the fire and did not go when
+the fire did.
 
-Under the blankets, his ribs held a low heat the way a banked forge held
-an ember. Not burning. Waiting.
+The village said she was carrying well. Her mother-in-law — gone three
+winters now, so there was no one to say it — would have said the child
+was looking after her.
 
-"Window again."
+That was closer to the truth than anyone knew.
 
-His mother stood in the doorway with two bowls in her hands. She said it
-the way she always said it — not angry, just filing the fact. She had
-dark working hands and a quick way of moving, and she had never once
-told him to be careful. That was the thing about her. Other mothers
-pulled their children back from the river and the hill. His mother looked
-at the healed scrapes on his shins, looked at the window in winter, and
-only ever asked him what he had learned.
+She still worked, because a village house does not feed itself. She
+carried water until the month before the birth, and the women at the
+well watched her hands and remarked, more than once, that some people
+were simply built lucky. Her hands were never blue that winter. When
+the wind came down off the fields with ice in it, the other women swore
+and pulled their sleeves down, and she stood a moment longer than she
+needed to, feeling the cold the way you feel a knock on a door you
+already know is there — acknowledged, considered, closed.
 
-"I was hot," he said.
+Inside her, the child did not think. Thinking came later, with breath
+and language and the long patient work of becoming a person. What
+happened inside her was older than thinking. Heat would rise in her, the
+way heat rises in a woman who works all day over a cooking stone, and
+the heat would find the edge of itself and settle. Cold would press in
+through the wall, and something small would turn toward it, test it, and
+turn away again, unhurried, as if the cold were only a question that had
+already been answered.
 
-"You are always hot."
+Hold. Release. Soften. Strengthen.
 
-"That is why the window."
+Not a lesson. No one gave the lesson. There was no voice and no plan —
+only a body meeting pressure before it had ever seen light, and learning
+the shape of the world the only way anything ever learns it: by
+correcting, again and again, until correction becomes nature.
 
-She set the bowls down and put the back of two fingers against his
-forehead the way she had done since he was small, checking him the way
-other mothers checked the weather. Her hand was cool. His skin did not
-fight it. Some mornings she left her fingers there a moment longer than
-she needed to, and he had never asked why, because he was six and he
-already understood that some questions were really other things.
+His mother slept better than she should have. She woke once in the night
+and pressed her hand against the swell of herself and felt the small,
+steady heat on the other side of her palm, and she was not afraid, and
+she did not know why she was not afraid.
 
-"Eat," she said. "Today is the day."
+"You are going to be warm," she told the dark, "all your life."
 
-He ate.
-
----
-
-The boy called Xiao San was already at the bend in the road.
-
-Tang San stood where the ruts went soft with a straight back and his
-hands folded the way old men folded their hands, which was exactly the
-kind of thing that made you want to push him into a bush. He had been
-awake for an hour. He had probably been awake since the second night of
-his life.
-
-"You are late," Tang San said.
-
-"I am on time. You are early."
-
-"That is the same thing said badly."
-
-"It is the same thing said correctly."
-
-Xiao San's mouth moved the way it moved when he wanted to smile and had
-decided to postpone it. They fell in together on the road. They had
-walked this road together since before walking was a skill — to the well,
-to the hill, to the river in summer, to the blacksmith's door and away
-from it again — and the village had long since stopped finding it strange
-that the blacksmith's quiet son and the warm-blooded boy from the
-north-end house went everywhere in a pair.
-
-Old Jack found them there. The village elder had his white hair combed
-flat and his best walking stick and the important face he wore once a
-year.
-
-"Come along, both of you. The spirit master is already at the hall."
-
-"He walked?" Tang San asked.
-
-"He walked from Nuoding before dawn, and I would thank you to look
-grateful when you see him." Old Jack led them off, talking the whole way
-the way he always did — about the ceremony, about what it meant, about
-how every child carried a spirit sleeping inside them until the awakening
-year called it out. He said a real spirit master would be doing the
-channeling today. A lord attendant from the Spirit Sub-Hall itself. He
-said the words "Spirit Grandmaster" the way other men said the names of
-gods.
-
-Both boys said the correct thing. Neither of them heard it.
+The dark did not argue.
 
 ---
 
-The spirit hall was a wide wooden house at the center of the village,
-and it was full.
+He was born in the north-end house, in the ordinary way, in the morning.
 
-Every child of the year stood in a nervous line, and behind them packed
-the whole world that mattered: the old women with their arms folded, the
-men leaning in the doorway with their work hats still on, mothers with
-babies on their hips. In the middle of the floor the black stones lay set
-in their star, worn smooth by every awakening that had come before this
-one.
+The midwife came through the cold with her bag and her calm face and did
+not hurry, because nothing about this birth asked her to hurry. The pain
+was real — his mother would say later that pain was pain, and a person
+who claimed otherwise was selling something — but the labor was short,
+and steadier than the midwife expected, as if the child had decided some
+time ago how this would go.
 
-Su Yuntao did not look like a god. He looked like a tired man in white
-who had walked a long road between villages. He nodded at Old Jack, told
-the children to stop shuffling, and raised his spirit to open the
-ceremony — and the room changed. His shadow thickened. Hair crawled up
-his forearms. Claws tipped his fingers for just a breath, and two rings
-rose into the dim, a white one and a yellow one, turning slow. The
-children went quiet. The old women bowed their heads.
+When he came out, he was red-faced and furious at the air, the way all
+babies are furious at the air. He made his complaints. Then he stopped —
+not all at once, not politely, but the way a fire settles when someone
+puts a lid on it: reluctantly, completely, with one last small
+tremble.
 
-Then he was only a man again, and the first child stepped into the star.
+"He has a good set of lungs," the midwife said, wrapping him.
 
-The awakenings were quick and mostly sad. Golden motes of light rose from
-the stones, drifted into each child, and brought out whatever had been
-sleeping there: a sickle, a hoe, a sprig of blue grass thin as a weed.
-After each one, Su Yuntao held out the blue crystal ball. After each one,
-the ball stayed dark.
+His mother took him against her chest. His skin was hot against hers.
+Not fever. Not the dry, wrong heat of a sick child. The heat of a small
+body that had already decided, before anyone taught it, exactly how much
+warmth it meant to keep.
 
-"No soul power," he said each time, already looking past the child.
-"Next."
+"Hello," he said to her — no, that came later. First there was only the
+look: the whole unfinished face of him turned toward the warmth he had
+known before language, before light, before any of it.
 
-The words came out like a man counting out small change. The line
-shortened. The room got quieter. The boys and girls who failed went to
-stand by the wall with the careful faces of people who had just been
-told, kindly and forever, what the rest of their lives looked like.
+"Hello," she said anyway.
 
-Then it was Xiao San's turn.
+He had stopped being angry. He was listening, in the way newborns listen
+— with the whole unfinished surface of himself. The room was cold. The
+room was loud. The room was a strange new place full of edges. His fists
+curled once, opened, and settled against his mother's heart, and the
+small heat that had lived under her ribs for nine months moved without
+hurrying into the place where it belonged.
 
-Tang San walked into the golden light with that level step of his, and
-the motes went into him, and for one breath the light lingered on him
-longer than it had on anyone else. A small blue thing grew out of his
-palm — delicate, alive, blue-green in the gray morning.
+The midwife looked at the two of them for a moment.
 
-Su Yuntao's face closed like a door.
+"Well," she said. "He likes you."
 
-"Blue Silver Grass." The disappointment was so plain in his voice that
-it was nearly cruel. "A grass spirit. No attack, no defense, nothing a
-spirit master could use. A standard trash spirit, boy — do not build
-hopes on it."
+"He knows me," his mother said.
 
-"The spirit is mine," Tang San said. His voice was even. "May I test the
-soul power anyway?"
+The midwife packed her bag in the unhurried way of a woman who has
+heard a thousand first days and found most of them the same. At the
+door she paused, the way people pause at this particular door, and
+looked back at the bundle against the woman's chest.
 
-"Testing will not change the grass."
+"He settled fast," she said. "Most of them fight the cold for a good
+while. He tested it and let it go."
 
-"May I test it anyway?"
+"Children are different."
 
-Su Yuntao shrugged him in, more out of exhaustion than kindness, and
-held out the blue crystal. Tang San set his hand against it.
+"Some are," the midwife said. She meant it as a courtesy. She did not
+know how right courtesy can be. The door closed behind her and the
+house went quiet, and outside the winter went on with its own business,
+and inside the north-end house a child who had entered the world that
+morning lay against his mother's heart and arranged the small country
+of his body for the first time in the open air — hold, release, soften,
+strengthen, live — as if nothing about the arrangement were new.
 
-The room went bright.
+That was the whole of it. No one wrote anything down. No one called a
+spirit master. There was no sign over the child, no mark on his palm, no
+old woman prophesying at the door — only a cold morning, a short labor,
+and a baby who had entered the world and immediately begun putting it in
+order.
 
-Not a child's small half-light. This was the brightness of a window when
-the sun clears the roof — it poured across the black stones and over the
-folded arms of the old women and lit every face in the wooden room like a
-jewel. Su Yuntao jerked his hand back as if the ball had scorched him.
+In the village of three hundred souls south of Nuoding, that was a birth
+like any other.
 
-"Innate full spirit power," he said. He said it like a sentence he did
-not enjoy reading. "Full — do you understand what full means? And it came
-with *grass*." He looked at Tang San a long moment. "What a pity. What a
-genuine pity. Stand to the side."
-
-Tang San bowed out of habit and walked to the wall. He did not look
-disappointed. He looked the way he looked when a sum came out exactly as
-he had calculated — and the boy at the back of the line caught his eye
-across the room, and the two of them had a whole conversation without
-saying anything, which was the only kind of conversation Tang San was
-ever any good at.
-
-"Last one," Su Yuntao said. "Come on, then."
-
-The boy stepped into the star.
-
-The black stones were warm under his bare feet — warmer than the room
-had any right to be, as if the stone remembered every soul it had ever
-waked and had kept a little of each. He stood up straight. He did it the
-way Xiao San did it, on purpose, because some things were worth doing
-straight.
-
-The golden motes rose and went in.
-
-What came with them was heat.
-
-Not fire. Heat the way his body had always known it — the heat that had
-kept him awake by open windows in winter, the heat that had closed the
-scrapes on his shins by morning, the heat that had pulled him out of the
-river while the other children were still screaming about the cold. It
-settled into his chest the way a coal settles into a banked forge: low,
-patient, sure. He had felt it every day of his life. He had never needed
-a name for it, because it had never once been a question.
-
-It gathered now. It rose. It reached his open right hand — and the light
-burst out of the black stones like the star had caught fire.
-
-The crowd made one sound.
-
-In his palm stood a lizard no longer than his forearm, scales the color
-of a banked ember down its back, small claws curled, ember-bright eyes
-opening to look at the room without asking the room's permission. Heat
-breathed off it and curled up into the air. The air itself shimmered,
-thin and bright, above the black stones. Somewhere in the line a mother
-took a step backward. The old women leaned in past each other's
-shoulders. Nobody said no soul power. Nobody said anything about grass.
-
-Su Yuntao took one step back — the first step he had taken all morning —
-and then caught himself doing it.
-
-"Fire lizard," someone breathed in the doorway, and then the whole
-doorway was talking at once. A beast spirit. A fire-attribute beast
-spirit. A beast spirit in *their* village, in a year when the crystal had
-said no to every child who had stood in that star.
-
-The lizard turned its head and looked at Su Yuntao.
-
-It did not hiss. It did not bow. It simply looked, with the calm
-attention of a small living furnace deciding whether the man was worth
-its heat, and something in the spirit master's face changed from surprise
-to something he had not worn since he walked into the room.
-
-"Beast spirit," he said. "Fire attribute. Attack type." He held out his
-arm. "Give me the crystal. Slowly."
-
-The boy handed it over without hurrying. Su Yuntao pressed it into his
-palm.
-
-The blue light rose — steady, even, honest. It filled the glass and
-stayed there without straining, without ever flooding: not the dead dark
-of the children before him, and not the wild, wasting blaze of the boy
-at the wall. A clean, level glow. Mid.
-
-"Mid," Su Yuntao said.
-
-He looked from the crystal to the lizard to the boy, and the calculation
-went on longer this time.
-
-"Mid soul power. A fire beast with an attack body." He let out a breath
-through his nose, almost a laugh, as if the road between villages had
-just paid him back for a month of no-account children. "Boy, you could
-cultivate. A fire beast and mid power — there is a real road for that.
-Straight road." He let go of the crystal. "Do not waste it."
-
-Behind the line, the old women were talking about it the way villages
-talk about things — fast, all at once, with opinions. The men in the
-doorway had forgotten to look solemn. Two mothers leaned together and
-did not lower their voices enough, and one of them said the blacksmith's
-boy had lit the room like a window, and the other said *yes, and did you
-see what the other one woke*, and both of them were right, and neither of
-them was the whole of it.
+It was not a birth like any other.
 
 ---
 
-Outside, the cold air hit his face and felt good.
+Across the village, on the west side where the road turned bad, smoke
+stood over the crudest house in Holy Spirit Village.
 
-The children spilled out of the wooden hall in a knot of noise. The boy
-waited on the step until Xiao San came out, and they walked the first
-stretch of the road the way they always walked it — side by side, not
-hurrying.
+The blacksmith worked the way he always worked: early, late, and without
+conversation. He was the only smith the village had, which meant the
+village came to his door with broken plows and bent nails and opinions
+about his prices, and left with the uneasy feeling that the man had not
+heard a word. He had a son already — a small, quiet boy with his
+mother's eyes, if the village remembered his mother at all, which it did
+not, because he never talked about her and the village had learned not
+to ask.
 
-"You were not upset," the boy said.
+The boy was a good child. Too still. Too polite. He watched things. He
+had a way of standing in the forge doorway with his hands folded like an
+old man while the sparks came down, and if you asked him what he wanted
+to be, he gave you an answer so sensible it made you want to push him
+into the river.
 
-"No."
+His father did not push him into rivers.
 
-"Because you knew it would be grass."
+His father put a hammer in his hands instead, and the boy held it the
+way he held everything — seriously, exactly, as if the weight of the
+thing had been waiting for him to understand it.
 
-"Because it is mine," Tang San said. He considered this, the way he
-considered everything, fully. "A spirit that is mine is worth more than a
-spirit that would have been better." Then, in a lighter voice: "Your
-light made the spirit master step back."
+That winter, smoke stood over the west-side house the way it always did.
 
-"He stepped back on his own."
+The village counted its children that year and added one to the north
+end and one already standing at the west side, and thought nothing more
+of it, because villages count children the way rivers count stones — as
+a matter of course, without wonder, until one of them turns out to be
+something other than a stone.
 
-"He has never stepped back for a child in his life. I watched the line."
+On the eighth day, the women came the way women come, with soup and
+opinions and names they had already prepared. The mother thanked them
+for the soup. She declined the names. This caused mild offense, which
+she absorbed the way she absorbed weather, and by the second week the
+women at the well had settled on calling the baby "the warm one," which
+was not a name either, but it was what everyone actually meant, and in
+a village that is nearly the same thing.
 
-"Maybe he was warm. It was warm in there." The lizard shifted on the
-boy's shoulder — it had climbed up at some point without being invited,
-and his shoulder had accepted it the way it accepted everything. "I am
-always warm."
+Old Jack came to see the child, because that was his habit and his
+office — the elder counts what the village adds. He stood in the
+north-end doorway with his white hair and his patience, looked at the
+bundle, looked at the mother, and said the appropriate things in the
+appropriate order.
 
-"Always," Tang San agreed, with the particular flatness of a boy who had
-been stating this fact for years.
+"Strong lungs," he said.
 
-They walked on. Behind them, the village was already doing what villages
-do with news: it moved from the doorway to the wall to the well and back
-again, gathering edges as it went, until by the time the two boys reached
-the west side, where the blacksmith's chimney stood against the gray, the
-story had already decided that the year of no-souls had ended with a
-window-light and a fire lizard.
+"So I am told."
 
-At the north-end house, his mother was standing in the doorway.
+"A good winter for it. Hard winters thin out the weak ones. This one
+came in arguing." He nodded, satisfied, and went about his counting.
+West side, he would have said, if anyone had asked him to compare — the
+blacksmith's boy watches the door; the north-end boy warms it. But no
+one asked elders to compare, and the village went on minding its own
+business.
 
-She had not gone to the hall. She had said all along that she would wait
-at home, in the way of a woman who had learned that some doors were
-better watched from her own — and now she stood with her arms folded the
-way old women folded theirs, and her cool hands were against his forehead
-before he had said anything at all, checking weather the way she always
-checked weather, and this time her fingers stayed there.
+---
 
-"Well?" she said.
+The years after were ordinary, and ordinary was the point.
 
-"It went well."
+He grew the way children grow — fast, sideways, mostly upward — and he
+grew warm. The window stayed open in his mother's house in every season,
+and the neighbors shook their heads, and she stopped explaining. He fell
+from the wall by the well and scraped the skin off his shin, and by the
+morning the scrape was closed, and she looked at it for a long time and
+said only: "Boots." He went in the river in the cold month with the
+other children and came out screaming with laughter while the others
+came out blue, and his mother heard about it from three separate women
+and did not punish him, which surprised the village more than the river
+had.
 
-"Show me."
+She watched. That was what she did. She watched the way he warmed
+himself against the fence in the sun like a cat, the way he recovered
+before anyone had finished worrying, the way he stood straighter than he
+had been taught to — she watched, and filed, and did not say most of
+what she saw, because she had learned early that the world told you what
+it wanted you to be, and her job was to know the difference before he
+did.
 
-He opened his hand. The lizard lifted its head in the doorway light,
-ember scales catching the gray morning, and regarded its maker's world
-without hurry. The heat off it curled into the cold and vanished. His
-mother looked at the small living fire in her son's palm for a long
-moment, and her face did the thing faces do when a calculation comes out
-differently than expected — and then, whatever she had been carrying
-since the window in winter, since the river, since every morning he had
-woken warm in a cold house, set down somewhere out of sight.
+On the west side, the blacksmith's boy grew too.
 
-"Good," she said. Only that. Then: "Eat. The day does not stop for
-either of you."
+They met the way the smallest things meet — by accident, which is to say
+by geography, which is to say by the village doing what villages do and
+putting two children on the same road at the same age. The quiet boy
+with the folded hands. The warm boy who could not stay cold. One of them
+finished every sentence; the other one started them. They were not
+alike. The village found this funny and then stopped finding it funny
+when they kept it up for year after year, the way two different tools
+that fit the same hand keep getting picked up together.
 
-She had always known. He understood that suddenly, standing in his own
-doorway — she had not needed the black stones or the crystal or the lord
-attentant from Nuoding to tell her what lived under her son's skin. She
-had been reading it in the window and the river and the healed shins for
-six years.
+The blacksmith said nothing about any of it. The mother said less.
 
-The afternoon went on. The hammer rang behind the blacksmith's house the
-way it rang every day, because it had never once paused for awakenings.
-The village kept its news and its opinions. The lizard rode his shoulder
-warm as a pocket of summer, and the low heat under his ribs sat where it
-had always sat, patient and sure, no longer a question.
+There came a day — they were four, or nearly — when the road did its
+work for the first time.
 
-That evening he stood at the bend in the road with Tang San, watching
-the light go out of the sky, and neither of them said anything that
-needed saying. Tomorrow there would be the hill and the river and the
-long runs. Tomorrow there would be stones in pockets and the whole unlit
-country of the year ahead.
+The quiet boy was coming down from the well with a bucket that was too
+big for him, taking it in the serious stages he took everything: stop,
+set both hands right, lift, breathe, go. The warm boy came around the
+bend at a run, as he ran everywhere, and stopped just short of a
+collision that would have cost them both a bucket and an afternoon.
 
-Tonight there was only the cold air on a warm face, and the small living
-weight on his shoulder, and the road under his feet going on — going on,
-the way it always had, without asking anyone what it was supposed to be.
+He looked at the bucket. He looked at the boy.
+
+Without a word he took one side of it. Without a word the quiet boy
+let him. They carried it between them to the west-side gate — four
+trips of silence, perfectly matched, the runner's pace folded down to
+the carrier's — and set it down, and stood there with the distance
+between them that was already becoming the particular distance of two
+people who had decided to be in the same place whenever possible
+without admitting it.
+
+"Your hands are cold," said the warm boy.
+
+"Yes," said the quiet boy.
+
+"That's stupid."
+
+"Yes."
+
+And the warm boy ran on, because he ran everywhere, and the quiet boy
+went inside, and nothing happened, which is to say the most important
+thing that had happened to either of them in four years happened, and
+the village did not notice, and did not need to.
+
+And the village — three hundred souls, one sage's old name, one smith,
+one elder with white hair and an important manner — went on counting its
+children, and minding its own business, and waiting for nothing in
+particular, which is how a village waits for everything that matters.
+
+Under the same sky, in the same year, two boys who did not yet know each
+other's names were learning, separately, how to be alive in their bodies
+— one in the silence of a forge, one in the heat of a north-end house —
+while the road between them shortened by a few footsteps every season.
+
+The world had not begun arranging anything yet.
+
+It did not need to. Roads in small villages have a way of arranging
+themselves.
 
 ---
 
 ## Footer
 
-- **Project state:** Chapter 1 rewritten from zero (author's order) —
-  gated, band 2400–3400.
-- **Canon span touched:** Douluo novel ch1 + the ch2 awakening ceremony
-  (receipts: `canon_coverage/Canon_Coverage_Chapter_01.md`). Tang San's
-  beat intact: Blue Silver Grass, innate full spirit power, "what a pity,"
-  second soul secret untouched.
-- **OC state:** unnamed; Holy Spirit Village; awakened Ground Fire Dragon
-  Lizard (fire beast, Power Attack); innate **mid** (5–7, no digit in
-  prose); zero rings; womb adaptation shown concretely (warm body,
-  fast healing, cold-tolerance) and never named in-story.
-- **Family:** mother present, unnamed by the author's name rule (she is
-  "his mother"); father not ruled — absent, silent.
-- **Exact locked anchors:** cheat-interface mechanics banned everywhere
-  (the author's own words: PRE4, in RULINGS_LOG); No-Fix Law holds (no
-  ceiling written); direction = canon road in parallel + natural
-  butterflies; walls hold against other SL1 lines.
-- **Knowledge firewall:** no character knows the plot; the talent has no
-  name in-story; Su Yuntao noted "mid + fire beast" and left.
-- **Next natural pressure:** village expectation (D1 butterfly), the
-  friendship years, blacksmith's door, then the road to Nuoding — on the
-  author's word.
+- **Project state:** Chapter 1 rewritten to the author's structure
+  (birth foundation, fire-phoenix shape) — gated, band 2400–3400.
+- **Canon span touched:** Douluo novel ch1 era — Holy Spirit Village,
+  Tang Hao's west-side forge, Tang San already the blacksmith's quiet son
+  (receipts: `canon_coverage/Canon_Coverage_Chapter_01.md`).
+- **OC state:** born in the north-end house; womb adaptation shown, never
+  named; warm from the first breath; unnamed — name rule holds; anti-cheat
+  rule in force (the author's own words are recorded in RULINGS_LOG).
+- **Cast:** mother (exists, unnamed, watching); midwife (design,
+  unnamed); Tang Hao and Tang San in canon position; no father — not
+  ruled, silent.
+- **Exact locked anchors:** No-Fix Law holds; no power, no rings, no
+  endpoint exists yet or is implied; walls hold.
+- **Knowledge firewall:** nobody knows anything about anything — not the
+  talent, not the future, not each other's names yet.
+- **Next continuity bridge (Chapter 2):** the years to the awakening —
+  first real meeting, the friendship forming, then the ceremony day;
+  canon beats stay canon.

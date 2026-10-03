@@ -1,63 +1,77 @@
-# Canon Coverage — Chapter_01
+# Canon Coverage - Chapter 1
 
-**Written BEFORE prose** (fire-phoenix protocol, adopted by rule). Chapter 1
-consumes the following, fetched and read the same day.
+> Coverage scope notice: this file is a receipt for its matching fic
+> chapter, not the current live-status source. For current status, use
+> `../foundation/STATUS.md`.
 
-## Sources consumed
+Fic chapter: `chapters/Chapter_01.md`
+Title: Two Beginnings
+Purpose: canon helper, not prose
 
-1. **Douluo novel, Chapter 1** ("Douluo Continent, Otherworldly Tang San")
-   — receipt texts: Scribd `001-Douluo-Continent-Otherworldly-Tang-San-v1-1`
-   and Wattpad Douluo ch1 (fetched 2026-10-03).
-   Consumed beats:
-   - Holy Spirit Village texture; Old Jack visits Tang Hao's house: "little
-     San has quickly become six years old… in three days I'll come bring
-     him."
-   - Jack's explanation of the awakening ceremony: every spirit awakens at
-     ~age 6; annual ceremony; **the attendant from Nuoding City's Spirit
-     Sub-Hall** personally comes — "a Spirit Grandmaster-ranked Spirit
-     Master," admiration in Jack's eyes.
-   - Tang Hao: sole blacksmith, west side, disinterest/dismissal (canon).
-2. **The awakening ceremony itself** (novel ch1 sets it up; ceremony detail
-   corroborated by six independent retellings of canon ch1/ch2, all fetched
-   2026-10-03 — WebNovel/Dreame/chereads/fanmtl/Wattpad sources; details
-   below agree across ≥4 sources each, tagged `[canon]` by corroboration;
-   discrepancies listed):
-   - `[canon]` Venue: the village "Spirit Hall" = a slightly larger wooden
-     shack at village center.
-   - `[canon]` Awakener: **Su Yuntao**, deacon/spirit master from the
-     Nuoding Sub-Hall; channels spirit power → his werewolf-type spirit
-     flares (one white ring, one yellow ring in the retellings).
-   - `[canon]` Mechanic: **black stones set as a star** (Awakening
-     Formation); child stands within; golden motes of light rise and enter
-     the body; the spirit emerges in the extended palm.
-   - `[canon]` Measurement: **blue crystal ball** — glow strength = innate
-     spirit power; *innate full spirit power* = blinding brilliance.
-   - `[canon]` Pattern of results: village children awaken plant/tool
-     spirits (sickle, grass, carrot…), **no spirit power** — "can't become
-     a spirit master."
-   - `[canon]` **Tang San:** Blue Silver Grass → Su Yuntao's disappointment
-     ("trash spirit"), insists on the crystal test → **Innate Full Spirit
-     Power** → "what a pity." Tang San calm, undismayed, steps aside. The
-     second soul (hammer) is his secret — no one else knows. (R7: beats
-     untouched.)
-   - `[disputed]` the "spirit certificate" and the exact ordering of who
-     is last — versions disagree → **not used**; our OC simply awakens
-     after Tang San.
-   - `[disputed]` Hu Jiu (Jack's grandson) — appears only in some
-     retellings → **not used**.
+---
 
-## Design (this serial's own — R7/D1, PRE2)
+## 1. Canon span touched
 
-- The OC is one of this year's children — the childhood friend (PRE2),
-  present beside the canon beats, never replacing them.
-- His awakening: **Ground Fire Dragon Lizard** (R4), fire beast; the
-  crystal reads **mid** (R5, "Mid — 5 to 7" — no digit written in prose,
-  R11).
-- Friend beats, walk to/from the hall, village reactions: `[design]`.
-- Family of the OC: **off-page** (mother = ruled-existence only).
+Chapter 1 uses the Holy Spirit Village opening of Douluo Dalu as the
+world door.
 
-## Not consumed — future canon stays untouched (R1)
+Directly touched:
 
-No Yu Xiaogang, Xiao Wu, Nuoding Academy beyond the name, blacksmith
-apprenticeship beats (they come later), Spirit Hall politics, the hammer
-secret. Chapter 2+ opens its own coverage before touching anything new.
+- Novel Chapter 1 era: Holy Spirit Village, ~300 households south of
+  Nuoding, Fasinuo Province, Heaven Dou; village named for a visiting
+  Spirit Sage; elder Old Jack; Tang Hao the only blacksmith, west side,
+  the crudest house; Tang San already the blacksmith's quiet son,
+  brought to the village as an infant.
+
+Not staged (living world, no contact, no knowledge):
+
+- The northern/other-serial events of other lines — walls hold.
+- The awakening ceremony — Chapter 2's span.
+
+Reason not staged: Chapter 1 is the OC's birth foundation. The ceremony
+belongs to the awakening chapter.
+
+## 2. Canon beats preserved
+
+- Tang Hao remains the silent sole blacksmith; his house remains the
+  crudest on the west side.
+- Tang San remains canon's child — quiet, serious, already his father's
+  shadow at the forge. No friendship assumed before it happens on page.
+- Old Jack remains the elder who counts the village's children.
+- No canon event is moved, renamed, or improved.
+
+## 3. Fic additions (design)
+
+- The OC is born in the north-end house to a widowed/unmarried-by-silence
+  mother (father not ruled — absent, silent, never explained).
+- Womb adaptation shown concretely: the unborn settles heat, tests cold,
+  corrects; the newborn settles fast; warm from the first breath.
+- The midwife (unnamed) and the women with soup (unnamed).
+- The bucket scene at age four — the first near-meeting of the two boys
+  (D1 growing).
+
+## 4. Knowledge firewall after Chapter 1
+
+| Fact | The OC / mother | The village / blacksmith house | Reader |
+|---|---|---|---|
+| The OC adapts under pressure from the womb | mother senses warmth only, no name for it | nobody knows | Known through narration |
+| The two boys are on a collision course | unknown to both | unknown | Foreshadowed |
+| Anything about the plot | nobody | nobody | Known to no one |
+
+No character knows the talent exists as a thing. No System, ever.
+
+## 5. Receipts used
+
+| Source | Use |
+|---|---|
+| Douluo novel ch1 (Scribd/Wattpad texts, fetched 2026-10-03) | village facts: 300 households, Nuoding/Fasinuo/Heaven Dou, Sage's name, Old Jack, Tang Hao west side, Tang San the quiet son |
+| Baidu Baike (Tang San) | DC 2637 = age 6 (anchors Chapter 2) |
+| Author's premise (PRE2) | womb adaptation, childhood friend, same age |
+
+## 6. Next continuity bridge
+
+Chapter 2 bridges: the years to the awakening — the friendship forming
+on real evidence (the bucket was only the start), then the ceremony day
+itself: Su Yuntao, the black stones, Tang San's canon beat (grass, full
+innate, "what a pity"), then the OC last in the star. Canon beats stay
+canon; the OC never displaces them.

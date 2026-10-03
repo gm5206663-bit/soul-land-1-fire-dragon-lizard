@@ -4,43 +4,50 @@ Read this before you touch anything. Then `STATUS.md`.
 
 ## State in one breath
 
-Chapter 1 shipped (`Chapter_01`, gated, 2902 words). All 13 lanes ruled.
-Chapter 2 waits for the author's word — then: coverage file first, prose
-second, gate third, STATUS same turn, push.
+Chapters 1–2 shipped and gated (birth foundation → awakening day). All
+13 lanes ruled. Chapter 3 waits for the author's word. Structure follows
+the author's fire-phoenix project: coverage before prose, panel-style
+status, R01–R24 rules, banned-token regressions.
 
-## The rules
+## Read order when you arrive
 
-1. **The author decides.** When he rules, quote him exactly, record it the
-   same turn, run the gates, push. Never soften or invent a ruling.
-2. **Never invent the OC's name.** Or any kid canon hasn't named.
-3. **No System.** Not prose, not panels, not jokes.
-4. **No fixed future.** Nothing in any file may pin his ceiling or
-   endpoint.
-5. **Canon untouched.** The friend walks beside canon's beats, never
-   over them.
-6. **Walls hold.** Never cross `SL1_GU_YUAN`, `soul_land_new`,
-   `soul_land_holy_spirit`, or the SL4 fire-phoenix serial.
-7. **The blank-sentence spine format is banned.** The author rejected it.
-   Direction = canon road + natural consequences.
-8. **Every chapter passes the gate** before it ships. Never weaken a
-   gate to make it pass — fix the chapter.
-9. **Contradiction rule:** found a conflict? Report it, cite both sources
-   with dates, propose the smallest fix, and wait. Never silent-fix.
-10. **Read order when you arrive:** `RULINGS_LOG` → `STATUS` →
-    `OPEN_RULINGS` → this file's rules → the rest.
+1. `STATUS.md` — where the story is
+2. `RULINGS_LOG.md` — the author's exact words
+3. `storyos/NO_MISTAKE_LIVE_RULES.md` — universal rules R01–R24 (cite
+   the ID when you refuse a beat)
+4. `storyos/BANNED_TOKENS.json` — regression tokens
+5. `canon_coverage/CANON_COVERAGE_INDEX.md` — what canon was consumed
+6. `HANDOFF` (this) → then the rest
 
-## Chapter process (every time)
+## The rules (beyond R01–R24)
 
-1. Author says write.
-2. Fetch the canon source; write `canon_coverage/Canon_Coverage_Chapter_NN.md`.
-3. Write the chapter (plain, direct — his style: short paragraphs,
-   real dialogue, concrete beats, a `## Footer` at the end).
-4. `python3 tools/chapter_gate.py chapters/Chapter_NN.md` must PASS.
-5. Update `STATUS.md` the same turn; append `SERIAL_LOG.md`.
-6. Run `python3 tools/foundation_gate.py .` — must PASS.
-7. Commit, push, present to the author.
+1. The author decides; quote him exactly, record same turn, gates, push.
+2. Never invent the OC's name (or any unnamed canon kid's).
+3. No cheat interface anywhere — his words are in `RULINGS_LOG`.
+4. No fixed future — no ceiling, no endpoint, in any file.
+5. Canon never displaced; walls hold (his other serials).
+6. The blank-sentence spine format is banned; direction = canon road +
+   natural consequences (R12).
+7. Never weaken a gate — fix the chapter.
+8. Contradiction → report, cite both with dates, propose minimal fix,
+   wait (R-rules in storyos).
+
+## Chapter process (every time — mirrors his continuation protocol)
+
+1. **LOAD → VERIFY → MAP:** read STATUS, confirm against gates/receipts,
+   state confirmed / missing / must-reconstruct — before blueprinting.
+2. Author says write.
+3. Fetch canon source; write the 6-part `canon_coverage/` file **before**
+   prose; update the coverage index.
+4. Draft (his style: plain, short paragraphs, real dialogue, concrete
+   beats, `## Footer` at the end).
+5. Chapter gate must PASS; grep `storyos/BANNED_TOKENS.json` over the new
+   file.
+6. Update `STATUS.md` the same turn; append `SERIAL_LOG.md`; write an
+   `audits/` receipt.
+7. Foundation gate must PASS. Commit, push, present.
 
 ## Authority order
 
-The author's word → `RULINGS_LOG` → `STATUS` → this file →
-`CANON_GROUND` receipts → other files → oldest files are history only.
+The author's word → `RULINGS_LOG` → `STATUS.md` → R01–R24 →
+`CANON_GROUND` receipts → other files → old files are history only.

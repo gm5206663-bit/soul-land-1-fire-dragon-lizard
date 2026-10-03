@@ -124,3 +124,20 @@ after an explicit rejection is how a wrong fix ships.
   HANDOFF/STORY_ARCS; MASTER_PROJECT_BIBLE folded into README; ECONOMY
   skeleton deleted. Logs (RULINGS_LOG/CODEX/SERIAL_LOG) keep history
   untouched. Read order: STATUS → RULINGS_LOG → OPEN_RULINGS → HANDOFF.
+
+## 2026-10-03 (full rebuild to the fire-phoenix project anatomy)
+
+- Author, again: "Complete everything was wrong, go check fire phonixe
+  project." Full check executed: his STATUS_PANEL, coverage receipts,
+  storyos (BANNED_TOKENS + universal NO_MISTAKE R01–R24), audit pattern,
+  chapter continuation voice (Ch1 birth foundation, Ch2 first weeks).
+- **Chapter 1 rebuilt as "Two Beginnings"** — birth/womb/village
+  foundation in his structure (womb adaptation, mother, midwife, west
+  side, the bucket at four, two-beginnings close). Gate PASS 2430.
+- **Awakening chapter rehomed as Chapter 2** ("Six years…" bridge), gate
+  PASS 2931.
+- Coverage files rewritten in his 6-part receipt format + index.
+- STATUS rewritten as a status panel (rejection record, artifacts,
+  source position, current scene, character status, regression check).
+- storyos/ adopted: universal NO_MISTAKE verbatim + own BANNED_TOKENS;
+  audits/ receipt written; HANDOFF aligned to LOAD→VERIFY→MAP + R-IDs.

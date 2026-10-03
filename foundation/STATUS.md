@@ -1,80 +1,97 @@
-# STATUS — Fire Dragon Lizard (Soul Land 1)
+# STATUS PANEL — Fire Dragon Lizard (Soul Land 1)
 
-**The single source of truth.** When the story changes, this file changes
-the same turn. Never rebuild this file from memory.
+**Live edge: after Chapter 2, `The Fire in the Star` (gated PASS, 2931 words).**
 
-**Current: Chapter 1 lives · Stage 0 complete (13/13) · 2026-10-03**
+Purpose: single current-state panel for continuation. When the story
+changes, this file changes the same turn. Never rebuild it from memory.
+For the author's words, see `RULINGS_LOG.md`; for canon receipts,
+`CANON_GROUND.md`.
 
 ---
 
-## Where the story is
+## 0. Rejection record (repair outcomes — do not regress)
 
-- **Live edge:** `chapters/Chapter_01.md` — *"The Fire in the Star"*
-  (2902 words, gate PASS). The awakening day is written.
-- **Coverage:** `canon_coverage/Canon_Coverage_Chapter_01.md`.
-- **Clock:** Douluo Calendar 2637, Holy Spirit Village.
-- **What happened:** the OC awakened the **Ground Fire Dragon Lizard**,
-  soul power reads **mid**, zero rings. Tang San's canon moment played out
-  untouched (grass spirit, full innate power, "what a pity"). The village
-  is already talking about the OC.
-- **Next:** the childhood/friendship years → the road to Nuoding. Only on
-  the author's word.
+- Author rejected **Chapter 1 v1** ("The Lizard and the Grass") and the
+  first file set, verbatim: *"This is worse chapter 1 i ever got in my
+  life completely trash And what files is also"* → archived out of active
+  use; the title is a banned token.
+- Author rejected **Chapter 1 v2** ("Complete everything was wrong, go
+  check fire phonixe project") → rebuild derived FROM the fire-phoenix
+  project: stories open at **birth/foundation**; coverage uses the
+  6-part receipt format; status uses this panel format; rules carry
+  R01–R24 IDs (`storyos/NO_MISTAKE_LIVE_RULES.md`); regression tokens
+  live in `storyos/BANNED_TOKENS.json`.
+- Current Chapter 1 = **"Two Beginnings"** (birth foundation, his
+  structure). The awakening chapter was rehomed as **Chapter 2**.
+- File set: rebuilt plain; duplicates folded; universal NO_MISTAKE
+  adopted verbatim from his project.
 
-## The OC
+## 1. Latest written artifacts
 
-| | |
-|---|---|
-| Name | **none — never invent one** |
-| Age | same as Tang San; awakening year now written |
-| Home | Holy Spirit Village; mother alive; father not ruled (absent, silent) |
-| Martial soul | Ground Fire Dragon Lizard — fire beast, attack type |
-| Soul power | innate **mid (5–7)** — in prose only as a steady mid glow |
-| Talent | womb-born Adaptation — passive, warm body, fast healing, never named in-story |
-| System | **none, ever** |
-| Rings | zero |
-| Future | nothing fixed — growth is earned on page (No-Fix Law) |
+- Latest prose: `chapters/Chapter_02.md` — **The Fire in the Star**
+  (2931 words, gate PASS).
+- Latest coverage: `canon_coverage/Canon_Coverage_Chapter_02.md`
+  (6-part receipt format) + `CANON_COVERAGE_INDEX.md`.
+- Chapter gates: Chapter_01 PASS (2430) · Chapter_02 PASS (2931) ·
+  selftest 14/14.
+- Foundation gate: PASS · stage 0 unlocked · 2 chapters on disk.
+- Validation receipt: `audits/CHAPTER_VALIDATION_2026-10-03.md`.
 
-## The cast
+## 2. Source position
 
-| Who | State |
-|---|---|
-| **the OC** (unnamed) | Awakened; the lizard rides his shoulder; village expectation forming |
-| **Tang San** | Blue Silver Grass + full innate; calm about it; hammer secret untouched |
-| **Su Yuntao** | Nuoding spirit master; ran the ceremony; noted "mid + fire beast"; gone |
-| **Tang Hao** | The blacksmith. Hammer never pauses |
-| **Old Jack** | Village elder; brought the children |
-| **the OC's mother** | At home; knew about her son before the stones did; no name given |
+- Canon consumed for prose: Douluo novel ch1 (village, Jack's invite,
+  Sub-Hall attendant) + ceremony mechanics (six corroborating
+  retellings) + beast-family receipts (SL4 ch154 via wiki).
+- Covered: birth foundation (Ch1) · awakening day DC 2637 (Ch2).
+- Next source: the friendship-years/blacksmithing stretch of Douluo
+  ch1–2 aftermath; Nuoding road when canon reaches it.
+- Next chapter boundary: Chapter 3 — coverage before prose, on the
+  author's word.
 
-## Rules that never bend
+## 3. Current scene after Chapter 2
 
-1. No System — anywhere, ever.
-2. No fixed future — no ceiling, no endpoint, no "never".
-3. Canon is never displaced — the friend walks beside it, not over it.
-4. No invented name for the OC or any kid canon hasn't named.
-5. Numbers live here, never in prose.
-6. Panels only on update/gain beats.
-7. Every chapter passes `tools/chapter_gate.py` before it ships.
-8. Walls hold: `SL1_GU_YUAN`, `soul_land_new`, `soul_land_holy_spirit`,
-   the SL4 fire-phoenix serial — shared beast name included.
-9. The three-blank "spine" sentence format is banned (the author rejected
-   it). Direction = canon road in parallel + natural consequences.
+- The OC has just awakened the Ground Fire Dragon Lizard (innate mid),
+  zero rings; the ceremony is over; he is at home, evening; the village
+  is talking about him (D1 butterfly live).
+- Tang San: Blue Silver Grass + innate full, undismayed, hammer secret
+  intact.
+- Su Yuntao departed for Nuoding after noting "mid + fire beast."
+- The mother: at the door, already knew, "Eat. The day does not stop
+  for either of you."
 
-## Divergences
+## 4. Character status
 
-| # | Canon | Us | Status |
+- **the OC** (unnamed — never invent one): Holy Spirit Village; Ground
+  Fire Dragon Lizard; innate mid (5–7, digit nowhere in prose); zero
+  rings; womb adaptation active and unnamed in-story; warm body, fast
+  healing; best friend of Tang San.
+- **Tang San**: canon state; watching the door of his father's forge;
+  second soul hidden from everyone.
+- **The mother**: exists, unnamed, watching; knows her son is different,
+  has no word for it. Father: not ruled — absent, silent.
+- **Su Yuntao / Old Jack / Tang Hao**: canon positions, unchanged.
+
+## 5. Locks and bans (one line each)
+
+No cheat interface ever · No-Fix Law (no ceiling/endpoint) · canon never
+displaced · no invented name · numbers live here, never in prose ·
+panels only on gain beats (ch1–2 have none; Footers carry state) ·
+chapter gate before ship · walls hold (no Gu Yuan / Lan Shen / Luo Chen
+/ fire-phoenix crossing) · blank-sentence spine format banned ·
+direction = canon road + natural consequences (R12).
+
+**Regression check before every chapter:** grep
+`storyos/BANNED_TOKENS.json` tokens across the new file.
+
+## 6. Divergences
+
+| # | Canon | Us | State |
 |---|---|---|---|
-| D1 | Tang San has no named childhood friend | The OC is his best friend | earned on page, Chapter 1 |
+| D1 | Tang San has no named childhood friend | The OC is his best friend | earned Ch1 (bucket) + Ch2 (walk/wall/road) |
 
-Nothing else has diverged. A chapter that changes that logs it here the
-same turn.
-
-## Numbers
-
-Exact figures live **only** here — never in chapter prose. The innate
-reading is written as "mid". No meters, no stat screens, no System
-anything.
+Nothing else has diverged.
 
 ---
 
-*Read next: `RULINGS_LOG` (the author's words) → `HANDOFF` (how to work
-here).*
+*Read next: `RULINGS_LOG` → `OPEN_RULINGS` → `HANDOFF` →
+`storyos/NO_MISTAKE_LIVE_RULES.md` (R01–R24).*
