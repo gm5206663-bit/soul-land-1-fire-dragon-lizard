@@ -60,4 +60,5 @@ M-row = the author's own statement outranks all sources (never invented).
 
 - No power ceiling, no rank endpoint — **No-Fix Law (PRE3)**.
 - No name for the OC (not ruled).
-- No spine (R12 🔴 OPEN).
+- Direction: **R12 RULED — the fire-phoenix pattern** (canon road in
+  parallel + natural butterflies), not a pre-written want-sentence.

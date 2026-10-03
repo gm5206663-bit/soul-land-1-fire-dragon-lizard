@@ -1,10 +1,9 @@
 # soul-land-1-fire-dragon-lizard — Stage 0 foundation
 
-**Status: STAGE 0 OPEN. Zero chapters — drafting LOCKED by design.
-12 of 13 lanes ruled (2026-10-03). The one open lane is direction (R12):
-the author rejected the three-blank question format (verbatim in the
-Rulings Log) and ordered the fire-phoenix project studied — done, and only
-the useful things were taken.**
+**Status: STAGE 0 COMPLETE — 13 of 13 lanes ruled (2026-10-03). Gate built
+(`tools/chapter_gate.py`, band 2400–3400). Drafting unlocks on
+`foundation_gate.py` PASS; chapter 1 waits for the author's word. Zero
+chapters right now — by design.**
 
 The serial: a **new Soul Land 1** line — the OC is the same age as Tang San,
 from **Holy Spirit Village**, his **childhood friend**, with the **Ground
@@ -25,9 +24,10 @@ naturally, this is rule.*
 ## Current locks (one line each)
 
 - No System (PRE4) · No-Fix Law (PRE3) · canon never displaced (R7) ·
-  walls hold (R9) · no invented name · no agent-filled direction (R12 🔴).
+  walls hold (R9) · no invented name · direction = fire-phoenix pattern
+  (R12) · band 2400–3400 (R13).
 
 ## Next step
 
-Author closes R12 when he chooses → build `tools/` gate (R13 band) →
-Stage 0 closes → drafting unlocks.
+`foundation_gate.py` PASS → Stage 0 closes → drafting unlocked →
+chapter 1 on the author's word ("write").

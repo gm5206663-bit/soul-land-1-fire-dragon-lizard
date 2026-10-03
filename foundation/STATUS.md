@@ -1,17 +1,18 @@
 # STATUS — Fire Dragon Lizard — single current-truth source
 
-> **Snapshot v1 — FOUNDATION, PRE-CHAPTER. 2026-10-03.** Stage 0 at 12 of 13
-> ruled; drafting locked on R12. **This is the most important file in the
-> serial.** When anything changes in the story, this file changes the same
-> turn. Everything else may be rebuilt from this file plus the chapters; this
+> **Snapshot v1 — FOUNDATION, PRE-CHAPTER. 2026-10-03.** Stage 0 **COMPLETE:
+> 13 of 13 ruled**; gate ordered built; drafting unlocks on gate PASS.
+> **This is the most important file in the serial.** When anything changes in
+> the story, this file changes the same turn. Everything else may be rebuilt from this file plus the chapters; this
 > file may never be rebuilt from memory.
 
 ---
 
 ## Window
 
-- **Live edge:** none. Zero chapters. Foundation built from the twelve ruled
-  lanes; **R12 (spine) open** — author's answer that day: "What".
+- **Live edge:** none. Zero chapters. All thirteen lanes ruled 2026-10-03 —
+  **Stage 0 complete**; `tools/chapter_gate.py` built per the author's
+  "Full start" selection (R12, R13).
 - **Clock:** day 0 = the age-6 awakening, **Douluo Calendar 2637** — the
   same ceremony Tang San sits (R3; receipt: Baidu Baike "In 2637 of the
   Douluo Calendar, Tang San was six years old").
@@ -33,9 +34,11 @@
 - Canon never displaced — the friend adds, never replaces (R7, D1).
 - Exact figures never in prose (R11 house rule, F22).
 - No-Fix Law: no ceiling, no "never", no pinned endpoint (PRE3).
-- 🔴 Direction lane: **OPEN (R12)** — the author rejected the three-blank
-  format (2026-10-03); reframed default = fire-phoenix pattern (canon road
-  in parallel + natural butterflies). No agent may close it.
+- Direction lane: **RULED (R12) — the fire-phoenix pattern:** canon road in
+  parallel + natural butterfly effects under the No-Fix Law; direction
+  emerges on page, never pre-written (author's selection, 2026-10-03).
+- Gate band: **RULED (R13) — 2400–3400 words**, enforced by
+  `tools/chapter_gate.py`.
 
 ## Bans
 

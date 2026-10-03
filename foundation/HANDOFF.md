@@ -1,13 +1,14 @@
 # HANDOFF — if you are writing the next chat, read this first
 
-**Current state: Stage 0. 12 of 13 lanes ruled. Zero chapters. Drafting
-LOCKED — R12 (the spine) is open and no agent may fill it.**
+**Current state: Stage 0 COMPLETE — 13 of 13 lanes ruled. Zero chapters.
+Gate built (`tools/chapter_gate.py`, band 2400–3400); drafting unlocks on
+`foundation_gate.py` PASS; chapter 1 waits for the author's word.**
 
-1. **R12 (direction) is open and reformatted by the author himself.** He
-   rejected the three-blank sentence ("...nonsense..." — verbatim in
-   `RULINGS_LOG.md` Round 3) and pointed at the fire-phoenix project.
-   Do NOT ask the blank-sentence version again. Reframed default: canon
-   road in parallel + natural butterflies (No-Fix Law). No agent closes it.
+1. **R12 is ruled: the fire-phoenix pattern** (canon road in parallel +
+   natural butterflies under the No-Fix Law) — author's selection verbatim:
+   "Full start: close R12 with defaults + build the chapter gate." The
+   three-blank sentence format is **banned forever** — his Round 3 words
+   are in `RULINGS_LOG.md`; never ask or fill it.
 2. **No name invention.** The OC has no name until the author gives one.
    No chapter ships before the gate (`tools/`) exists and passes.
 3. **Read order:** RULINGS_LOG → OPEN_RULINGS → STATUS → the rest; this

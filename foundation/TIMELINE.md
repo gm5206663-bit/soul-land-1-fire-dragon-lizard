@@ -19,7 +19,7 @@ universe's clock — never merged with this serial.
 | Day | Event | State |
 |---|---|---|
 | D0 | **Awakening ceremony, DC 2637 (R3)** — Old Jack runs it; Tang San reads Blue Silver Grass + full innate power; the OC reads **Ground Fire Dragon Lizard**, innate **5–7** (R4/R5) | both boys zero rings |
-| D0+ | childhood-friend arc begins (R7/D1) — canon beats untouched | 🔴 no spine yet (R12) |
+| D0+ | childhood-friend arc begins (R7/D1) — canon beats untouched | direction = fire-phoenix pattern (R12 ruled) |
 
 ## Canon beats this serial must never displace (R7)
 
@@ -31,5 +31,5 @@ universe's clock — never merged with this serial.
 
 ## Held (no ruling, no date)
 
-- R12 spine: when the OC's own want enters the clock — **OPEN**.
-- Any divergence beyond D1 — none ruled.
+- Any divergence beyond D1 — none ruled. (Direction: R12 ruled —
+  fire-phoenix pattern; emergent, never pre-dated.)

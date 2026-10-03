@@ -27,4 +27,5 @@ intuition, never from the reader's bible.
 
 - Every speaking character is checked against this table before drafting.
 - Moves are recorded the same turn the page earns them.
-- 🔴 Rows touching R12 stay frozen until the author rules the spine.
+- R12 is ruled (fire-phoenix pattern) — rows still move only when the page
+  earns them; nothing pre-written.

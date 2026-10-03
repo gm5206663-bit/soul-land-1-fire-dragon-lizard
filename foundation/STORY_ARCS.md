@@ -1,8 +1,9 @@
 # STORY_ARCS — the books
 
-**State: Stage 0, zero chapters, spine 🔴 OPEN (R12).** No arc may claim
-the story's want until the author rules it. What follows is structure, not
-plot — skeleton only, spineless until R12.
+**State: Stage 0 complete (13/13 ruled), zero chapters.** Direction rule
+(R12): **the fire-phoenix pattern** — canon road in parallel (R7) + natural
+butterfly effects under the No-Fix Law (PRE3). Direction emerges on page;
+no pre-written want-sentence (that format is banned).
 
 ## Book 0 — Holy Spirit Village (day 0 → departure)
 
@@ -15,12 +16,13 @@ plot — skeleton only, spineless until R12.
 
 ## Book 1+ — not sketched
 
-- No entrance, no trial, no climb: **no spine (R12 🔴)**, no ring policy,
-  no clan posture questions (this serial has no clan lane — village boy).
+- No entrance, no trial, no climb sketched yet: the canon road past the
+  village is canon's own (R1, R7), and everything beyond earns its
+  sketching on page under the fire-phoenix pattern (R12).
 - The No-Fix Law (PRE3) forbids sketching an endpoint "just for now".
 
-## When R12 lands
+## When drafting opens (now)
 
-1. Record the author's three blanks verbatim (RULINGS_LOG).
-2. Derive Book 0's want-thread backward (pattern at lock).
-3. Re-run the gate; only then may drafting unlock.
+1. Author says "write" → `canon_coverage/` record first, then prose.
+2. `tools/chapter_gate.py` must PASS (2400–3400, bans hold).
+3. STATUS syncs the same turn the page earns it.

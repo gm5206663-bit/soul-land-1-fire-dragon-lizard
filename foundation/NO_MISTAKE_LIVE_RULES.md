@@ -7,20 +7,22 @@ both.**
 
 ## 1. State of the serial
 
-- **Stage 0. Zero chapters. Drafting LOCKED.**
-- 12 of 13 lanes ruled; **R12 (direction) recorded as rejected-and-reframed
-  — see `RULINGS_LOG.md` Round 3; the 🔴 marker stays until the author
-  closes it himself.**
-- Chapter gate (`tools/`) not built — building it is the next Stage-0 step
-  after the direction lane closes.
+- **Stage 0 COMPLETE — 13 of 13 lanes ruled (2026-10-03). Zero chapters;
+  drafting unlocks on `foundation_gate.py` PASS; chapter 1 waits for the
+  author's word.**
+- **R12 direction: RULED** — fire-phoenix pattern (canon road in parallel +
+  natural butterflies under the No-Fix Law); the author's selection
+  verbatim: "Full start: close R12 with defaults + build the chapter gate".
+- **Chapter gate built:** `tools/chapter_gate.py`, band 2400–3400 (R13).
 
 ## 2. Hard bans
 
 - No chapter exists before the gate passes. No exceptions, no "short" scenes.
 - No invented name — for the OC or any village kid canon hasn't named.
 - No System vocabulary anywhere, ever (PRE4).
-- No spine/villain sentence invented by an agent (author rejected that
-  format 2026-10-03 — verbatim in `RULINGS_LOG.md`).
+- No spine/villain sentence invented by an agent — the format was rejected
+  by the author 2026-10-03 (R12 Round 3); direction follows the ruled
+  fire-phoenix pattern instead.
 - No ceiling, endpoint, or "never" about the OC's growth (PRE3).
 - No canon beat displaced by the friend arc (R7, D1).
 - No wall crossed — `SL1_GU_YUAN`, `soul_land_new`, `soul_land_holy_spirit`,

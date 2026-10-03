@@ -31,5 +31,6 @@ a canon beat.
 ## Rules
 
 - Nothing above moves without a ruling or a receipt.
-- No Spine Actor exists yet (R12 🔴) — no antagonist may be cast.
+- No pre-cast antagonist: direction follows the fire-phoenix pattern (R12
+  ruled) — a villain emerges on page, never pre-written.
 - The OC's name: **none** — prose never invents one.

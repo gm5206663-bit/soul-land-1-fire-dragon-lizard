@@ -71,9 +71,9 @@ Asked the lane table. His answers **verbatim**:
 
 **Recorded as:** R4 and R5 ruled by his own words; every remaining defaulted
 lane taken by his order; the complete foundation file set ordered built —
-relationships, timeline, OC status, everything, clean and clear. R12 stays
-OPEN: "What" is recorded as his answer and nothing is inferred from it; the
-question was re-asked in plainer words.
+relationships, timeline, OC status, everything, clean and clear. R12 then
+stood open ("What" recorded, nothing inferred; the question was re-asked)
+— and was closed later the same day, see the R12 section below.
 
 ---
 
@@ -154,28 +154,29 @@ house band 2400–3400 / avg 14–18 is the standing recommendation.
 
 ## OPEN — not ruled (2026-10-03)
 
-### R12 — THE SPINE (Lock 4)
+### R12 — direction lane (WAS: the three-blank spine)
 
-> **Author's words, verbatim (2026-10-03, after the first asking):** "What
-> the hell you even makeing this nonsense what are you even talking about,go
-> check my fire phonixe project completely learn everything from there, don't
-> copy everything of fire phonixe project in your workshop, only usefull things"
+**REJECTED FORMAT (history, 2026-10-03):**
 
-**Recorded as:** the three-blank sentence format is **rejected** — do not
-ask it again in that shape. The learning order was executed the same day:
-`soul_land_4_fire_phoenix` studied completely (structure, bible, codex,
-locks, coverage protocol, talent spec), and **only the useful things were
-taken** (`bible/ADAPTATION_TALENT.md`, `bible/PROTAGONIST.md`,
-`NO_MISTAKE_LIVE_RULES.md`, `BUTTERFLY_EFFECTS.md`, `canon_coverage/`
-protocol, the cockpit README/bible pattern, the pacing rule) — nothing
+> **Author's words, verbatim (after the first asking):** "What the hell you
+> even makeing this nonsense what are you even talking about,go check my
+> fire phonixe project completely learn everything from there, don't copy
+> everything of fire phonixe project in your workshop, only usefull things"
+
+The three-blank sentence format is **rejected forever in this repo**. The
+learning order was executed the same day: `soul_land_4_fire_phoenix` studied
+completely; **only the useful things taken** (`bible/ADAPTATION_TALENT.md`,
+`bible/PROTAGONIST.md`, `NO_MISTAKE_LIVE_RULES.md`, `BUTTERFLY_EFFECTS.md`,
+`canon_coverage/` protocol, cockpit README/bible, pacing rule) — nothing
 wholesale.
 
-**Lane state: 🔴 OPEN, reframed.** No blank sentence, no agent-invented
-villain. Recommended default now follows the fire-phoenix pattern the
-author pointed to: **the canon road walked in parallel (R7) + natural
-butterfly effects under the No-Fix Law (PRE3)** — direction emerges the way
-his other serial's does, not from a pre-written want-sentence. The 🔴 marker
-stays until the author closes the lane himself.
+**RULED — 2026-10-03 (author's selection, verbatim):** "Full start: close
+R12 with defaults + build the chapter gate"
 
-*Drafting stays locked: zero chapters until every lane is ruled
-(Foundation-Stage law).*
+**Recorded as:** direction = **the fire-phoenix pattern** — the canon road
+walked in parallel (R7) + natural butterfly effects under the No-Fix Law
+(PRE3); direction emerges on page, never pre-written. His selection
+description also orders: build `tools/` with the 2400–3400 band, close
+Stage 0, drafting unlocks.
+
+**R12 status: ✅ RULED — all 13 lanes ruled. Stage 0 may close.**

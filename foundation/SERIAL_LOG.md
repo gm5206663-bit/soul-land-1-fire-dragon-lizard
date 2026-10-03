@@ -37,3 +37,19 @@ Append future events below, newest last. Never rewrite history.
   canon_coverage protocol, cockpit README + MASTER_PROJECT_BIBLE, pacing
   rule, contradiction-report rule. R12 reframed as the direction lane with
   the fire-phoenix pattern as its default; marker stays 🔴 his to close.
+
+## 2026-10-03 (later)
+
+- **R12 RULED — the author's selection, verbatim:** "Full start: close R12
+  with defaults + build the chapter gate." Direction = the fire-phoenix
+  pattern (canon road in parallel + natural butterflies under the No-Fix
+  Law). The three-blank format stays banned.
+- **Chapter gate built:** `tools/chapter_gate.py` — band 2400–3400 (R13),
+  System-token bans (PRE4), stage-lock check, filename/paragraph/panel
+  info checks; `--selftest` included.
+- **13 of 13 lanes ruled — Stage 0 complete.** All red-lane markers
+  removed the same turn; mirrors synced (STATUS, HANDOFF, NO_MISTAKE,
+  FOUNDATION, README, MASTER_PROJECT_BIBLE, CANON_GROUND, GLOSSARY,
+  TIMELINE, STORY_ARCS, CHARACTERS, RELATIONSHIPS, CODEX).
+- Drafting unlocks on `foundation_gate.py` PASS; chapter 1 waits for the
+  author's word.

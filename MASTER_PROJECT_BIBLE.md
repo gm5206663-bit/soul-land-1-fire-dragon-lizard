@@ -32,14 +32,13 @@ Pattern learned from `soul_land_4_fire_phoenix` → `MASTER_PROJECT_BIBLE.md`
 ## 4. Important current locks
 
 - No System (PRE4) · No-Fix Law (PRE3) · canon never displaced (R7) ·
-  walls hold (R9) · no invented name · R12 direction lane 🔴 open
-  (author rejected the blank-sentence format 2026-10-03 — verbatim in
-  RULINGS_LOG; reframed default = the fire-phoenix pattern: the canon road
-  in parallel + natural butterfly effects).
+  walls hold (R9) · no invented name · direction = fire-phoenix pattern
+  (R12 ruled 2026-10-03 — "Full start" selection verbatim in RULINGS_LOG) ·
+  band 2400–3400 (R13).
 
 ## 5. Next guard
 
-1. The author closes the direction lane (R12) when he chooses — defaults
-   available, no blank sentence required.
-2. Build the chapter gate (`tools/`) before chapter 1 (R13 band applies).
-3. Close Stage 0 with `foundation_gate.py` PASS on a fully-ruled table.
+1. `foundation_gate.py` PASS on the fully-ruled table → Stage 0 closes →
+   drafting unlocks.
+2. Chapter 1 on the author's word; `canon_coverage/` record before prose;
+   `tools/chapter_gate.py` must pass (2400–3400, bans hold).

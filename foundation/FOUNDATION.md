@@ -38,9 +38,11 @@ growth goes naturally and is earned on page.
 
 ## Stage 0 state
 
-**12 of 13 lanes ruled. R12 (the spine) OPEN — the author's answer that day
-was "What" (recorded verbatim); re-asked in plainer words. Drafting stays
-locked until the spine exists.** Name: none ruled — prose never invents one.
+**13 of 13 lanes ruled (2026-10-03). Stage 0 complete — gate built
+(`tools/chapter_gate.py`, band 2400–3400), drafting unlocks once
+`foundation_gate.py` passes on the ruled table.** Name: none ruled — prose
+never invents one. The three-blank spine format is banned forever (R12
+Round 3).
 
 ## Read order
 

@@ -9,7 +9,8 @@ Read order: RULINGS_LOG → OPEN_RULINGS → STATUS → the rest → HANDOFF las
 | 2026-10-03 | Stage 0 opened; new serial created (PRE1); premise recorded (PRE2); **No-Fix Law** (PRE3); no system + adaptation (PRE4); foundations-first order (PRE5) | `RULINGS_LOG.md` PRE1–PRE5; Control Centre `decision#36` (the No-Fix Law, universal) |
 | 2026-10-03 | R1–R3, R6–R13 (except R12) ruled by defaults per author's instruction; R4 = **"Ground Fire Dragon Lizard"**; R5 = **mid — 5 to 7**; full file set ordered ("relationship, timeline,oc stutas and others All") | `RULINGS_LOG.md` Round 2 |
 | 2026-10-03 | **R12 OPEN** — author's answer to the spine question: **"What"** (verbatim); re-asked in plainer words; drafting stays locked | `OPEN_RULINGS.md`, `RULINGS_LOG.md` |
-| 2026-10-03 | **Round 3 — author rejected the blank-sentence spine format** (verbatim in RULINGS_LOG) and ordered the fire-phoenix project studied; useful parts only adopted: `bible/ADAPTATION_TALENT.md`, `bible/PROTAGONIST.md`, `NO_MISTAKE_LIVE_RULES.md`, `BUTTERFLY_EFFECTS.md`, `canon_coverage/` protocol, cockpit README/bible, pacing rule. R12 reframed = fire-phoenix pattern; 🔴 stays his to close | `RULINGS_LOG.md` Round 3 |
+| 2026-10-03 | **Round 3 — author rejected the blank-sentence spine format** (verbatim in RULINGS_LOG) and ordered the fire-phoenix project studied; useful parts only adopted: `bible/ADAPTATION_TALENT.md`, `bible/PROTAGONIST.md`, `NO_MISTAKE_LIVE_RULES.md`, `BUTTERFLY_EFFECTS.md`, `canon_coverage/` protocol, cockpit README/bible, pacing rule. R12 reframed = fire-phoenix pattern | `RULINGS_LOG.md` Round 3 |
+| 2026-10-03 | **R12 RULED — author's selection verbatim: "Full start: close R12 with defaults + build the chapter gate."** Direction = fire-phoenix pattern; band 2400–3400 applied; `tools/chapter_gate.py` built; **13/13 — Stage 0 complete** | `RULINGS_LOG.md` R12, `OPEN_RULINGS.md` |
 
 ## Index
 

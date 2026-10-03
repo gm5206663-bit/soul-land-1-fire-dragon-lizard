@@ -13,8 +13,10 @@
   (R5); Tang San's: full (canon).
 - **Womb talent** — pre-birth origin of the adaptation (PRE2): from birth,
   in the mother's womb.
-- **Spine (Lock 4, R12)** — `'______ wants ______ from my protagonist, and
-  will ______ to get it.'` **OPEN — the author answered "What"**; re-asked.
+- **Direction (R12, ruled)** — the **fire-phoenix pattern**: the canon road
+  walked in parallel + natural butterfly effects under the No-Fix Law.
+  Direction emerges on page, never pre-written. The three-blank "spine"
+  sentence was rejected by the author (2026-10-03) and is banned here.
 - **No System (PRE4)** — no menus, no levels, no skill windows. Ever.
 - **Fire-phoenix serial** — the author's SL4 line where a *summoned* Ground
   Fire Dragon Lizard appears (ch50–51). Shared name, zero crossover (R9).
