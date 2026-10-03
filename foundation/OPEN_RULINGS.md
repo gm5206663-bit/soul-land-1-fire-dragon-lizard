@@ -14,9 +14,8 @@
 > the No-Fix Law). The three-blank format stays **rejected** (his words in
 > `RULINGS_LOG.md` Round 3 — never ask it again).
 >
-> **Zero open lanes. Drafting unlocks once the gate exists and passes —
-> the gate has been ordered built this round (`tools/chapter_gate.py`,
-> band 2400–3400 per R13).** Full record: `RULINGS_LOG.md`.
+> **Zero open lanes. All thirteen ruled; gate built and passing; Chapter 1
+> shipped (gated, coverage-first).** Full record: `RULINGS_LOG.md`.
 
 ---
 
@@ -47,10 +46,13 @@ foundations-first order), plus the inherited method: F-series of record
 (guide v2.1 / law v5.4), Foundation-Stage law, gate-before-ship,
 clean-and-clear, Control Centre protocol, separation walls.
 
-## Stage 0 close checklist
+## Stage 0 close checklist — COMPLETE 2026-10-03
 
-1. ~~R1–R13 answered~~ ✅
-2. ~~Chapter gate built before chapter 1~~ ✅ `tools/chapter_gate.py` (this round)
-3. `foundation_gate.py` PASS on a fully-ruled table → **Stage 0 closed →
-   drafting unlocked**
-4. Chapter 1 waits for the author's word ("write"), same as everything else.
+1. ~~R1–R13 answered~~ ✅ (13/13)
+2. ~~Chapter gate built before chapter 1~~ ✅ `tools/chapter_gate.py`
+3. ~~`foundation_gate.py` PASS on a fully-ruled table~~ ✅ — Stage 0
+   closed, drafting unlocked
+4. ~~Chapter 1 shipped~~ ✅ gated PASS (2444 words, coverage-first)
+
+**Next: chapter 2 on the author's word ("write"), same as everything
+else.**

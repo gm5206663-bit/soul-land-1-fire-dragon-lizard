@@ -35,7 +35,7 @@ both.**
   dates, a minimal proposed correction, and a **wait** — a silent fix is
   how drift survives a handoff.
 
-## 3. Process rule (when drafting eventually opens)
+## 3. Process rule (every chapter)
 
 1. Fetch/read all canon source chunks for the beat.
 2. Write the `canon_coverage/` record **before** prose.

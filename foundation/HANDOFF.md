@@ -11,7 +11,7 @@ coverage before prose, gate before present.**
    three-blank sentence format is **banned forever** — his Round 3 words
    are in `RULINGS_LOG.md`; never ask or fill it.
 2. **No name invention.** The OC has no name until the author gives one.
-   No chapter ships before the gate (`tools/`) exists and passes.
+   No chapter ships unless `tools/chapter_gate.py` passes it.
 3. **Read order:** RULINGS_LOG → OPEN_RULINGS → STATUS → the rest; this
    file last. When something changes, STATUS changes the same turn —
    mirrors (CODEX, SERIAL_LOG) record it too (house law).

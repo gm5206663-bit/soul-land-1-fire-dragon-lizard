@@ -6,7 +6,7 @@ Pattern learned from `soul_land_4_fire_phoenix` → `MASTER_PROJECT_BIBLE.md`
 `foundation/NO_MISTAKE_LIVE_RULES.md`; for the author's words use
 `foundation/RULINGS_LOG.md`.
 
-**Live edge: no chapters. Stage 0.**
+**Live edge: after Chapter 1, "The Lizard and the Grass" (gated PASS).**
 
 ## 1. Current artifacts
 
@@ -27,9 +27,10 @@ Pattern learned from `soul_land_4_fire_phoenix` → `MASTER_PROJECT_BIBLE.md`
 
 ## 3. Current edge
 
-- Holy Spirit Village, DC 2637 awakening — **not yet written; only ruled.**
-- The OC: unnamed, innate 5–7, Ground Fire Dragon Lizard, womb Adaptation,
-  childhood friend of Tang San. Zero rings, zero prose.
+- Holy Spirit Village, DC 2637 — **the awakening is written and shipped**
+  (Chapter 1): the OC's Ground Fire Dragon Lizard awake, innate mid (5–7),
+  zero rings; Tang San's canon beat intact; village expectation forming.
+- The OC remains unnamed; No System; No-Fix Law holds.
 
 ## 4. Important current locks
 
@@ -38,9 +39,10 @@ Pattern learned from `soul_land_4_fire_phoenix` → `MASTER_PROJECT_BIBLE.md`
   (R12 ruled 2026-10-03 — "Full start" selection verbatim in RULINGS_LOG) ·
   band 2400–3400 (R13).
 
-## 5. Next guard
+## 5. Next guard — current
 
-1. `foundation_gate.py` PASS on the fully-ruled table → Stage 0 closes →
-   drafting unlocks.
-2. Chapter 1 on the author's word; `canon_coverage/` record before prose;
-   `tools/chapter_gate.py` must pass (2400–3400, bans hold).
+1. ~~Stage 0 closes, drafting unlocks~~ ✅
+2. ~~Chapter 1: coverage → prose → gate~~ ✅ shipped
+3. **Chapter 2 on the author's word ("write"):** `canon_coverage/` record
+   before prose; `tools/chapter_gate.py` must pass (2400–3400, bans hold);
+   STATUS syncs the same turn.

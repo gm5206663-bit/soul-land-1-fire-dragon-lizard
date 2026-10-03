@@ -4,8 +4,9 @@
 README > everything else. Nothing in this file is paraphrased into something
 better (AGENTS.md rule 4).
 
-**Status: Stage 0 opened 2026-10-03. Premise (PRE1–PRE5) + lane rulings
-(R1–R13) received the same day. 12 of 13 lanes ruled; R12 open.**
+**Status: Stage 0 COMPLETE — opened and closed 2026-10-03. Premise
+(PRE1–PRE5) + all thirteen lanes (R1–R13) received the same day; Chapter 1
+shipped and gated the same day.**
 
 ---
 

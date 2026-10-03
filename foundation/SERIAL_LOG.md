@@ -70,3 +70,16 @@ Append future events below, newest last. Never rewrite history.
   NO_MISTAKE, HANDOFF, CODEX.
 - Next: chapter 2 on the author's word; coverage before prose; gate
   before present.
+
+## 2026-10-03 (readability pass — author's order)
+
+- Author's order: "Please create clean and clear and readable status file
+  and others All." Full rewrite of `STATUS.md` (Snapshot v3 — summary
+  block, table-form window/locks, cast, divergences, numbers) and
+  `README.md` (status table, read order, layout map). Stale lines fixed
+  across FOUNDATION (v2 header + Stage 0 COMPLETE), OPEN_RULINGS
+  (checklist all-done), RULINGS_LOG (header 13/13), NO_MISTAKE (process
+  rule "every chapter"), HANDOFF (gate exists), MASTER_PROJECT_BIBLE
+  (live edge + current guard). Chronology files (SERIAL_LOG, CODEX)
+  keep their history untouched — receipts are never rewritten.
+  Gates re-run: chapter_gate selftest 14/14, foundation_gate PASS.

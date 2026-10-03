@@ -1,6 +1,6 @@
 # FOUNDATION — soul-land-1-fire-dragon-lizard
 
-**Snapshot v1 — Stage 0, PRE-CHAPTER, 2026-10-03.**
+**Snapshot v2 — Stage 0 COMPLETE, Chapter 1 live, 2026-10-03.**
 Authority order: author word > this file > STATUS > codex > kit > README.
 
 ## The premise, in the author's words
@@ -36,13 +36,13 @@ growth goes naturally and is earned on page.
 7. **Clean and clear (R11)** — third-limited, OC POV, past; figures in
    STATUS, never prose.
 
-## Stage 0 state
+## Stage 0 state — COMPLETE
 
-**13 of 13 lanes ruled (2026-10-03). Stage 0 complete — gate built
-(`tools/chapter_gate.py`, band 2400–3400), drafting unlocks once
-`foundation_gate.py` passes on the ruled table.** Name: none ruled — prose
-never invents one. The three-blank spine format is banned forever (R12
-Round 3).
+**13 of 13 lanes ruled (2026-10-03). Gate built
+(`tools/chapter_gate.py`, band 2400–3400), `foundation_gate.py` PASS,
+drafting unlocked, Chapter 1 shipped and gated the same day.** Name: none
+ruled — prose never invents one. The three-blank spine format is banned
+forever (R12 Round 3).
 
 ## Read order
 
