@@ -1,7 +1,8 @@
 # soul-land-1-fire-dragon-lizard — Stage 0 foundation
 
-**Status: STAGE 0 OPEN. Premise + five rules ruled 2026-10-03 (PRE1–PRE5).
-R1–R13 open. Drafting LOCKED. Zero chapters — by design.**
+**Status: STAGE 0 OPEN. Premise + five rules ruled 2026-10-03 (PRE1–PRE5);
+Round 2 same day: 12 of 13 lanes ruled. R12 open (the author's answer:
+"What" — re-asked). Drafting LOCKED. Zero chapters — by design.**
 
 The serial: a **new Soul Land 1** line — the OC is the same age as Tang San,
 from **the village**, his **childhood friend**, with a **Fire Dragon Lizard**
@@ -13,7 +14,7 @@ things go naturally, this is rule.*
 
 1. `foundation/RULINGS_LOG.md` — the author's words, verbatim (PRE1–PRE5)
 2. `foundation/OPEN_RULINGS.md` — the thirteen lanes with recommendations
-3. `foundation/HANDOFF.md` — *(built with the docset, after rulings)*
+3. `foundation/HANDOFF.md` — the guard rails; read it last
 
 ## The laws that already bind this repo
 

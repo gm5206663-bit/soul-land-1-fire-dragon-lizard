@@ -57,7 +57,34 @@ before anything else. The OC has the Adaptation Talent (again, confirmed).
 
 ---
 
-## OPEN — no ruling yet
+## Round 2, same day — the author ruled (2026-10-03)
 
-The lane table lives in `OPEN_RULINGS.md` (R1–R13). Nothing beyond PRE1–PRE5
-is decided. Drafting is locked: zero chapters until every lane is ruled.
+Asked the lane table. Answers **verbatim**:
+
+1. **R12 — the spine** — > **"What"**
+   *(Recorded as-is. Interpreted as needing plainer words — the spine
+   question was re-asked. Nothing is inferred from it. R12 stays OPEN.)*
+2. **R5 — innate soul power** — selected option, verbatim: **"Mid — 5 to 7"**
+   *(Recorded as: innate soul power mid, 5 to 7.)*
+3. **R4 — Fire Dragon Lizard** — > **"Ground Fire Dragon Lizard"**
+   *(The martial soul's exact name. The Earth Fire Lizard beast family is
+   receipted canon — SL4 novel ch154 via wiki; the application as this
+   village boy's martial soul is this serial's, by this ruling.)*
+4. **The remaining lanes + the file set** — > **"I am saying to create all
+   files like relationship, timeline,oc stutas and others All, clean and
+   clear and understand"**
+   *(Recorded as: take the recommended defaults for every remaining lane,
+   and build the complete foundation file set — relationships, timeline,
+   OC status, everything — clean and clear.)*
+
+**Ruled by this round:** R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R13
+— 12 of 13. **Open:** R12 only.
+
+---
+
+## OPEN — not ruled (2026-10-03)
+
+- **R12 — THE SPINE (Lock 4):** the author's answer was **"What"**
+  (recorded verbatim above) — re-asked in plainer words. Open. *Drafting
+  stays locked: zero chapters until every lane is ruled (Foundation-Stage
+  law).*
