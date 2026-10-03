@@ -4,11 +4,12 @@
 README > everything else. Nothing in this file is paraphrased into something
 better (AGENTS.md rule 4).
 
-**Status: Stage 0 opened 2026-10-03. Premise + five rules received same day.**
+**Status: Stage 0 opened 2026-10-03. Premise (PRE1–PRE5) + lane rulings
+(R1–R13) received the same day. 12 of 13 lanes ruled; R12 open.**
 
 ---
 
-## Ruled 2026-10-03 — the founding, author's words (before ruling)
+## The founding, author's words (before ruling)
 
 ### PRE1 — what this is
 
@@ -57,34 +58,108 @@ before anything else. The OC has the Adaptation Talent (again, confirmed).
 
 ---
 
-## Round 2, same day — the author ruled (2026-10-03)
+## Round 2, same day — the author ruled the lanes (2026-10-03)
 
-Asked the lane table. Answers **verbatim**:
+Asked the lane table. His answers **verbatim**:
 
-1. **R12 — the spine** — > **"What"**
-   *(Recorded as-is. Interpreted as needing plainer words — the spine
-   question was re-asked. Nothing is inferred from it. R12 stays OPEN.)*
-2. **R5 — innate soul power** — selected option, verbatim: **"Mid — 5 to 7"**
-   *(Recorded as: innate soul power mid, 5 to 7.)*
-3. **R4 — Fire Dragon Lizard** — > **"Ground Fire Dragon Lizard"**
-   *(The martial soul's exact name. The Earth Fire Lizard beast family is
-   receipted canon — SL4 novel ch154 via wiki; the application as this
-   village boy's martial soul is this serial's, by this ruling.)*
-4. **The remaining lanes + the file set** — > **"I am saying to create all
-   files like relationship, timeline,oc stutas and others All, clean and
-   clear and understand"**
-   *(Recorded as: take the recommended defaults for every remaining lane,
-   and build the complete foundation file set — relationships, timeline,
-   OC status, everything — clean and clear.)*
+> **On R12 (the spine):** "What"
+> **On R5 (innate soul power):** selected option — "Mid — 5 to 7"
+> **On R4 (the beast):** "Ground Fire Dragon Lizard"
+> **On the remaining lanes + the file set:** "I am saying to create all
+> files like relationship, timeline,oc stutas and others All, clean and
+> clear and understand"
 
-**Ruled by this round:** R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R13
-— 12 of 13. **Open:** R12 only.
+**Recorded as:** R4 and R5 ruled by his own words; every remaining defaulted
+lane taken by his order; the complete foundation file set ordered built —
+relationships, timeline, OC status, everything, clean and clear. R12 stays
+OPEN: "What" is recorded as his answer and nothing is inferred from it; the
+question was re-asked in plainer words.
+
+---
+
+## Ruled lanes
+
+### R1 — canon spine
+
+Ruled 2026-10-03 (defaults, per Round 2 order): **SL1 novel as spine;
+anime/manhua/secondary wikis as anchor ore.** Receipts name their source.
+
+### R2 — which village
+
+Ruled 2026-10-03 (defaults): **Holy Spirit Village itself** — 300 households
+south of Nuoding, Fasinuo province, Heaven Dou; elder Old Jack; Tang Hao the
+only blacksmith (receipts: novel ch1, Baidu Baike).
+
+### R3 — day-one timing
+
+Ruled 2026-10-03 (defaults): **Age 6, Douluo Calendar 2637 — the same
+awakening ceremony Tang San attends** (receipt: Baidu Baike).
+
+### R4 — the martial soul's name
+
+> **Author's words, verbatim (2026-10-03):** "Ground Fire Dragon Lizard"
+
+**Recorded as:** the martial soul's exact name. Beast-family canon receipts
+attached the same day: Earth Fire Lizard → Earth Fire Dragon at 10,000
+years; mutation → Earth Fire Scarlet Dragon (SL4 novel ch154 via wiki). As
+an SL1 village boy's martial soul: this serial's, by this ruling.
+
+### R5 — innate soul power
+
+> **Author's selection, verbatim (2026-10-03):** "Mid — 5 to 7"
+
+**Recorded as:** innate soul power mid, 5 to 7 — next to Tang San's full
+innate (canon receipt).
+
+### R6 — what the awakening shows
+
+Ruled 2026-10-03 (defaults): **fire-attribute beast soul, Power Attack
+System** — what the village sees when the lizard appears.
+
+### R7 — contact with canon's road
+
+Ruled 2026-10-03 (defaults): **childhood friend arc — parallel through the
+village years; canon beats never displaced.** The friend is addition D1,
+never a replacement.
+
+### R8 — meta knowledge
+
+Ruled 2026-10-03 (defaults): **none** — ordinary village birth; no past
+life, no plot memory; only the womb talent.
+
+### R9 — separation walls
+
+Ruled 2026-10-03 (defaults): **walls hold** — never cross `SL1_GU_YUAN`,
+`soul_land_new`, `soul_land_holy_spirit`, or the SL4 fire-phoenix serial.
+A shared beast *name* is not a crossover.
+
+### R10 — adaptation module
+
+Ruled 2026-10-03 (defaults): **the kit's locked universal core** — same
+engine as the author's other womb-talent OCs; village-boy expression; never
+named in prose.
+
+### R11 — voice
+
+Ruled 2026-10-03 (defaults): **third-person limited, OC POV, past;
+clean-and-clear; panels (F22) only on gain beats; figures in STATUS, never
+prose.**
+
+### R13 — chapter-gate band
+
+Ruled 2026-10-03 (defaults): **deferred to gate-build** (before chapter 1) —
+house band 2400–3400 / avg 14–18 is the standing recommendation.
 
 ---
 
 ## OPEN — not ruled (2026-10-03)
 
-- **R12 — THE SPINE (Lock 4):** the author's answer was **"What"**
-  (recorded verbatim above) — re-asked in plainer words. Open. *Drafting
-  stays locked: zero chapters until every lane is ruled (Foundation-Stage
-  law).*
+### R12 — THE SPINE (Lock 4)
+
+> **Author's answer, verbatim (2026-10-03):** "What"
+
+**Recorded as-is. Nothing inferred. Re-asked in plainer words:** who is
+against your OC, what do they want FROM him, what will they do to get it —
+"______ wants ______ from my protagonist, and will ______ to get it."
+*Drafting stays locked: zero chapters until every lane is ruled
+(Foundation-Stage law).*
