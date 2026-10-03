@@ -160,3 +160,13 @@ again and again." Continuing the self-diagnosis.
   knowledge delta, power check, butterfly register) appended to both coverage files;
   audits/RECEIPTS_2026-10-03_cycle4.md written in his RECEIPT_TEMPLATE shape.
 - STATUS footers updated same turn (PASS counts). Foundation gates: to run below.
+### 2026-10-03 — round 8 — crystal numbers + the name (R14)
+- Author: "When crystal started to tell like mid level, it's numbers" and
+  "there is no name and others All things… like what your father create or
+  degine them 😡🤬🤬" — both recorded verbatim (RULINGS_LOG R14, SERIAL_LOG).
+- ch2 crystal scene rebuilt: the glow now counts to **six** (R5 mid 5–7,
+  digit as deliberate beat), Su Yuntao says it aloud; R4 name **Ground Fire
+  Dragon Lizard** spoken to the room; "Power Attack" wording (R6; "System"
+  kept out — PRE4). Gate PASS 3756.
+- Footers/knowledge-firewall updated; coverage blessing row corrected to
+  NOT-in-prose (deferred). Father clause left open — never filled.

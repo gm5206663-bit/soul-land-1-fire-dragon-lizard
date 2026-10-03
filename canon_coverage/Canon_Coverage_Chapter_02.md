@@ -91,7 +91,7 @@ place on it earned on page, never assumed. New coverage before prose.
 | 3 | Hall + Su Yuntao ceremony | expand | Failed-children texture is canon's own weight |
 | 4 | OC's testing (living crystal) | expand | Deviation beat; father's absence + mother's dread |
 | 5 | No element → "the fire in the star" | keep | Father-echo title beat |
-| 6 | Blessing reveal to father (POV cross) | keep | His own ch.2 pattern; generation note attached |
+| 6 | Blessing reveal to father (POV cross) | **NOT IN PROSE — deferred** | Was listed before it existed; scene not written; on the author's word |
 | 7 | Evening at the bend | expand | Convergence before the road splits |
 
 ### Scene ledger
@@ -101,7 +101,6 @@ place on it earned on page, never assumed. New coverage before prose.
 | Road, bend | Morning | OC, Tang San | Walk together |
 | Old man's hall | Day | Su Yuntao, villagers, all children | Ceremony |
 | Hall (testing) | Day | OC, mother (doorway), father (absent) | Deviation beat |
-| Well-side cottage | Night | Blessing party | POV cross to adults |
 | Road bend | Dusk | OC, Tang San | Coda |
 
 ### Knowledge delta
@@ -111,6 +110,7 @@ place on it earned on page, never assumed. New coverage before prose.
 | Mother | Suspects the window-weather | Blessing confirms fear is too small | Testing beat |
 | Tang San | OC is his constant | OC will walk a road with no soul power | Bend, dusk |
 | OC | Expecting | It is not what he expected; he is not afraid | Testing + coda |
+| Su Yuntao + room | Beast spirit, unclassified, crystal silent for every child | Spirit **named aloud** — Ground Fire Dragon Lizard; crystal reads **level 6** (mid) | Testing beat (R4 + R14, author's words) |
 
 ### Power check
 | Rank/SP before | Change | Floor/Ceiling |

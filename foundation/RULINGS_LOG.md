@@ -218,3 +218,19 @@ sits above the old cap.
 **Corrected band: 3600–5000 words**, enforced by `tools/chapter_gate.py`
 (selftest updated). Stricter minimum, roomier maximum, matched to his
 practice. If the author ever types different numbers, his numbers win.
+
+### R14 — the crystal's readout, and the name
+
+> **Author's words, verbatim (2026-10-03):** "When crystal started to tell
+> like mid level, it's numbers"
+
+> **Author's words, verbatim (2026-10-03):** "What the hell there is no name
+> and others All things 😡😡🤬🤬🤬😡😡 like what your father create or degine
+> them 😡🤬🤬"
+
+**Recorded as:** when the crystal reports mid, its digit is written in
+prose — level 6 (inside R5's 5–7 band) as a deliberate beat; R11's
+"figures in STATUS, never prose" yields to the author's live words on
+this beat. And the name rules activate in-story: R4's "Ground Fire
+Dragon Lizard" is spoken aloud (ch2, Su Yuntao reads it to the room).
+The father clause is held as an open question — never filled.

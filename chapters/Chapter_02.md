@@ -262,8 +262,8 @@ attention of a small living furnace deciding whether the man was worth
 its heat, and something in the spirit master's face changed from surprise
 to something he had not worn since he walked into the room.
 
-"Beast spirit," he said. "Fire attribute. Attack type." He held out his
-arm. "Give me the crystal. Slowly."
+"Beast spirit," he said. "Fire attribute. Power Attack." He
+held out his arm. "Give me the crystal. Slowly."
 
 The boy handed it over without hurrying. Su Yuntao pressed it into his
 palm.
@@ -271,18 +271,29 @@ palm.
 The blue light rose — steady, even, honest. It filled the glass and
 stayed there without straining, without ever flooding: not the dead dark
 of the children before him, and not the wild, wasting blaze of the boy
-at the wall. A clean, level glow. Mid.
+at the wall. A clean, level glow — and the crystal counted as it glowed,
+the way it always counted for Su Yuntao: one mark up, then the next,
+then the next, and then the place where it stopped.
 
-"Mid," Su Yuntao said.
+It stopped at six.
 
-He looked from the crystal to the lizard to the boy, and the calculation
-went on longer this time.
+"Six," Su Yuntao said. "Mid." He turned the crystal a half-degree in
+his palm, the way a man turns a coin he suddenly wants to be sure of,
+and the marks did not change their mind. "Level six."
 
-"Mid soul power. A fire beast with an attack body." He let out a breath
-through his nose, almost a laugh, as if the road between villages had
-just paid him back for a month of no-account children. "Boy, you could
-cultivate. A fire beast and mid power — there is a real road for that.
-Straight road." He let go of the crystal. "Do not waste it."
+He looked from the crystal to the lizard to the boy, and the
+calculation went on longer this time.
+
+"Ground Fire Dragon Lizard," he said. The words were plain and
+practiced — he had read the bestiary plates in the Nuoding hall the way
+other men read prayer books, and the name came out of him the way a
+smith says iron. He said it again, for the room: "A Ground Fire Dragon
+Lizard. Fire attribute. Beast spirit with an attack body." He let out a
+breath through his nose, almost a laugh, as if the road between
+villages had just paid him back for a month of no-account children.
+"Boy, you could cultivate. A fire beast and level six mid power — there
+is a real road for that. Straight road." He let go of the crystal. "Do
+not waste it."
 
 Behind the line, the old women were talking about it the way villages
 talk about things — fast, all at once, with opinions. The men in the
@@ -425,17 +436,20 @@ the way it always had, without asking anyone what it was supposed to be.
   beat intact: Blue Silver Grass, innate full spirit power, "what a pity,"
   second soul secret untouched.
 - **OC state:** unnamed; Holy Spirit Village; awakened Ground Fire Dragon
-  Lizard (fire beast, Power Attack); innate **mid** (5–7, no digit in
-  prose); zero rings; womb adaptation shown concretely (warm body,
-  fast healing, cold-tolerance) and never named in-story.
+  Lizard — **named aloud in-story by Su Yuntao** (R4, the author's own
+  words); innate **level 6** — mid, inside R5's 5–7 band, digit written
+  as the crystal's deliberate beat (author, 2026-10-03: crystal mid =
+  numbers); zero rings; womb adaptation shown concretely (warm body,
+  fast healing, cold-tolerance).
 - **Family:** mother present, unnamed by the author's name rule (she is
   "his mother"); father not ruled — absent, silent.
 - **Exact locked anchors:** cheat-interface mechanics banned everywhere
   (the author's own words: PRE4, in RULINGS_LOG); No-Fix Law holds (no
   ceiling written); direction = canon road in parallel + natural
   butterflies; walls hold against other SL1 lines.
-- **Knowledge firewall:** no character knows the plot; the talent has no
-  name in-story; Su Yuntao noted "mid + fire beast" and left.
+- **Knowledge firewall:** no character knows the plot; Su Yuntao read the
+  name and level six out loud to the room — surface reading only, nobody
+  knows the womb talent's source; he noted the reading and left.
 - **Next continuity bridge:** village expectation (D1 butterfly), the
   friendship years, blacksmith's door, then the road to Nuoding — on the
   author's word.
