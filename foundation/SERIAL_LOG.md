@@ -170,3 +170,11 @@ again and again." Continuing the self-diagnosis.
   kept out — PRE4). Gate PASS 3756.
 - Footers/knowledge-firewall updated; coverage blessing row corrected to
   NOT-in-prose (deferred). Father clause left open — never filled.
+### 2026-10-03 — round 9 — the six years made real (author: "6 years is just joke… talent does nothing… no relationship between Tang Hao and him… he knows nothing and learn nothing")
+- Ch1 rebuilt in the empty axes, bible §2 verbatim expression: pressure
+  demonstrations (ice fall with no bruise, oak training-memory, breath
+  self-correcting, appetite the women can't name); **forge years with
+  Tang Hao** (door open, bellows, iron colors, the quenching sentence);
+  **Old Jack lore-teacher** (village origin, sage's name — the OC learns).
+- Gate PASS Chapter_01 4539 words (band 3600–5000). Coverage tables: 3
+  beats, 4 knowledge-delta rows, 2 scene rows added. Footer updated.

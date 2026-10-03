@@ -292,6 +292,41 @@ times. He was warm. There was nothing to explain, and he explained
 nothing, and the village filled the silence the way villages do: with a
 shrug, and then with forgetting.
 
+It was not only warmth. The village noticed other things and could not
+name them either.
+
+When he was three he went down on the ice by the well road the way
+children go down — total, spectacular, both feet leaving the world —
+and got up before the baker's wife had finished screaming, brushing
+himself off with an outraged face and no blood, no lump, nothing to
+show for it but the indignity. Children bruised. Children swelled and
+wailed and carried proof home in purple. He simply got up, and his
+mother arrived, and her fingers did the weather check, and the baker's
+wife went back inside to her oven muttering about north-end children.
+
+He learned to climb the oak by falling out of it, and the next time his
+hands knew where the holds were before his head did — his body
+remembering what his mind had only just survived, better fit arriving
+a step ahead of understanding. It came in everywhere: the way he
+breathed when he ran, correcting itself without being told; the way
+the winter water on his arms stopped feeling like an argument by
+February; the way he ate — ravenous, exact, the food coming back as
+him rather than as comfort, which the women at the well remarked on the
+way they remarked on everything, and then did not remark on again.
+
+And he learned. That was the part no one could say what to do with. He
+learned the river's moods and the well rope's tricks and the exact
+degree of awe an elder required; he learned which dogs bluffed and
+which meant it. Old Jack, who counted children the way other men
+counted coins, found that the north-end boy listened the way a jar
+listens — all the way to the bottom — and after a while Jack began
+telling him things he did not tell the other children: why the village
+had been built south of Nuoding and not north; what the sage's name
+had been, before it was a name nobody used. The boy waited through
+each story with the stillness he had been born with, and asked one
+question afterward, and the question was always the kind that made Jack
+rub his chin and say, "Hah. That," and start again.
+
 On the west side, the blacksmith's boy grew too.
 
 They met the way the smallest things meet — by accident, which is to say
@@ -374,6 +409,49 @@ other's names were learning, separately, how to be alive in their bodies
 — one in the silence of a forge, one in the heat of a north-end house —
 while the road between them shortened by a few footsteps every season.
 
+The friendship made its own geography. After the bucket, the warm boy
+started going where the quiet boy went, which meant he went to the
+forge — not for iron, at first, only because winter was long and the
+west-side house breathed heat like a sleeping animal, and the
+blacksmith's doorway was the warmest public thing in Holy Spirit
+Village.
+
+Tang Hao did not welcome him. Tang Hao did not chase him off, either,
+which in its way was a kind of speech. He worked. The boy stood where
+a boy could stand — out of the swing, out of the sparks, out of the
+way — and watched, with his hands folded the way Xiao San's hands were
+folded, because the two of them had already started copying each other
+without noticing.
+
+One morning the boy was shivering more than he admitted, because he
+had run all the way there and the cold had beaten him to the door.
+Tang Hao did not look up. He said, "Bellows."
+
+The boy worked the bellows — not hard, not soft, even, the whole way
+in and out — and the fire rose the way a fire rises when it is not
+argued with. Tang Hao said nothing. The next morning he said nothing.
+The morning after that, he did not say it at all, and the boy simply
+did it, and the fire was waiting.
+
+That was how it went for years: silence, and work, and the door left
+open in a house where nobody opened doors. The boy learned to read the
+iron — the yellow that meant hurry, the white that meant step back, the
+quiet orange that meant everything was exactly where it belonged —
+learned it the way he learned everything, by being there on the wrong
+day first and the right days after. Once, watching the sparks come
+down, he asked a question about why the metal screamed when it was
+quenched and not when it was bent. Tang Hao stopped the hammer for the
+first and only time the boy ever saw, looked at him the way men look
+at a tool that has surprised them, and said, "Because bending lets it
+keep what it is. Quenching makes it become something else." Then the
+hammer went back down, and the subject was closed, and the boy stood
+in the smoke holding the sentence like a warm coal, turning it over in
+his hands for the rest of the winter.
+
+The village called it odd. The blacksmith had no word for it. The boy
+came back anyway, every day the cold made it make sense, and nobody in
+the west-side house ever once told him to go home.
+
 The years are like that. They do not announce themselves. They arrive
 one bucket, one scrape, one cold morning at a time, and by the time you
 have counted them they have already made you.
@@ -414,12 +492,18 @@ themselves.
 - **Canon span touched:** Douluo novel ch1 era — Holy Spirit Village,
   Tang Hao's west-side forge, Tang San already the blacksmith's quiet son
   (receipts: `canon_coverage/Canon_Coverage_Chapter_01.md`).
-- **OC state:** born in the north-end house; womb adaptation shown, never
-  named; warm from the first breath; unnamed — name rule holds; anti-cheat
-  rule in force (the author's own words are recorded in RULINGS_LOG).
+- **OC state:** born in the north-end house; womb adaptation **shown
+  working across the six years** per bible §2 — no bruise from the ice
+  fall, breath correcting itself on runs, training memory (the oak
+  remembers him back), appetite the women notice and can't name; never
+  named in-story; unnamed — name rule holds (his verbatim: no name
+  invented); anti-cheat rule in force (the author's own words are
+  recorded in RULINGS_LOG).
 - **Cast:** mother (exists, unnamed, watching); midwife (design,
-  unnamed); Tang Hao and Tang San in canon position; no father — not
-  ruled, silent.
+  unnamed); **Tang Hao — real relationship**: open-door forge years,
+  bellows, iron colors, one subject closed; Tang San in canon position
+  (friendship after the bucket); Old Jack — lore-teacher to the OC;
+  no father — not ruled, silent.
 - **Exact locked anchors:** No-Fix Law holds; no power, no rings, no
   endpoint exists yet or is implied; walls hold.
 - **Knowledge firewall:** nobody knows anything about anything — not the

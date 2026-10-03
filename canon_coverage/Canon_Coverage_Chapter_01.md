@@ -94,6 +94,9 @@ canon; the OC never displaces them.
 | 4 | West side: forge, hammer | keep | OC mirrored against canon smithy without touching it |
 | 5 | Years montage + bucket day | expand | First OC↔Tang-San contact beat (canon ch.1 relationship seed) |
 | 6 | Two beginnings coda | keep | His structure: parallel open, converge later |
+| 7 | Pressure demonstrations (ice fall, oak memory, breath, appetite) | expand | bible §2 childhood expression — the talent visibly works (author: it "does nothing" = trash) |
+| 8 | Forge years with Tang Hao (door, bellows, iron colors) | expand | Real relationship — not scenery (author: "no relationship between Tang hao and him") |
+| 9 | Old Jack lore (why south of Nuoding, sage's name) | keep | He learns — knowledge accumulates (author: "he knows nothing and learns nothing") |
 
 ### Scene ledger
 | Location | Time | Present | Positions |
@@ -102,11 +105,16 @@ canon; the OC never displaces them.
 | Well / village lanes | Winter → years | Women, Jack, villagers | OC center-normal, cold anomaly |
 | West-side forge | Years | Tang Hao (distance), Tang San (absent) | Canon side untouched |
 | River / road / bend | Years | OC + Tang San | Bucket crossing — first contact |
+| West-side forge door | Winters, years | OC, Tang Hao (silent consent) | Open-door years; no secret work witnessed |
+| Oak / well road / river | Years 3–5 | OC, villagers | Pressure beats: fall, climb, races |
 
 ### Knowledge delta
 | Who learns | Before | After | Earliest valid change |
 |---|---|---|---|
 | OC's mother | Child is "healthy" | Child is warm-blooded (never stated aloud) | First night, filing only — no confrontation yet |
+| OC | Born knowing nothing | River moods, well rope, dogs, elders, iron colors, "quenching makes it become something else" | Ages 3–5, scene by scene |
+| Tang Hao | Boys are furniture | A boy who works the bellows exact and asks about the metal's scream | From the first winter morning |
+| Old Jack | Counts children | Has one listener worth telling the village's origin to | By the years montage |
 | Village | — | "Healthy" as a euphemism | Ongoing; no one confronts |
 | Tang San | No OC known | OC exists (bucket) | Beat 5 |
 
