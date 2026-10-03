@@ -23,7 +23,11 @@ import sys
 from pathlib import Path
 
 BAND_MIN, BAND_MAX = 2400, 3400          # R13
-PARA_MIN, PARA_MAX = 14, 18              # R13 avg target (warning only)
+# Paragraph advisory calibrated to the AUTHOR'S OWN STYLE, 2026-10-03:
+# his Chapter 1 (soul_land_4_fire_phoenix/chapters/Chapter_01.md) runs 272
+# non-empty blocks; the old 14-18 guess was never his voice. Warn-only —
+# never gates pass/fail.
+PARA_MIN, PARA_MAX = 60, 300              # R13 band's paragraph advisory
 
 # PRE4 + house bans: System vocabulary and cheat-story tokens.
 BANNED_FAIL = [

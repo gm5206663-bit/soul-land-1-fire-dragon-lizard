@@ -1,64 +1,45 @@
 # CANON_GROUND — what is real, what is ours
 
-Tags: `[canon]` receipted · `[fan]` another adaptation's take ·
-`[disputed]` adaptations disagree · `[design]` this serial's invention.
-M-row = the author's own statement outranks all sources (never invented).
+Tags: **canon** = receipted · **design** = this serial's own.
 
-## The village (R2 — ruled: Holy Spirit Village itself)
+## The village — canon (receipts: novel ch1, Baidu Baike)
 
-- `[canon]` **Holy Spirit Village (圣魂村 / Spirit Saint Village)** — ~300
-  households, south of Nuoding City, Fasinuo province, Heaven Dou Empire;
-  named for a Spirit Sage who visited a century ago. Receipt: novel text
-  (Douluo ch1).
-- `[canon]` Village elder **Old Jack (杰克村长)** runs the awakening
-  ceremony and invites Tang Hao's household. Receipt: Douluo ch1.
-- `[canon]` **Tang Hao** — the village's only blacksmith; the crudest house
-  on the west side. Receipt: Douluo ch1.
-- `[design]` The OC's household — nothing beyond "born there" (PRE2) until
-  the author rules more.
+- Holy Spirit Village (圣魂村): ~300 households, south of Nuoding,
+  Fasinuo Province, Heaven Dou. Named for a visiting Spirit Sage.
+- Elder **Old Jack** runs the awakening ceremony.
+- **Tang Hao** — the only blacksmith, west side, the crudest house.
 
-## The clock (R3 — ruled: DC 2637, age 6, same ceremony)
+## The clock — canon
 
-- `[canon]` Douluo Calendar **2637 = Tang San age 6**, the awakening.
-  Receipt: Baidu Baike (Tang San entry).
-- `[canon]` Tang San: language at 1, cooking at 4, Mysterious Heaven Skill
-  from age 1; awakening gives **Blue Silver Grass** + concealed second soul;
-  **innate full soul power**; three months of blacksmithing/hidden weapons;
-  leaves with Jack for Nuoding Academy. Receipts: soulland.fandom
-  Tang San/Plot, Douluo ch1.
-- `[design]` The OC sits the **same ceremony** (R3) — the second boy the
-  village watches that day.
+- Douluo Calendar **2637 = Tang San age 6**, the awakening (Baike).
+- Tang San: language at 1, cooking at 4; awakening gives Blue Silver
+  Grass + a hidden second soul + innate full power; later leaves with
+  Jack for Nuoding Academy.
 
-## The martial soul (R4/R5 — author's words, 2026-10-03)
+## The ceremony — canon (corroborated across retellings; see coverage file)
 
-- **Author's word (R4):** the martial soul is the **"Ground Fire Dragon
-  Lizard"** — verbatim custom answer.
-- `[canon]` **Beast family receipts:** the **Earth Fire Lizard** is a real
-  Soul Land species — after 10,000 years it evolves into the **Earth Fire
-  Dragon**; a mutation produces the **Earth Fire Scarlet Dragon** (a true
-  dragon with fire properties). Receipt: soulland.fandom wiki — *Earth Fire
-  Dragon* / *Earth Fire Scarlet Dragon* pages, sourced to **Light Novel SL4
-  Chapter 154**. ("Ground" = the wiki's own alias for "Earth": *Ground Fire
-  Scarlet Dragon*.)
-- `[design]` **As a martial soul of an SL1 village boy** — the beast family
-  is canon; the application here is this serial's, by the author's ruling.
-- `[canon]` The same name appears in the author's SL4 serial as Qian's
-  **summoned** Ground Fire Dragon Lizard (ch50–51) — **walls hold (R9):**
-  shared species name, zero crossover.
-- **Author's word (R5):** innate soul power **mid — 5 to 7** (selected
-  option label, 2026-10-03).
+- **Su Yuntao** of the Nuoding Spirit Sub-Hall channels it.
+- Black stones set in a star; golden motes; the spirit appears in the
+  palm; a blue crystal ball reads innate power (full = blinding).
+- Pattern: village kids get plant/tool spirits, mostly no soul power.
+- Tang San: grass → "trash spirit" → insists on the test → full innate →
+  "what a pity."
 
-## The ring world (receipts for later lanes; no ring policy ruled yet)
+## The beast — design over canon
 
-- `[canon]` Ring colors by beast age: 10+ white · 100+ yellow · 1,000+
-  purple · 10,000+ black · 100,000+ red. Receipt: stard fandom *Spirit
-  Beast* + Douluo ring tables.
-- `[canon]` Optimal ages: 1st ring ≤423 years, 2nd ≤764 (hybrid/mod-body
-  receipt hook). Receipt: ring tables (earlier session fetch).
+- **Author's name for the martial soul: "Ground Fire Dragon Lizard"** (R4).
+- Beast family **is** canon: Earth Fire Lizard → Earth Fire Dragon
+  (10k years) / Earth Fire Scarlet Dragon (mutation) — SL4 novel ch154
+  via wiki.
+- Being an SL1 village boy's martial soul: **this serial's.**
+- The same beast name appears in the author's SL4 serial as a summoned
+  beast — walls hold, zero crossover.
 
-## What is NOT here
+## The OC — design
 
-- No power ceiling, no rank endpoint — **No-Fix Law (PRE3)**.
-- No name for the OC (not ruled).
-- Direction: **R12 RULED — the fire-phoenix pattern** (canon road in
-  parallel + natural butterflies), not a pre-written want-sentence.
+- Innate **mid (5–7)**, his selection (R5).
+- Mother exists (premise); father not ruled. No other family facts.
+
+## Not here
+
+No ceiling · no name for the OC · no ring plan · no endpoint.

@@ -1,35 +1,30 @@
 # TIMELINE — day by day
 
-**Rules:** D-numbers from day 0 = the awakening ceremony, DC 2637 (R3).
-Canon events are dated only when a receipt exists; no rAF dates ever.
-Post-canon world time (Star Dou 7851, new era 20332 etc.) is another
-universe's clock — never merged with this serial.
+Day 0 = the awakening ceremony, **Douluo Calendar 2637** (R3).
 
-## Pre-canon (receipted background, lived by canon not by us)
+## Before the story (canon background, not written)
 
-| When | Event | Receipt |
-|---|---|---|
-| DC ~2631 | Tang San born; brought to Holy Spirit Village as an infant by Tang Hao | Douluo ch1 |
-| DC 2631+ | the OC born in the same village (same age as Tang San, PRE2) | premise |
-| age 1 | Tang San: language; begins Mysterious Heaven Skill | fandom Tang San/Plot |
-| age 4 | Tang San cooks | fandom Tang San/Plot |
-
-## Book 0 — the village (Stage 0; zero chapters)
-
-| Day | Event | State |
-|---|---|---|
-| D0 | **Awakening ceremony, DC 2637 (R3)** — Old Jack runs it; Tang San reads Blue Silver Grass + full innate power; the OC reads **Ground Fire Dragon Lizard**, innate **5–7** (R4/R5) | both boys zero rings |
-| D0+ | childhood-friend arc begins (R7/D1) — canon beats untouched | direction = fire-phoenix pattern (R12 ruled) |
-
-## Canon beats this serial must never displace (R7)
-
-| Canon beat | When (receipt) |
+| When | What |
 |---|---|
-| 3 months blacksmithing + hidden weapons | pre-departure (fandom) |
-| Jack takes Tang San to Nuoding Academy | age ~6 (Douluo ch1) |
-| everything after — Yu Xiaogang, Xiao Wu, the road | canon timeline untouched |
+| ~2631 | Tang San born; brought to the village as a baby by Tang Hao |
+| ~2631 | The OC born in the same village (same age, premise) |
+| age 1–4 | Tang San learns language, cooking, his secret skill |
 
-## Held (no ruling, no date)
+## Written
 
-- Any divergence beyond D1 — none ruled. (Direction: R12 ruled —
-  fire-phoenix pattern; emergent, never pre-dated.)
+| Day | What | Chapter |
+|---|---|---|
+| D0 | Awakening: Tang San reads grass + full innate; the OC reads Ground Fire Dragon Lizard, mid. Friend beat: walk, wall, road home. Mother at the door | Chapter 1 ✅ |
+
+## Canon beats still ahead (untouched)
+
+- Three months of blacksmithing at Tang Hao's (canon — when it comes, it
+  comes canon-shaped).
+- Jack takes Tang San to Nuoding Academy.
+- Everything after: Yu Xiaogang, Xiao Wu, the road.
+
+## Held
+
+- Divergence beyond D1: none ruled.
+- The OC's own want entering the clock: emerges on page (R12), never
+  pre-dated.

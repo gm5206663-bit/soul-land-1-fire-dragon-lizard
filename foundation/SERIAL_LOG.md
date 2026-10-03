@@ -93,3 +93,34 @@ Append future events below, newest last. Never rewrite history.
 the files rejected alongside it. Nothing defended, nothing argued. Fix
 direction requested from the author before rewriting — a second guess
 after an explicit rejection is how a wrong fix ships.
+
+## 2026-10-03 (Chapter 1 rejected — rebuild ordered)
+
+- Verdict recorded (RULINGS_LOG Round 4): Chapter 1 "completely trash",
+  files too; fix = scratch rewrite; files = self-diagnose and iterate.
+- Calibration source: fire-phoenix Chapter_01 read in full (plain style,
+  womb-to-birth family scenes, concrete adaptation beats, banter dialogue,
+  no 【】 panels in ch1, structured `## Footer` block).
+- Rebuild in progress: new Chapter 1 (awakening day, OC-dominant, plain
+  prose, family core, footer) + de-cluttered plain file set.
+
+## 2026-10-03 (rebuild — chapter + files, author's orders)
+
+- **Chapter 1 deleted and rewritten from zero** ("scratch", "Everything"
+  wrong). Calibration: the author's own fire-phoenix Chapter 01 read in
+  full — plain prose, family core, concrete talent beats, banter dialogue,
+  no panels, structured `## Footer`. New chapter: "The Fire in the Star",
+  2902 words, mother scene, OC dominant, San's canon beat intact.
+  chapter_gate PASS 0/0. Paragraph advisory recalibrated warn-only to the
+  author's own style (his ch1 = 272 blocks; the old 14–18 was never his
+  voice — receipted in the gate).
+- **Files: self-diagnosed and rebuilt plain** (his orders: "That you
+  should find yourself", "Find out yourself,try again and again and
+  again"). Diagnosis: citation soup, laws repeated across eight files,
+  provenance noise, skeleton files. Fix: STATUS/FOUNDATION/HANDOFF/
+  OPEN_RULINGS + RAILS/POWER_LAW/SKILLS_CANON/CANON_GROUND/CANON_ACCESS/
+  TIMELINE/CHARACTERS/RELATIONSHIPS/STORY_ARCS/GLOSSARY/PLACES/PANELS
+  all rewritten short and plain; NO_MISTAKE + BUTTERFLY folded into
+  HANDOFF/STORY_ARCS; MASTER_PROJECT_BIBLE folded into README; ECONOMY
+  skeleton deleted. Logs (RULINGS_LOG/CODEX/SERIAL_LOG) keep history
+  untouched. Read order: STATUS → RULINGS_LOG → OPEN_RULINGS → HANDOFF.

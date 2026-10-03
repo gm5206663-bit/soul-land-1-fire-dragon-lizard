@@ -1,20 +1,19 @@
 # PANELS — figure discipline
 
-F22 law: panels exist **only** on update/gain beats — zero lines otherwise.
+- Panels are `【 name · figure }】-style lines that carry numbers so prose
+  doesn't have to.
+- **Only on update/gain beats. Zero lines otherwise.**
+- **Chapter 1 has no panels.** Its `## Footer` carries state instead —
+  the same as the author's own chapters (fire-phoenix ch1: zero panels).
+- Never a System screen: no windows, no level-up chrome, no menus. A
+  panel, if one ever appears, is a plain fact — not a game HUD.
+- Figures live in `STATUS.md` first; the panel is only the reader's
+  glance.
 
-- Format: `【` name `·` figure `】` — name from STATUS, never invented.
-- **No System vocabulary in panels either** (PRE4): this serial's panels,
-  where a beat needs one, are **beat figures**, not a game HUD — no "level
-  up", no skill windows, no menus. The adaptation shows as sensation, and
-  the panel (if any) simply states the fact.
-- Figures live in STATUS first; the panel is the reader's glance, STATUS is
-  the record.
-- Inactive at Stage 0 — zero chapters, no panels exist.
+## Wrong here, always
 
-## Panels that would be wrong here
-
-| Wrong because | Example of the wrongness |
+| Wrong because | Example |
 |---|---|
-| System banned (PRE4) | any menu/window/level-up chrome |
-| No-Fix Law (PRE3) | a panel announcing a fixed final rank |
-| Figures-not-prose (R11) | prose carrying count-numbers at all |
+| No System (the author's rule) | menu/window/level-up chrome |
+| No-Fix Law | a panel announcing a final rank |
+| Numbers stay in STATUS | prose carrying stat digits |

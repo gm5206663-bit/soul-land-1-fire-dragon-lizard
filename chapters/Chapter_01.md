@@ -1,256 +1,358 @@
-# Chapter 01 — The Lizard and the Grass
+# Chapter 1: The Fire in the Star
 
-The morning Old Jack came for them, the smoke over the west side of the
-village had not yet risen.
+He woke because the house was cold and he liked it that way.
 
-He came the way he always came — white hair combed flat, voice up before
-he reached the gate — and the boy was already waiting at the bend in the
-road where the ruts turned soft, hands in his sleeves, breath small in the
-cold. Tang San came out of the blacksmith's house behind him. The two of
-them fell in together without speaking, the way they had fallen in
-together for as long as either could count, and Old Jack looked at them
-and shook his head and smiled the way village elders smile at what they
-cannot take credit for.
+The window had been open all night. Frost sat on the sill like a thin
+white rime, and his breath should have been a cloud, and it was not. This
+was ordinary to him. It had always been ordinary. Other children shoved
+their hands into their sleeves in the cold season; he walked out with his
+arms loose and his skin warm, and the village had learned to call that
+healthy, because healthy was simpler to say than anything truer.
 
-"Today is the most important day of the year," the old man said, leading
-them toward the center of the village. He said it every year, to every
-family he passed it on the way, and every year he said it as if the words
-were new. "A lord attendant is coming — from the Spirit Sub-Hall itself,
-in Nuoding. Do you understand? A real spirit master. His own hands will
-channel the awakening for you."
+Under the blankets, his ribs held a low heat the way a banked forge held
+an ember. Not burning. Waiting.
 
-Tang San nodded, proper as a textbook. The boy beside him watched the
-smoke climb from the blacksmith's chimney — Tang Hao's chimney, the only
-one in the village that never seemed to sleep — and said nothing, because
-there was nothing to say. He had heard Old Jack explain the ceremony
-before, in the yard, in the doorways, in the long patient voice the old
-man kept for children and for Tang Hao, and the explanation was always the
-same: every child carried a spirit, sleeping, waiting for the awakening
-year to be called out; and if the spirit was blessed, and if soul power
-came with it, a child might — might — walk the road of a spirit master.
+"Window again."
 
-He had listened. He had also, in the years behind him, learned that the
-world did not ask permission before it told you what you were.
+His mother stood in the doorway with two bowls in her hands. She said it
+the way she always said it — not angry, just filing the fact. She had
+dark working hands and a quick way of moving, and she had never once
+told him to be careful. That was the thing about her. Other mothers
+pulled their children back from the river and the hill. His mother looked
+at the healed scrapes on his shins, looked at the window in winter, and
+only ever asked him what he had learned.
 
-The spirit hall stood at the center of the village: not a hall, really,
-only a wooden house built wider than the others, its door propped open,
-its single room already loud with children. The boy counted the heads he
-knew — the year's children, all of them, the ones who had learned to read
-each other's fists on the hill and in the furrows — and let the count go.
-Villagers crowded the doorway and the walls, the old women with their
-arms folded, the men pretending they had not left work to be here. In the
-middle of the floor, the black stones lay set in their star, worn dark
-and smooth by every awakening year before this one.
+"I was hot," he said.
 
-And beyond the stones stood the spirit master.
+"You are always hot."
 
-Su Yuntao did not look like the stories made him. He looked tired. He
-looked like a man who had walked a long road between villages and who had
-one more room of children to get through before the road ended. White
-attendant's clothes, a plain voice, a nod for Old Jack that cost him
-nothing. When he raised his spirit to open the ceremony, the air in the
-room changed: his shadow thickened, hair crawled up his forearms, claws
-tipped each finger for just a breath, and two rings climbed into the dim
-— one white, one yellow, turning slow. The children went sacred-quiet. The
-old women bowed their heads.
+"That is why the window."
 
-Then it was only a man again, and the first child stepped into the star.
+She set the bowls down and put the back of two fingers against his
+forehead the way she had done since he was small, checking him the way
+other mothers checked the weather. Her hand was cool. His skin did not
+fight it. Some mornings she left her fingers there a moment longer than
+she needed to, and he had never asked why, because he was six and he
+already understood that some questions were really other things.
 
-The awakening was quieter than the boy had imagined it would be. Golden
-motes of light rose from the black stones, drifted up, and went into the
-child like rain into dust; the child stood very straight with his eyes
-shut; and then there was a sickle in his palm, plain as kitchen iron.
-Su Yuntao did not even straighten. "No soul power," he said, already
-looking past the boy. "Next."
+"Eat," she said. "Today is the day."
 
-A sickle. A hoe. A twist of blue grass in a girl's hand, so thin it
-might have been a weed pulled by mistake. One by one the children of the
-year stepped into the star, and one by one the golden light brought out
-the thing that had been sleeping in them, and one by one the crystal ball
-in Su Yuntao's hand stayed dark. No soul power. No soul power. No soul
-power. The words came out of him like a man counting out small change,
-and with every child the room shrank a little, and the old women's arms
-folded tighter, and the boy at the back felt the air go the way it always
-went when a village decided, kindly and completely, what the rest of
-someone's life looked like.
+He ate.
 
-"Can't become a spirit master," the men murmured at the door. "Can't
-become a spirit master."
+---
 
-Then it was Tang San's turn.
+The boy called Xiao San was already at the bend in the road.
 
-The boy watched his friend walk into the star — that level step, that
-absurd straight back on a child who had never once in his life slouched —
-and felt the old familiar mix of exasperation and something close to
-pride. Golden motes went into Tang San. The light lingered on him a
-breath longer than it had on the others, and then a small blue thing
-grew out of his palm, delicate and alive, blue-green in the gray morning
-light that came through the door.
+Tang San stood where the ruts went soft with a straight back and his
+hands folded the way old men folded their hands, which was exactly the
+kind of thing that made you want to push him into a bush. He had been
+awake for an hour. He had probably been awake since the second night of
+his life.
 
-Su Yuntao's face closed like a door. "Blue Silver Grass," he said. The
-disappointment was so plain in his voice that it was almost cruel. "A
-grass spirit. No attack, no defense, no utility worth the name — a
-standard trash spirit, child. Whatever else today brings, do not build
-your hopes on that."
+"You are late," Tang San said.
 
-"The spirit is mine," Tang San said. Quiet. Perfectly level. "May I
-still test the soul power?"
+"I am on time. You are early."
 
-The spirit master waved him closer, more out of tiredness than out of
-kindness, and held out the blue crystal ball. Tang San set his hand to
-it.
+"That is the same thing said badly."
 
-The room got bright.
+"It is the same thing said correctly."
 
-Not the honest half-light of a child's small gift — this was the light a
-window makes when the sun finally clears the roof, it poured out of the
-crystal and across the black stones and over the folded arms of the old
-women, and for a moment the whole wooden room was lit like a jewel. Su
-Yuntao jerked his hand back as if the ball had burned him.
+Xiao San's mouth moved the way it moved when he wanted to smile and had
+decided to postpone it. They fell in together on the road. They had
+walked this road together since before walking was a skill — to the well,
+to the hill, to the river in summer, to the blacksmith's door and away
+from it again — and the village had long since stopped finding it strange
+that the blacksmith's quiet son and the warm-blooded boy from the
+north-end house went everywhere in a pair.
 
-"Innate full spirit power," he said. He said it the way a man says a
-sentence he does not enjoy reading. "Full — do you understand what full
-means, child? And it came with *grass*." He looked at Tang San for a
-long moment. "What a pity. What a genuine pity. Stand to the side."
+Old Jack found them there. The village elder had his white hair combed
+flat and his best walking stick and the important face he wore once a
+year.
 
-Tang San took his hand off the crystal, bowed his head out of habit more
-than respect, and walked over to the wall. He did not look disappointed.
-He looked the way he looked when a calculation came out the way he had
-already known it would — and the boy who had grown up beside him caught
-his eye across the room and saw nothing to argue with, and let it go.
+"Come along, both of you. The spirit master is already at the hall."
+
+"He walked?" Tang San asked.
+
+"He walked from Nuoding before dawn, and I would thank you to look
+grateful when you see him." Old Jack led them off, talking the whole way
+the way he always did — about the ceremony, about what it meant, about
+how every child carried a spirit sleeping inside them until the awakening
+year called it out. He said a real spirit master would be doing the
+channeling today. A lord attendant from the Spirit Sub-Hall itself. He
+said the words "Spirit Grandmaster" the way other men said the names of
+gods.
+
+Both boys said the correct thing. Neither of them heard it.
+
+---
+
+The spirit hall was a wide wooden house at the center of the village,
+and it was full.
+
+Every child of the year stood in a nervous line, and behind them packed
+the whole world that mattered: the old women with their arms folded, the
+men leaning in the doorway with their work hats still on, mothers with
+babies on their hips. In the middle of the floor the black stones lay set
+in their star, worn smooth by every awakening that had come before this
+one.
+
+Su Yuntao did not look like a god. He looked like a tired man in white
+who had walked a long road between villages. He nodded at Old Jack, told
+the children to stop shuffling, and raised his spirit to open the
+ceremony — and the room changed. His shadow thickened. Hair crawled up
+his forearms. Claws tipped his fingers for just a breath, and two rings
+rose into the dim, a white one and a yellow one, turning slow. The
+children went quiet. The old women bowed their heads.
+
+Then he was only a man again, and the first child stepped into the star.
+
+The awakenings were quick and mostly sad. Golden motes of light rose from
+the stones, drifted into each child, and brought out whatever had been
+sleeping there: a sickle, a hoe, a sprig of blue grass thin as a weed.
+After each one, Su Yuntao held out the blue crystal ball. After each one,
+the ball stayed dark.
+
+"No soul power," he said each time, already looking past the child.
+"Next."
+
+The words came out like a man counting out small change. The line
+shortened. The room got quieter. The boys and girls who failed went to
+stand by the wall with the careful faces of people who had just been
+told, kindly and forever, what the rest of their lives looked like.
+
+Then it was Xiao San's turn.
+
+Tang San walked into the golden light with that level step of his, and
+the motes went into him, and for one breath the light lingered on him
+longer than it had on anyone else. A small blue thing grew out of his
+palm — delicate, alive, blue-green in the gray morning.
+
+Su Yuntao's face closed like a door.
+
+"Blue Silver Grass." The disappointment was so plain in his voice that
+it was nearly cruel. "A grass spirit. No attack, no defense, nothing a
+spirit master could use. A standard trash spirit, boy — do not build
+hopes on it."
+
+"The spirit is mine," Tang San said. His voice was even. "May I test the
+soul power anyway?"
+
+"Testing will not change the grass."
+
+"May I test it anyway?"
+
+Su Yuntao shrugged him in, more out of exhaustion than kindness, and
+held out the blue crystal. Tang San set his hand against it.
+
+The room went bright.
+
+Not a child's small half-light. This was the brightness of a window when
+the sun clears the roof — it poured across the black stones and over the
+folded arms of the old women and lit every face in the wooden room like a
+jewel. Su Yuntao jerked his hand back as if the ball had scorched him.
+
+"Innate full spirit power," he said. He said it like a sentence he did
+not enjoy reading. "Full — do you understand what full means? And it came
+with *grass*." He looked at Tang San a long moment. "What a pity. What a
+genuine pity. Stand to the side."
+
+Tang San bowed out of habit and walked to the wall. He did not look
+disappointed. He looked the way he looked when a sum came out exactly as
+he had calculated — and the boy at the back of the line caught his eye
+across the room, and the two of them had a whole conversation without
+saying anything, which was the only kind of conversation Tang San was
+ever any good at.
 
 "Last one," Su Yuntao said. "Come on, then."
 
 The boy stepped into the star.
 
-The black stones were warm under his bare feet — warmer than the room had
-any right to be, as if the stone remembered every soul that had ever been
-waked in it and had kept a little of each. He stood straight the way
-Tang San did, out of some private stubbornness he had never examined, and
-the golden motes rose around him and went in.
+The black stones were warm under his bare feet — warmer than the room
+had any right to be, as if the stone remembered every soul it had ever
+waked and had kept a little of each. He stood up straight. He did it the
+way Xiao San did it, on purpose, because some things were worth doing
+straight.
 
-What came in with them was heat.
+The golden motes rose and went in.
 
-Not the heat of fire — the heat of a body that had always, from the
-first cold morning of his life, known exactly how much of it to hold. It
+What came with them was heat.
+
+Not fire. Heat the way his body had always known it — the heat that had
+kept him awake by open windows in winter, the heat that had closed the
+scrapes on his shins by morning, the heat that had pulled him out of the
+river while the other children were still screaming about the cold. It
 settled into his chest the way a coal settles into a banked forge: low,
-patient, sure. He had felt it before — in fever, in the river in winter,
-in the long runs up the hill that no other child finished — and he had
-never had a name for it, and he did not need one now, because the light
-was gathering in his right palm and something in him was gathering with
-it, rising, reaching, arriving.
+patient, sure. He had felt it every day of his life. He had never needed
+a name for it, because it had never once been a question.
 
-He opened his hand.
+It gathered now. It rose. It reached his open right hand — and the light
+burst out of the black stones like the star had caught fire.
 
-A lizard lay in his palm, no longer than his forearm, scales the color
-of banked ember along its back, small claws curled, ember-bright eyes
-opening to look at the room with an intelligence that was not a dog's and
-not a cat's. Thin heat breathed off it and curled into the air. Where it
-rested, the boy's skin did not burn; it warmed the way the stones had
-warmed — recognized, not attacked. A low sound came out of it, not a
-hiss, something closer to a crackle — the sound a hearth makes when it
-takes a new log.
+The crowd made one sound.
 
-The room did not say no soul power.
+In his palm stood a lizard no longer than his forearm, scales the color
+of a banked ember down its back, small claws curled, ember-bright eyes
+opening to look at the room without asking the room's permission. Heat
+breathed off it and curled up into the air. The air itself shimmered,
+thin and bright, above the black stones. Somewhere in the line a mother
+took a step backward. The old women leaned in past each other's
+shoulders. Nobody said no soul power. Nobody said anything about grass.
 
-"Fire lizard," someone at the door breathed, and then the whole doorway
-was talking at once — a beast spirit, a beast spirit in the village, a
-fire-type beast spirit, the old women leaning in past each other's
-shoulders, the men craning. The boy stood in the star and let the thing
-in his palm look at its own reflection in two hundred astonished eyes.
+Su Yuntao took one step back — the first step he had taken all morning —
+and then caught himself doing it.
 
-【武魂 · 地火龙蜥 · 火属性】
+"Fire lizard," someone breathed in the doorway, and then the whole
+doorway was talking at once. A beast spirit. A fire-attribute beast
+spirit. A beast spirit in *their* village, in a year when the crystal had
+said no to every child who had stood in that star.
 
-Su Yuntao was no longer tired. He leaned in, and the boy watched the
-spirit master's face do the thing faces do when a calculation of theirs
-comes out differently than expected: the brows first, then the eyes,
-going over the lizard's back like a hand checking grain. "Beast spirit,"
-he said, half to himself. "Fire-attribute. Attack-type." His voice had
-lost its change-counting sound. "Extend your arm. The crystal."
+The lizard turned its head and looked at Su Yuntao.
 
-The blue ball went into the boy's hand, and the light came up — but it
-did not blaze. It rose to a steady, even brightness and stayed there,
-honest as a lantern, filling the glass without ever straining at it: not
-the dead dark of the children before him, and not the blinding, wasting
-flood of the boy at the wall. Mid. Steady. Enough.
+It did not hiss. It did not bow. It simply looked, with the calm
+attention of a small living furnace deciding whether the man was worth
+its heat, and something in the spirit master's face changed from surprise
+to something he had not worn since he walked into the room.
 
-"Mid," Su Yuntao said. He looked from the ball to the lizard to the boy,
-and this time the calculation went on longer. "Mid soul power, and a
-beast spirit with fire in it. Boy — you could cultivate." He said it as
-if he were informing the room more than the child. "A fire beast with mid
-innate power. There is a road for that."
+"Beast spirit," he said. "Fire attribute. Attack type." He held out his
+arm. "Give me the crystal. Slowly."
 
-【先天魂力 · 中】
+The boy handed it over without hurrying. Su Yuntao pressed it into his
+palm.
 
-"Where the grass can't go," someone muttered in the back, and several of
-the old women shushed the speaker at once, glancing toward the boy at the
-wall — which accomplished exactly the amount that shushing ever
-accomplishes in a village.
+The blue light rose — steady, even, honest. It filled the glass and
+stayed there without straining, without ever flooding: not the dead dark
+of the children before him, and not the wild, wasting blaze of the boy
+at the wall. A clean, level glow. Mid.
+
+"Mid," Su Yuntao said.
+
+He looked from the crystal to the lizard to the boy, and the calculation
+went on longer this time.
+
+"Mid soul power. A fire beast with an attack body." He let out a breath
+through his nose, almost a laugh, as if the road between villages had
+just paid him back for a month of no-account children. "Boy, you could
+cultivate. A fire beast and mid power — there is a real road for that.
+Straight road." He let go of the crystal. "Do not waste it."
+
+Behind the line, the old women were talking about it the way villages
+talk about things — fast, all at once, with opinions. The men in the
+doorway had forgotten to look solemn. Two mothers leaned together and
+did not lower their voices enough, and one of them said the blacksmith's
+boy had lit the room like a window, and the other said *yes, and did you
+see what the other one woke*, and both of them were right, and neither of
+them was the whole of it.
 
 ---
 
-Outside, the cold air hit their faces and the day went on as days do. The
-children spilled out of the wooden hall in a knot of noise, and for once
-the noise was not about them — it was about the room behind them, the
-sickle, the dark crystal, the grass, the light. The boy waited at the
-step until Tang San came out, and they walked the first stretch of the
-road side by side before either of them said anything.
+Outside, the cold air hit his face and felt good.
 
-"You were not upset," the boy said at last. It was not a question.
+The children spilled out of the wooden hall in a knot of noise. The boy
+waited on the step until Xiao San came out, and they walked the first
+stretch of the road the way they always walked it — side by side, not
+hurrying.
+
+"You were not upset," the boy said.
 
 "No."
 
-"Because you already knew it would be grass."
+"Because you knew it would be grass."
 
-Tang San considered this with the seriousness he gave everything. "Because
-it is mine," he said. "A spirit that is mine is worth more than a spirit
-that would have been better." He added, after a moment, in a different,
-lighter voice: "The light was very bright. You looked unsurprised by
-yours."
+"Because it is mine," Tang San said. He considered this, the way he
+considered everything, fully. "A spirit that is mine is worth more than a
+spirit that would have been better." Then, in a lighter voice: "Your
+light made the spirit master step back."
 
-"I have been warm my whole life," the boy said, and did not know, as he
-said it, where the sentence had come from. The lizard shifted on his
-shoulder — he had not decided to lift it there; it had simply gone, and
-his shoulder had accepted it, the way his shoulder had accepted everything
-that had ever needed carrying. "I thought it would be smaller."
+"He stepped back on his own."
 
-They walked. Behind them, the village went on doing what villages do with
-news: it moved from the doorway to the wall to the well and back again,
-gathering edges as it went. By the time the boy and Tang San reached the
-west side, where the blacksmith's chimney stood against the gray, the
-news had already decided two things for him — that the blacksmith's son
-had lit the crystal like a window, and that the boy who walked beside him
-had woken a fire lizard out of the dark — and both of them were true,
-and neither of them was the whole of anything.
+"He has never stepped back for a child in his life. I watched the line."
 
-Tang Hao's hammer was already ringing behind the crudest house in the
-village. It did not pause for awakenings. It had never once, in all the
-boy's years of standing at that door with Tang San, paused for anything.
+"Maybe he was warm. It was warm in there." The lizard shifted on the
+boy's shoulder — it had climbed up at some point without being invited,
+and his shoulder had accepted it the way it accepted everything. "I am
+always warm."
 
-"Well," said Old Jack, who had followed them up the road and now stood
-looking at the two of them the way he had looked that morning, with the
-smile of an elder taking credit for nothing at all. "Well. A grass and a
-lizard." He shook his head. "Eat something. The day does not stop for
+"Always," Tang San agreed, with the particular flatness of a boy who had
+been stating this fact for years.
+
+They walked on. Behind them, the village was already doing what villages
+do with news: it moved from the doorway to the wall to the well and back
+again, gathering edges as it went, until by the time the two boys reached
+the west side, where the blacksmith's chimney stood against the gray, the
+story had already decided that the year of no-souls had ended with a
+window-light and a fire lizard.
+
+At the north-end house, his mother was standing in the doorway.
+
+She had not gone to the hall. She had said all along that she would wait
+at home, in the way of a woman who had learned that some doors were
+better watched from her own — and now she stood with her arms folded the
+way old women folded theirs, and her cool hands were against his forehead
+before he had said anything at all, checking weather the way she always
+checked weather, and this time her fingers stayed there.
+
+"Well?" she said.
+
+"It went well."
+
+"Show me."
+
+He opened his hand. The lizard lifted its head in the doorway light,
+ember scales catching the gray morning, and regarded its maker's world
+without hurry. The heat off it curled into the cold and vanished. His
+mother looked at the small living fire in her son's palm for a long
+moment, and her face did the thing faces do when a calculation comes out
+differently than expected — and then, whatever she had been carrying
+since the window in winter, since the river, since every morning he had
+woken warm in a cold house, set down somewhere out of sight.
+
+"Good," she said. Only that. Then: "Eat. The day does not stop for
 either of you."
 
-The day did not stop. That was the thing about days: they went on with
-you in them. The boy stood at the blacksmith's door a while longer,
-warmth sitting low and sure under his ribs, the lizard's breath curling
-small in the cold like a handwriting only he could read, and then he
-walked home through a village that was already, without asking him,
-starting to expect something of him.
+She had always known. He understood that suddenly, standing in his own
+doorway — she had not needed the black stones or the crystal or the lord
+attentant from Nuoding to tell her what lived under her son's skin. She
+had been reading it in the window and the river and the healed shins for
+six years.
 
-He did not know what to do with expectation yet. He knew what to do with
-warmth.
+The afternoon went on. The hammer rang behind the blacksmith's house the
+way it rang every day, because it had never once paused for awakenings.
+The village kept its news and its opinions. The lizard rode his shoulder
+warm as a pocket of summer, and the low heat under his ribs sat where it
+had always sat, patient and sure, no longer a question.
 
-Tomorrow there would be the hill, the river, the long runs. Tomorrow
-there would be Tang San and the stones in his pocket and the whole
-unlit country of the year ahead. Tonight there was only the smoke, and
-the ring of the hammer, and the small living heat on his shoulder, and
-the road under his feet going on — going on, as if it had never once
-been fixed, anywhere, by anyone.
+That evening he stood at the bend in the road with Tang San, watching
+the light go out of the sky, and neither of them said anything that
+needed saying. Tomorrow there would be the hill and the river and the
+long runs. Tomorrow there would be stones in pockets and the whole unlit
+country of the year ahead.
+
+Tonight there was only the cold air on a warm face, and the small living
+weight on his shoulder, and the road under his feet going on — going on,
+the way it always had, without asking anyone what it was supposed to be.
 
 ---
 
-*Chapter 01 — coverage: `canon_coverage/Canon_Coverage_Chapter_01.md`.
-Gated: `tools/chapter_gate.py`.*
+## Footer
+
+- **Project state:** Chapter 1 rewritten from zero (author's order) —
+  gated, band 2400–3400.
+- **Canon span touched:** Douluo novel ch1 + the ch2 awakening ceremony
+  (receipts: `canon_coverage/Canon_Coverage_Chapter_01.md`). Tang San's
+  beat intact: Blue Silver Grass, innate full spirit power, "what a pity,"
+  second soul secret untouched.
+- **OC state:** unnamed; Holy Spirit Village; awakened Ground Fire Dragon
+  Lizard (fire beast, Power Attack); innate **mid** (5–7, no digit in
+  prose); zero rings; womb adaptation shown concretely (warm body,
+  fast healing, cold-tolerance) and never named in-story.
+- **Family:** mother present, unnamed by the author's name rule (she is
+  "his mother"); father not ruled — absent, silent.
+- **Exact locked anchors:** cheat-interface mechanics banned everywhere
+  (the author's own words: PRE4, in RULINGS_LOG); No-Fix Law holds (no
+  ceiling written); direction = canon road in parallel + natural
+  butterflies; walls hold against other SL1 lines.
+- **Knowledge firewall:** no character knows the plot; the talent has no
+  name in-story; Su Yuntao noted "mid + fire beast" and left.
+- **Next natural pressure:** village expectation (D1 butterfly), the
+  friendship years, blacksmith's door, then the road to Nuoding — on the
+  author's word.

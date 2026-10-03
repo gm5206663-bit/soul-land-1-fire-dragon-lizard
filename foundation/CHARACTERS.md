@@ -1,36 +1,21 @@
 # CHARACTERS — the cast
 
-**Rules:** three registers only (PL). No names the author hasn't given —
-"the OC (unnamed)" until ruled. Author knowledge is never character
-knowledge (see RELATIONSHIPS).
+| Who | What is ruled about them |
+|---|---|
+| **the OC** (unnamed) | Same age as Tang San, Holy Spirit Village, his best friend. Womb Adaptation, no System. Ground Fire Dragon Lizard, innate mid (5–7), zero rings. Warm body, fast healing — shown in Ch1, never named in-story. **No name — never invent one.** |
+| **Tang San** | The canon boy. Blacksmith's son, secret skill since age 1, Blue Silver Grass + hidden hammer + full innate. His beats are canon's — untouched. |
+| **Tang Hao** | The only blacksmith. West side, crudest house. Never pauses for anything. |
+| **Old Jack** | Village elder. Brought the children to the awakening. |
+| **Su Yuntao** | Spirit master from the Nuoding Sub-Hall. Ran the ceremony; saw "mid + fire beast"; gone. |
+| **the OC's mother** | Exists (premise — the womb talent's carrier). Warm, practical, checks his weather with two fingers. **No name given — don't invent one.** Father: not ruled — absent, silent. |
 
-## Main cast (this serial)
+## Not here (walls)
 
-| Who | Register | What is ruled about them | Source |
-|---|---|---|---|
-| **the OC (unnamed)** | MC | same age as Tang San; Holy Spirit Village; childhood friend; womb Adaptation Talent; **no system**; martial soul **Ground Fire Dragon Lizard** (fire beast, Power Attack); innate **5–7** | PRE2/PRE4, R4/R5/R6 |
-| **Tang San** | canon | the canon boy — blacksmith's son, Mysterious Heaven Skill from 1, Blue Silver Grass + hidden hammer at D0, full innate power; his beats untouched | R1, canon receipts |
-| **Tang Hao** | canon | only blacksmith in the village, west side, crudest house; hiding from the world (canon) | Douluo ch1 |
-| **Old Jack** | canon | village elder; runs the awakening ceremony; visits Tang Hao's house to invite him | Douluo ch1 |
-| **the OC's mother** | ruled-existence only | exists — the womb talent's carrier (PRE2). Nothing else ruled; write nothing until the author says more | PRE2 |
+Gu Yuan (`SL1_GU_YUAN`) · Lan Shen (`soul_land_new`) · Luo Chen
+(`soul_land_holy_spirit`) · the SL4 fire-phoenix cast. Shared beast name,
+zero crossover.
 
-## Children of the village (D1 zone)
+## Villagers
 
-Canon names **no** village childhood friend of Tang San. Any kid besides
-these four = **[design]**, add-only, logged as divergence — never stealing
-a canon beat.
-
-## Not in this serial (walls, R9)
-
-- **顾渊 Gu Yuan** (`SL1_GU_YUAN`) — another SL1 life, ch98; walls hold.
-- **Lan Shen** (`soul_land_new`) — born 20 years before Tang San; walls hold.
-- **Luo Chen** (`soul_land_holy_spirit`) — SL2 reincarnator; walls hold.
-- **Qian / fire-phoenix serial** — the *summoned* Ground Fire Dragon Lizard
-  (SL4) — same beast name, zero crossover (R9).
-
-## Rules
-
-- Nothing above moves without a ruling or a receipt.
-- No pre-cast antagonist: direction follows the fire-phoenix pattern (R12
-  ruled) — a villain emerges on page, never pre-written.
-- The OC's name: **none** — prose never invents one.
+Canon named nobody else in the village. Any new kid = design, logged as
+a divergence, never taking a canon beat.

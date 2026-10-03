@@ -26,6 +26,6 @@ Read order: RULINGS_LOG → OPEN_RULINGS → STATUS → the rest → HANDOFF las
 | TIMELINE | day by day from D0 = DC 2637 |
 | CHARACTERS / RELATIONSHIPS | cast + who knows what |
 | POWER_LAW / SKILLS_CANON / RAILS | strength, skills, voice |
-| STORY_ARCS / PANELS / PLACES / GLOSSARY / ECONOMY | the rest of the skeleton |
+| STORY_ARCS / PANELS / PLACES / GLOSSARY | the rest of the skeleton (kept plain on purpose) |
 | SERIAL_LOG | this serial's chronology |
 | HANDOFF | the guard rails for whoever writes next |

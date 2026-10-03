@@ -181,3 +181,21 @@ description also orders: build `tools/` with the 2400–3400 band, close
 Stage 0, drafting unlocks.
 
 **R12 status: ✅ RULED — all 13 lanes ruled. Stage 0 may close.**
+
+---
+
+## Round 4 — the rejection and the fix orders (2026-10-03)
+
+> **On Chapter 1 and the files, verbatim:** "This is worse chapter 1 i ever
+> got in my life completely trash And what files is also"
+> **On what was wrong with Chapter 1 (asked to choose):** "Everything"
+> **How to fix Chapter 1:** selected option — **"Delete and rewrite from zero"**
+> **On what is wrong with the files:** "That you should find yourself"
+> **On how to fix the files:** "Find out yourself,try again and again and
+> again"
+
+**Recorded as:** Chapter 1 rejected in full — style, events, focus. Fix =
+**rewrite from zero**. Files: rejected; the diagnosis and the repair are
+mine to find, through iteration. The style reference is his own serial:
+`soul_land_4_fire_phoenix` Chapter 1 (plain prose, concrete talent beats,
+family core, dialogue-first, structured Footer).

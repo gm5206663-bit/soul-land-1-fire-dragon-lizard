@@ -1,49 +1,43 @@
-# FOUNDATION — soul-land-1-fire-dragon-lizard
+# FOUNDATION — what this serial is
 
-**Snapshot v2 — Stage 0 COMPLETE, Chapter 1 live, 2026-10-03.**
-Authority order: author word > this file > STATUS > codex > kit > README.
+**Authority:** the author's word beats every file. Nothing here
+paraphrases his words — see `RULINGS_LOG.md` for the originals.
 
-## The premise, in the author's words
+## The premise, in his words
 
-> **"Oc is from soul' land 1, same age, village, and childhood friend of Tang
-> San,he have adaption telent from birth mother womb,his martial soul is fire
-> dragon lizard martial soul"** (PRE2, 2026-10-03)
+> "Oc is from soul' land 1, same age, village, and childhood friend of
+> Tang San,he have adaption telent from birth mother womb,his martial
+> soul is fire dragon lizard martial soul"
 
-Plus: **"No system, adaption telent"** (PRE4) and the founding law —
-**"There is no fix in my fen fiction, there is always thing's go naturally,
-this is rule"** (PRE3, the No-Fix Law).
+> "No system, adaption telent"
 
-## What this serial is
+> "There is no fix in my fen fiction, there is always thing's go
+> naturally, this is rule"
 
-Soul Land 1. An OC born the same age as Tang San in **Holy Spirit Village**,
-his **childhood friend**, with a womb-born **Adaptation Talent** and the
-martial soul **Ground Fire Dragon Lizard**. No system. Nothing fixed —
-growth goes naturally and is earned on page.
+## What that means
 
-## The laws that bind
+A Soul Land 1 serial. The OC grows up the same age as Tang San in Holy
+Spirit Village, his best friend, with a fire lizard for a martial soul
+and a talent he was born with. No system. Nothing about his future is
+pre-written — it happens on the page, naturally, and it earns itself.
 
-1. **Foundation-Stage law** — rulings first, prose second, zero chapters
-   until ruled. (Restated by the author same day: PRE5.)
-2. **No-Fix Law (PRE3)** — no fixed ceilings, no pinned endpoints.
-3. **No system (PRE4)** — Adaptation Talent only, same locked universal
-   module as the author's other adaptation OCs (R10, [design]).
-4. **Canon never displaced (R7)** — the friend is an addition (D1), canon
-   beats walk untouched.
-5. **Gate-before-ship** — no chapter before `tools/` passes.
-6. **Separation walls (R9)** — never cross `SL1_GU_YUAN`, `soul_land_new`,
-   `soul_land_holy_spirit`, or the SL4 fire-phoenix serial. A shared beast
-   *name* (Qian's Ground Fire Dragon Lizard summon) is not a crossover.
-7. **Clean and clear (R11)** — third-limited, OC POV, past; figures in
-   STATUS, never prose.
+## The laws
 
-## Stage 0 state — COMPLETE
+1. **Rulings first, prose second.** Stage 0 closed with all 13 lanes
+   ruled before Chapter 1 existed.
+2. **No Fix Law:** no ceilings, no endpoints, no "never".
+3. **No System, ever.**
+4. **Canon is never displaced** — the friend adds; canon walks intact.
+5. **Gate before ship** — `tools/chapter_gate.py` must pass.
+6. **Walls hold** — no crossing to the author's other serials.
+7. **Plain and clear** — third-limited OC voice, past tense; numbers in
+   STATUS, not prose.
 
-**13 of 13 lanes ruled (2026-10-03). Gate built
-(`tools/chapter_gate.py`, band 2400–3400), `foundation_gate.py` PASS,
-drafting unlocked, Chapter 1 shipped and gated the same day.** Name: none
-ruled — prose never invents one. The three-blank spine format is banned
-forever (R12 Round 3).
+## State
+
+Stage 0 complete. Chapter 1 shipped and gated. The OC is still unnamed —
+prose never invents one. The three-blank spine format is banned.
 
 ## Read order
 
-`RULINGS_LOG` → `OPEN_RULINGS` → `STATUS` → the rest → `HANDOFF` last.
+`RULINGS_LOG` → `STATUS` → the rest → `HANDOFF` last.

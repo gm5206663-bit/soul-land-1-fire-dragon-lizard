@@ -1,17 +1,12 @@
 # CANON_ACCESS — when canon may be opened
 
-**R1 (ruled): SL1 novel as spine; anime/manhua/secondary wikis as anchor
-ore only.** Receipts must name their source (novel chapter, wiki page, or
-`[design]`).
-
-- **During Stage 0 / prep:** any source may be read and receipted — nothing
-  may be *lifted* into prose until the spine (R12) rules and the gate opens.
-- **During drafting:** the spine chapters of *Douluo Dalu* (novel) are the
-  authority for canon beats; wikis confirm names/dates; adaptations
-  (`[fan]`) never overwrite the novel.
-- **Never:** rAF dates in prose (k04); adaptation-exclusive facts tagged
-  `[canon]`; canon beats displaced (R7); SL2/SL4 sources bleeding into
-  this SL1 line (walls, R9).
-- The Earth Fire Lizard receipts (SL4 ch154 via wiki) are **species
-  receipts** — usable to describe the beast family, never to import SL4
-  plot, places, or characters (R9).
+- **Ruling:** the SL1 novel is the spine. Anime, manhua, wikis = anchor
+  only, always tagged with their source.
+- Any source may be *read* and receipted at any time. Nothing gets *used*
+  in prose before its coverage file names it.
+- Every receipt names its source: novel chapter, wiki page, or `design`.
+- Adaptation-only facts are never tagged canon.
+- The SL4 beast receipts describe the species only — no SL4 plot,
+  places, or characters leak into this SL1 line.
+- Never in prose: rAF-style dates, adaptation-exclusive "facts",
+  displaced canon beats.

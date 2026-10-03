@@ -1,34 +1,25 @@
 # POWER_LAW — how strength works here
 
-> Ceiling: **RULED by PRE3 — the No-Fix Law.** *"There is no fix in my fen
-> fiction, there is always thing's go naturally, this is rule."* No fixed
-> ceiling exists in either direction: nothing is pinned to a rank, nothing
-> is declared "never". Strength is earned on page (k05) and the ladder runs
-> its canon course. No agent may invent an endpoint; the absence of a pin is
-> the lock.
+**The ceiling: there isn't one.** The No-Fix Law rules — nothing about
+the OC's future is pinned, in either direction. Strength is earned on
+page. The absence of a pin is the lock.
 
 ## The engine
 
-- **Womb Adaptation Talent (PRE2/PRE4)** — the only engine. **No System**
-  (PRE4), no panels of numbers, no menus. Same locked universal module the
-  author's other adaptation OCs run (R10, [design]) — never named in prose.
-- **Martial soul: Ground Fire Dragon Lizard (R4)** — fire-attribute beast
-  soul, Power Attack System (R6). Innate soul power **5–7** (R5) — mid, next
-  to Tang San's full innate (canon receipt).
+- **Womb Adaptation** — passive, always working, from before birth.
+  No System. Details in `../bible/ADAPTATION_TALENT.md`.
+- **Ground Fire Dragon Lizard** — fire beast, attack type. Innate soul
+  power: mid (5–7). Beside Tang San's full innate (canon).
 
-## The ladder (canon receipts, applied when ruled)
+## The ladder (canon)
 
-- Ranks run the canon course (魂士→魂师→…→封号斗罗→…); rings by beast age:
-  10+ white · 100+ yellow · 1,000+ purple · 10,000+ black · 100,000+ red
-  (stard *Spirit Beast* receipt). Optimal 1st ring ≤423y, 2nd ≤764y (ring
-  tables receipt).
-- **Ring policy for this OC is not yet ruled** — no file may state what he
-  takes or when beyond receipts. A future lane may add one; until then:
-  nothing claimed.
+Ranks run the canon course. Ring colors by beast age: white (10+) →
+yellow (100+) → purple (1,000+) → black (10,000+) → red (100,000+).
+Optimal first ring ≤423 years, second ≤764 (receipts: `CANON_GROUND.md`).
 
-## What must never appear
+**What the OC's rings will be: not ruled.** No file may claim ring choices
+until the author rules them.
 
-- A ceiling, an endpoint, a "strongest he'll ever get", a "never". (PRE3)
-- System vocabulary. (PRE4)
-- Fixed future power in speculation that hardens into law.
-- Exact figures in prose — STATUS/panels carry them. (R11, F22)
+## Never
+
+A ceiling · a "never" · System vocabulary · exact numbers in prose.
