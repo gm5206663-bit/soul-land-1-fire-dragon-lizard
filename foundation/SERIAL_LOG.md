@@ -141,3 +141,12 @@ after an explicit rejection is how a wrong fix ships.
   source position, current scene, character status, regression check).
 - storyos/ adopted: universal NO_MISTAKE verbatim + own BANNED_TOKENS;
   audits/ receipt written; HANDOFF aligned to LOAD→VERIFY→MAP + R-IDs.
+
+## 2026-10-03 (author verdict — emoji, recorded not interpreted)
+
+> **"😡😡😡😡😡"**
+
+**Recorded as:** the author is still angry after the fire-phoenix-anatomy
+rebuild. Emoji verdicts are recorded, never treated as rulings (house
+precedent). The order in force remains: "Find out yourself, try again and
+again and again." Continuing the self-diagnosis.
