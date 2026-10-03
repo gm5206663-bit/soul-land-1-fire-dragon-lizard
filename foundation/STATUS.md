@@ -1,6 +1,6 @@
 # STATUS PANEL — Fire Dragon Lizard (Soul Land 1)
 
-**Live edge: after Chapter 2, `The Fire in the Star` (gated PASS, 2931 words).**
+**Live edge: after Chapter 3, `Three Months` (gated PASS, 3637 words).**
 
 Purpose: single current-state panel for continuation. When the story
 changes, this file changes the same turn. Never rebuild it from memory.
@@ -28,14 +28,16 @@ For the author's words, see `RULINGS_LOG.md`; for canon receipts,
 
 ## 1. Latest written artifacts
 
-- Latest prose: `chapters/Chapter_02.md` — **The Fire in the Star**
-  (2931 words, gate PASS).
-- Latest coverage: `canon_coverage/Canon_Coverage_Chapter_02.md`
-  (6-part receipt format) + `CANON_COVERAGE_INDEX.md`.
-- Chapter gates: Chapter_01 PASS (2430) · Chapter_02 PASS (2931) ·
-  selftest 14/14.
-- Foundation gate: PASS · stage 0 unlocked · 2 chapters on disk.
-- Validation receipt: `audits/CHAPTER_VALIDATION_2026-10-03.md`.
+- Latest prose: `chapters/Chapter_03.md` — **Three Months** (3637
+  words, gate PASS).
+- Latest coverage: `canon_coverage/Canon_Coverage_Chapter_03.md`
+  (his storyos table format: beats consumed / scene ledger / knowledge
+  delta / prop delta / power check / butterfly register).
+- Chapter gates: Chapter_01 PASS (4539) · Chapter_02 PASS (3756) ·
+  Chapter_03 PASS (3637) · selftest 14/14.
+- Foundation gate: PASS · stage 0 unlocked · 3 chapters on disk.
+- Validation receipt: `audits/CHAPTER_VALIDATION_2026-10-03.md`;
+  `audits/RECEIPTS_2026-10-03_cycle4.md` (RECEIPT_TEMPLATE shape).
 
 ## 2. Source position
 

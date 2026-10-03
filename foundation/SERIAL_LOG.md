@@ -182,3 +182,15 @@ again and again." Continuing the self-diagnosis.
 - Author verbatim: "Okay" — recorded as verdict, not a ruling.
 - State holds: ch1 PASS 4539, ch2 PASS 3756, selftest 14/14, foundation
   PASS. Father remains not ruled — absent, silent. No gates touched.
+### 2026-10-03 — round 11 — Chapter 3 "Three Months" (author word: "Next")
+- Coverage written FIRST in his storyos table format (canon source:
+  novel ch2–3 span, anchor-corroborated same day: three months at the
+  forge, Jack escort, working-student terms — tuition/board waived,
+  work for food).
+- Prose: expectation D1 (no invented ceremony), Jack's announcement,
+  the shut door + "Not today" + yard work, bellows seat returned ("It
+  wants feeding"), hill evenings firewalled, want spoken at the lamp +
+  the road-tin, Jack's notice — no promise, no quota, Tang San's beat
+  untouched. Gate PASS 3637 words, 0 warnings. No panels (footer only).
+- Footer duties same turn: STATUS, CODEX, TIMELINE (awakening renumbered
+  to Ch2, Ch1 birth added), STORY_ARCS, HANDOFF, index.

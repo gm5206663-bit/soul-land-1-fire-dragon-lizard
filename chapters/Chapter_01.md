@@ -502,7 +502,7 @@ themselves.
 - **Cast:** mother (exists, unnamed, watching); midwife (design,
   unnamed); **Tang Hao — real relationship**: open-door forge years,
   bellows, iron colors, one subject closed; Tang San in canon position
-  (friendship after the bucket); Old Jack — lore-teacher to the OC;
+  (friendship after the bucket); Old Jack — lore-teacher to the boy;
   no father — not ruled, silent.
 - **Exact locked anchors:** No-Fix Law holds; no power, no rings, no
   endpoint exists yet or is implied; walls hold.

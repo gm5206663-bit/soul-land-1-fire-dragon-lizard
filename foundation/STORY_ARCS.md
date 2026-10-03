@@ -6,8 +6,11 @@ sentence exists (that format is banned).
 
 ## Book 0 — the village (written)
 
-Chapter 1: awakening day — the OC's fire lizard, Tang San's canon moment,
+Chapter 1: birth foundation — "Two Beginnings". ✅
+Chapter 2: awakening day — the OC's fire lizard, Tang San's canon moment,
 the friend beat, the mother at the door. ✅
+Chapter 3: three months — expectation, the shut door, the want spoken,
+earning begins (no promise, no quota). ✅
 
 ## Book 0 continues (not written)
 

@@ -12,6 +12,9 @@ Read order: RULINGS_LOG → OPEN_RULINGS → STATUS → the rest → HANDOFF las
 | 2026-10-03 | **Round 3 — author rejected the blank-sentence spine format** (verbatim in RULINGS_LOG) and ordered the fire-phoenix project studied; useful parts only adopted: `bible/ADAPTATION_TALENT.md`, `bible/PROTAGONIST.md`, `NO_MISTAKE_LIVE_RULES.md`, `BUTTERFLY_EFFECTS.md`, `canon_coverage/` protocol, cockpit README/bible, pacing rule. R12 reframed = fire-phoenix pattern | `RULINGS_LOG.md` Round 3 |
 | 2026-10-03 | **R12 RULED — author's selection verbatim: "Full start: close R12 with defaults + build the chapter gate."** Direction = fire-phoenix pattern; band 2400–3400 applied; `tools/chapter_gate.py` built; **13/13 — Stage 0 complete** | `RULINGS_LOG.md` R12, `OPEN_RULINGS.md` |
 | 2026-10-03 | **Chapter 1 written and gated** — author's word "Write"; coverage-first (`Canon_Coverage_Chapter_01.md`), `Chapter_01` 2444 words band PASS, STATUS v2 synced | `chapters/Chapter_01.md`, `SERIAL_LOG.md` |
+| 2026-10-03 | **R13 correction (R14 follow-on rounds)** — band 2400–3400 → **3600–5000** (receipts: author's own chapters 4622/4154/3776); Ch1→"Two Beginnings" + Ch2 rehomed; both gated PASS (4539 / 3756) | `RULINGS_LOG.md` R13/R14, `chapters/` |
+| 2026-10-03 | **R14** — crystal mid readout carries its digit (level 6, R5 band); R4 name **spoken in-story**; six years rebuilt to bible §2 (talent works, Tang Hao relationship, Jack lore — author verdicts round 8–10) | `RULINGS_LOG.md` R14, `SERIAL_LOG.md` |
+| 2026-10-03 | **Chapter 3 written and gated** — author's word "Next"; coverage-first in his storyos table format; `Chapter_03` "Three Months" 3637 words PASS 0 warnings; no promise, no quota, canon departure still ahead | `chapters/Chapter_03.md`, `canon_coverage/Canon_Coverage_Chapter_03.md` |
 
 ## Index
 
