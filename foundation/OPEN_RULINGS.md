@@ -10,12 +10,15 @@
 >
 > **DRAFTING IS LOCKED — one lane open:**
 >
-> - **R12 — THE SPINE (Lock 4)** — his answer to the question was
->   **"What"** (verbatim, recorded) — the question is **re-asked below in
->   plainer words.** No agent may fill it.
+> - **R12 — direction lane** — the author **rejected the three-blank
+>   sentence format** (his words verbatim in `RULINGS_LOG.md`, Round 3) and
+>   ordered the fire-phoenix project studied. Done — useful parts only. The
+>   lane's recommended default is now the **fire-phoenix pattern**: the
+>   canon road in parallel (R7) + natural butterfly effects under the
+>   No-Fix Law (PRE3). 🔴 stays until he closes it himself.
 >
-> **How to answer:** "defaults" or strike per-R, or write your own words.
-> Anything you write is recorded **verbatim** in `RULINGS_LOG.md`.
+> **How to answer:** "defaults" or your own words — no blank sentence, no
+> quiz. Anything you write is recorded **verbatim** in `RULINGS_LOG.md`.
 
 ---
 
@@ -34,7 +37,7 @@
 | **R9** | Separation walls | **Walls hold:** never cross `SL1_GU_YUAN` (origin workspace lost/not consulted), `soul_land_new` (Lan Shen, born 20 years earlier), `soul_land_holy_spirit`, or the SL4 fire-phoenix serial — a shared beast *name* is not a crossover | Three SL1 lines (+SL2/SL4), views, never bridges. | ✅ RULED 2026-10-03 (defaults) |
 | **R10** | Which adaptation module? | **The kit's locked universal core** — same engine as your other womb-talent OCs, village-boy expression, never named in prose | House precedent: one talent, many serials. | ✅ RULED 2026-10-03 (defaults) |
 | **R11** | Voice | **Third-person limited, OC POV, past; clean-and-clear; panels (F22) only on gain beats; figures in STATUS, never prose** | The law chapters get gated against. | ✅ RULED 2026-10-03 (defaults) |
-| **R12** | **THE SPINE (Lock 4)** — no default offered | *His answer to the question was* **"What"** *(verbatim — recorded, nothing inferred).* **Re-asked, plainer:** *Who is against your OC? What do they want FROM him? What will they do to get it?* One sentence, three parts: "**______ wants ______ from my protagonist, and will ______ to get it.**" | A village, a friend, and a lizard are a setting until this is filled. | 🔴 OPEN |
+| **R12** | **Direction (was: "the spine")** | ~~three-blank sentence~~ **format rejected by the author 2026-10-03 (verbatim in RULINGS_LOG).** New recommended default — the **fire-phoenix pattern he pointed to**: the canon road walked in parallel (R7) + natural butterfly effects under the No-Fix Law (PRE3); direction emerges on page, never pre-written | A village, a friend, and a lizard grow into a story the way his fire-phoenix serial does: canon pressure + earned consequences | 🔴 OPEN (reframed — his call) |
 | **R13** | Chapter-gate band | Deferred to gate-build (before chapter 1) — house band 2400–3400 / avg 14–18 is the standing recommendation | Foundations first; the band is a gate-stage number. | ✅ RULED 2026-10-03 (defaults) |
 
 ---
@@ -48,7 +51,8 @@ clean-and-clear, Control Centre protocol, separation walls.
 
 ## What Stage 0 still needs
 
-1. **R12 answered** — one sentence, three parts (above).
+1. **R12 answered** — the author's call, in any shape he likes ("defaults"
+   takes the fire-phoenix pattern; the blank-sentence format is banned).
 2. Chapter gate (`tools/`) built **before** chapter 1 (R13 band applies
    when it is built).
 3. `foundation_gate.py` PASS with every lane ruled → Stage 0 closed →

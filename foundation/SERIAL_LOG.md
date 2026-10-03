@@ -26,3 +26,14 @@
 ---
 
 Append future events below, newest last. Never rewrite history.
+- **Round 3 (same day) — the author rejected the blank-sentence spine
+  question** ("What the hell you even makeing this nonsense... go check my
+  fire phonixe project completely learn everything from there, don't copy
+  everything of fire phonixe project in your workshop, only usefull things"
+  — verbatim in RULINGS_LOG). The fire-phoenix project was studied
+  completely (structure, bible, codex, locks, coverage, talent spec);
+  **only the useful things adopted**: bible/ADAPTATION_TALENT,
+  bible/PROTAGONIST, NO_MISTAKE_LIVE_RULES, BUTTERFLY_EFFECTS,
+  canon_coverage protocol, cockpit README + MASTER_PROJECT_BIBLE, pacing
+  rule, contradiction-report rule. R12 reframed as the direction lane with
+  the fire-phoenix pattern as its default; marker stays 🔴 his to close.

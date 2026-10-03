@@ -3,11 +3,11 @@
 **Current state: Stage 0. 12 of 13 lanes ruled. Zero chapters. Drafting
 LOCKED — R12 (the spine) is open and no agent may fill it.**
 
-1. **R12 is open on purpose.** The author's answer to the spine question on
-   2026-10-03 was **"What"** (verbatim, in `RULINGS_LOG.md`) — it was
-   re-asked in plainer words. Inventing the spine is the exact failure the
-   Foundation-Stage law exists to prevent. (R1–R11 and R13 are ruled — do
-   not re-ask them.)
+1. **R12 (direction) is open and reformatted by the author himself.** He
+   rejected the three-blank sentence ("...nonsense..." — verbatim in
+   `RULINGS_LOG.md` Round 3) and pointed at the fire-phoenix project.
+   Do NOT ask the blank-sentence version again. Reframed default: canon
+   road in parallel + natural butterflies (No-Fix Law). No agent closes it.
 2. **No name invention.** The OC has no name until the author gives one.
    No chapter ships before the gate (`tools/`) exists and passes.
 3. **Read order:** RULINGS_LOG → OPEN_RULINGS → STATUS → the rest; this
@@ -20,4 +20,9 @@ LOCKED — R12 (the spine) is open and no agent may fill it.**
    `soul_land_holy_spirit`, or the SL4 fire-phoenix serial — shared beast
    *name* included.
 7. **Answers arrive only from the author.** When he rules, quote him
-   verbatim, record the same turn, re-run the gate, push.
+   verbatim, record the same turn, re-run the gate, push. If you find a
+   contradiction: report it, cite both sources and dates, propose the
+   minimal correction, and wait — never silent-fix.
+8. **Read `foundation/NO_MISTAKE_LIVE_RULES.md` before drafting anything**
+   — it holds the hard bans and the authority order (learned-from
+   fire-phoenix, useful part only).

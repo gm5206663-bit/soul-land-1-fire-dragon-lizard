@@ -33,8 +33,9 @@
 - Canon never displaced — the friend adds, never replaces (R7, D1).
 - Exact figures never in prose (R11 house rule, F22).
 - No-Fix Law: no ceiling, no "never", no pinned endpoint (PRE3).
-- 🔴 Lock 4 spine: **OPEN (R12)** — no arc may claim the story's want until
-  ruled.
+- 🔴 Direction lane: **OPEN (R12)** — the author rejected the three-blank
+  format (2026-10-03); reframed default = fire-phoenix pattern (canon road
+  in parallel + natural butterflies). No agent may close it.
 
 ## Bans
 
