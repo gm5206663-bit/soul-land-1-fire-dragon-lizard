@@ -83,3 +83,13 @@ Append future events below, newest last. Never rewrite history.
   (live edge + current guard). Chronology files (SERIAL_LOG, CODEX)
   keep their history untouched — receipts are never rewritten.
   Gates re-run: chapter_gate selftest 14/14, foundation_gate PASS.
+
+## 2026-10-03 (author verdict — verbatim)
+
+> **"This is worse chapter 1 i ever got in my life completely trash
+> And what files is also"**
+
+**Recorded as:** Chapter 1 **rejected** by the author (quality verdict) and
+the files rejected alongside it. Nothing defended, nothing argued. Fix
+direction requested from the author before rewriting — a second guess
+after an explicit rejection is how a wrong fix ships.
