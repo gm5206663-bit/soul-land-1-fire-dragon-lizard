@@ -14,10 +14,10 @@ Day 0 = the awakening ceremony, **Douluo Calendar 2637** (R3).
 
 | Day | What | Chapter |
 |---|---|---|
-| ~2637, winter | Birth foundation: womb adaptation shown, arrival, village counted | Chapter 1 ✅ |
-| D0 | Awakening: Tang San reads grass + full innate; the OC reads Ground Fire Dragon Lizard, level 6. Friend beat: walk, wall, road home. Mother at the door | Chapter 2 ✅ |
+| ~2637, winter | Birth foundation: womb adaptation shown, arrival, **Chen Xing named (Xiu, eighth day; father Chen Jian the carpenter)**, village counted, workbench years | Chapter 1 ✅ |
+| D0 | Awakening: Tang San reads grass + full innate; Chen Xing reads Ground Fire Dragon Lizard, level 6. Friend beat: walk, wall, road home. Father at breakfast, mother at the door | Chapter 2 ✅ |
 | D0 + ~3 months | Expectation (D1), Jack's road announcement, the shut door, the want spoken, earning begins | Chapter 3 ✅ |
-| D0 + 3 months + 8 days | Departure: Tang Hao sends San, Jack walks him south, the boy stays; tin still shut | Chapter 4 ✅ |
+| D0 + 3 months + 8 days | Departure: Tang Hao sends San, Jack walks him south, the boy stays; father at the gate; tin still shut | Chapter 4 ✅ |
 
 ## Canon beats still ahead (untouched)
 

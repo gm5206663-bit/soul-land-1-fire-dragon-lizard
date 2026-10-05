@@ -122,12 +122,10 @@ still in his sleeves, men not being invited to the rest of it. He
 looked at the bundle the way he looked at a joint that had come out
 right: for a long time, without touching it.
 
-"Star," he said.
+"Chen Xing," he said. "The star, the whole of it."
 
-"That is not a name," said the midwife.
-
-"It is the start of one," said Chen Jian, and went back out to the
-weather, because the beam job was not going to measure itself.
+He went back out to the weather, because the beam job was not going
+to measure itself.
 
 The midwife packed her bag in the unhurried way of a woman who has
 heard a thousand first days and found most of them the same. At the
@@ -369,9 +367,8 @@ draw. The road is never straight. The frame has to be honest about
 that." The boy did not understand it for two more years. He carried it
 anyway.
 
-So the boy learned line and the patience of wood — and kept going
-across to the forge anyway, drawn to the one material in the world
-that did not wait to be measured.
+So the boy learned line and the patience of wood, and did not yet
+know there were other ways to learn it.
 
 On the west side, the blacksmith's boy grew too.
 

@@ -370,7 +370,7 @@ it."
 "Then it's a tin," she said, "and you're a boy, and there's soup.
 Eat."
 
-He ate. The tin went back behind the stove, shut, patient — a road
+Chen Xing ate. The tin went back behind the stove, shut, patient — a road
 being a road, by not being spent. Outside the window stood open
 because it had always stood open, and the night came in the way the
 cold came in: without an invitation and without any harm, and the
@@ -409,7 +409,7 @@ evening out, ready.
 
 ## Footer
 
-- Project state: Chapter 4 written and checked (3694 words).
+- Project state: Chapter 4 written and checked (3718 words).
 - Canon span touched: the novel's departure — Tang Hao's instruction
   (no forging, pack, Jack takes you), San fussing over his father's
   food before he leaves, Jack escorting him south; the author said "No"

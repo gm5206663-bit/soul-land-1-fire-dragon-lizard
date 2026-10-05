@@ -262,3 +262,11 @@ again and again." Continuing the self-diagnosis.
   name rule superseded), RELATIONSHIPS, RULINGS_LOG R15, OPEN_RULINGS,
   four coverage files, footers, audits. Gates: 4975 / 3694 / 3666 /
   3694 all PASS.
+### 2026-10-03 — round 17 — "Complete everything mistakes"
+- Full-file sweep after R15: FOUNDATION.md State (unnamed + ch1-only →
+  named + four chapters); HANDOFF rule 2 and state line; CANON_GROUND
+  "no name for the OC"; CODEX ch3/ch4 rows live counts; TIMELINE
+  written rows carry Chen Xing/Xiu/Chen Jian + father beats; ch1 birth
+  scene aligned (father speaks the already-chosen name — no "start of
+  one" drift); workbench scene forward-reference to the forge removed.
+- Final live counts: 4975 / 3713 / 3677 / 3718 — all PASS.

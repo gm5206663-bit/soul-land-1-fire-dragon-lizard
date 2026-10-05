@@ -101,7 +101,7 @@ it, next to the one about bending and quenching, and he stood there
 until his mother's hand found the back of his neck the way it found
 everything, without looking.
 
-"You heard," she said.
+"Chen Xing. You heard," she said.
 
 "I heard."
 
@@ -341,7 +341,7 @@ have just heard something enormous dressed as logistics. Even Xiao San,
 who had heard it all before at his own door, looked at the road south
 of the well as if the road had changed.
 
-The north-end boy did not say anything at all. He was busy.
+Chen Xing did not say anything at all. He was busy.
 
 The boy's own work grew. He had made a shape of his days by then: the
 water, the wood, the errands his mother set and the ones she didn't
@@ -407,7 +407,7 @@ woodpiles know — by getting shorter.
 
 ## Footer
 
-- Project state: Chapter 3 written and checked (3666 words).
+- Project state: Chapter 3 written and checked (3677 words).
 - Canon span touched: the three months from the novel — Tang Hao keeps
   his son at the forge, Jack plans to take him to Nuoding, working
   student: tuition and lodging free, food worked for.

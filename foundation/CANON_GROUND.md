@@ -42,4 +42,4 @@ Tags: **canon** = receipted · **design** = this serial's own.
 
 ## Not here
 
-No ceiling · no name for the OC · no ring plan · no endpoint.
+No ceiling · Chen Xing named (R15, author may overwrite) · no ring plan · no endpoint.

@@ -5,7 +5,9 @@ Read this before you touch anything. Then `STATUS.md`.
 ## State in one breath
 
 Chapters 1–4 shipped and gated (birth foundation → awakening day →
-three months → the road out; the boy stays — author said "No"). All 13 lanes ruled. Chapter 5 waits for the author's word. Structure
+three months → the road out; the boy stays — author said "No"). The
+family is named: Chen Xing / Xiu / Chen Jian the carpenter (R15).
+All 13 lanes ruled. Chapter 5 waits for the author's word. Structure
 follows the author's fire-phoenix project: coverage before prose,
 panel-style status, R01–R24 rules, banned-token regressions.
 
@@ -22,7 +24,9 @@ panel-style status, R01–R24 rules, banned-token regressions.
 ## The rules (beyond R01–R24)
 
 1. The author decides; quote him exactly, record same turn, gates, push.
-2. Never invent the OC's name (or any unnamed canon kid's).
+2. The OC is **Chen Xing** (mother **Xiu**, father **Chen Jian** —
+   R15; the author may overwrite any name). Never invent names for
+   canon kids — canon names only.
 3. No cheat interface anywhere — his words are in `RULINGS_LOG`.
 4. No fixed future — no ceiling, no endpoint, in any file.
 5. Canon never displaced; walls hold (his other serials).

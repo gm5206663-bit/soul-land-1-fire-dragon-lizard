@@ -31,9 +31,9 @@ Signed: arena-agent, same day as the rebuild.
 | Command | Result |
 |---|---|
 | `chapter_gate Chapter_01` | **PASS — 4975** (band 3600–5000), 0 warnings |
-| `chapter_gate Chapter_02` | **PASS — 3694**, 0 warnings |
-| `chapter_gate Chapter_03` | **PASS — 3666**, 0 warnings |
-| `chapter_gate Chapter_04` | **PASS — 3694**, 0 warnings |
+| `chapter_gate Chapter_02` | **PASS — 3713**, 0 warnings |
+| `chapter_gate Chapter_03` | **PASS — 3677**, 0 warnings |
+| `chapter_gate Chapter_04` | **PASS — 3713**, 0 warnings |
 | `chapter_gate --selftest` | 14/14 |
 | `foundation_gate` (control-centre) | PASS — 4 chapters on disk |
 

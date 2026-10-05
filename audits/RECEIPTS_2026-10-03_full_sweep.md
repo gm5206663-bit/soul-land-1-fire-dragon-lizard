@@ -10,7 +10,7 @@ everything completely... completely check your all chapters."
 | Timeline/position/prop continuity | PASS — birth → awakening → three months → departure; the tin shut throughout; mother never at the hall |
 | Knowledge firewalls | PASS — lamp line no longer leaks (ch3 ending speaker corrected to the mother); RELATIONSHIPS updated same turn (mother want+tin, Tang Hao, Jack rows) |
 | Power floors/ceilings | PASS — innate 6 (R5), level 6 on the page only at the crystal (R14), zero rings, no ranks |
-| Pacing rule | PASS — band 3600–5000: ch1 4975 · ch2 3694 · ch3 3666 · ch4 3694 |
+| Pacing rule | PASS — band 3600–5000: ch1 4975 · ch2 3713 · ch3 3677 · ch4 3718 |
 | Regression tokens | PASS — chapter_gate selftest 14/14; no banned tokens in any chapter |
 | Stale references | PASS — footers, coverage headers, STATUS, CODEX corrected to live counts |
 | Phantom father (ch2 breakfast) | PASS — removed; father absent in every chapter and file (not ruled) |

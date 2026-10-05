@@ -426,7 +426,7 @@ the way it always had, without asking anyone what it was supposed to be.
 
 ## Footer
 
-- Project state: Chapter 2 written and checked (3694 words).
+- Project state: Chapter 2 written and checked (3713 words).
 - Canon span touched: the awakening ceremony from the novel — Tang San
   reads Blue Silver Grass with full innate power, "what a pity," his
   second soul stays hidden.
