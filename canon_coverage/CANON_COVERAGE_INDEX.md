@@ -13,3 +13,6 @@ Next: Chapter 3 coverage before prose — friendship years → blacksmithing
 - **Chapter_03 — Three Months**: novel ch2–3 span (three months, Jack
   escort plan, working-student terms; anchor corroboration 2026-10-03).
   `Canon_Coverage_Chapter_03.md` — his table format.
+- **Chapter_04 — The Road Out**: novel departure span (father's
+  instruction, San's fussing, Jack escort); author: "No" to the boy
+  taking the road. `Canon_Coverage_Chapter_04.md`.

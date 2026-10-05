@@ -4,9 +4,8 @@ Read this before you touch anything. Then `STATUS.md`.
 
 ## State in one breath
 
-Chapters 1–3 shipped and gated (birth foundation → awakening day →
-three months). All 13 lanes ruled. Chapter 4 waits for the author's
-word (departure canon-shaped: Jack takes Tang San out). Structure
+Chapters 1–4 shipped and gated (birth foundation → awakening day →
+three months → the road out; the boy stays — author said "No"). All 13 lanes ruled. Chapter 5 waits for the author's word. Structure
 follows the author's fire-phoenix project: coverage before prose,
 panel-style status, R01–R24 rules, banned-token regressions.
 

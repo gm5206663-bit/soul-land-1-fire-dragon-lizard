@@ -15,6 +15,7 @@ Read order: RULINGS_LOG → OPEN_RULINGS → STATUS → the rest → HANDOFF las
 | 2026-10-03 | **R13 correction (R14 follow-on rounds)** — band 2400–3400 → **3600–5000** (receipts: author's own chapters 4622/4154/3776); Ch1→"Two Beginnings" + Ch2 rehomed; both gated PASS (4539 / 3756) | `RULINGS_LOG.md` R13/R14, `chapters/` |
 | 2026-10-03 | **R14** — crystal mid readout carries its digit (level 6, R5 band); R4 name **spoken in-story**; six years rebuilt to bible §2 (talent works, Tang Hao relationship, Jack lore — author verdicts round 8–10) | `RULINGS_LOG.md` R14, `SERIAL_LOG.md` |
 | 2026-10-03 | **Chapter 3 written and gated** — author's word "Next"; coverage-first in his storyos table format; `Chapter_03` "Three Months" 3637 words PASS 0 warnings; no promise, no quota, canon departure still ahead | `chapters/Chapter_03.md`, `canon_coverage/Canon_Coverage_Chapter_03.md` |
+| 2026-10-03 | **Chapter 4 written and gated** — author said "No" (verbatim) to the boy taking the road in ch4; chapter follows the canon departure instead: San goes with Jack, the boy stays. `Chapter_04` "The Road Out" 3651 words PASS | `chapters/Chapter_04.md`, `canon_coverage/Canon_Coverage_Chapter_04.md` |
 
 ## Index
 

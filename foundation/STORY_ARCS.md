@@ -11,6 +11,8 @@ Chapter 2: awakening day — the OC's fire lizard, Tang San's canon moment,
 the friend beat, the mother at the door. ✅
 Chapter 3: three months — expectation, the shut door, the want spoken,
 earning begins (no promise, no quota). ✅
+Chapter 4: the road out — canon departure; the boy stays (author: "No"
+to him taking the road). ✅
 
 ## Book 0 continues (not written)
 

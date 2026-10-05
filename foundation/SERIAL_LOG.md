@@ -205,3 +205,12 @@ again and again." Continuing the self-diagnosis.
   bullets: project state / canon span / character states / knowledge
   firewall / next natural pressure). Riddle lines rewritten plain;
   story unchanged. Gates: 4551 / 3687 / 3647, all PASS, selftest 14/14.
+### 2026-10-03 — round 13 — Chapter 4 "The Road Out" (author: "No")
+- Author verbatim "No" = the boy does NOT take the road in ch4; plan
+  dropped, recorded. Chapter follows the canon departure instead:
+  Tang Hao's instruction, San fussing over his father's food, Jack
+  escorting south; the boy stays — want alive, tin shut, forge door
+  opens ("door in the morning").
+- Coverage written first (off-POV road marked NOT IN PROSE). Gate PASS
+  3651 words, 0 warnings. Footers: plain style, same turn; STATUS,
+  CODEX, TIMELINE, STORY_ARCS, HANDOFF, index updated.
