@@ -96,10 +96,9 @@ and elbows and the baker's wife's voice receding toward the ovens, and
 he stood in the trampled ring where the speech had been with the two
 words still warm in front of him. Not a promise. But a man who
 remembers what he hears has just been heard remembering out loud, and
-the boy did what he had always done with sentences he liked: he put
-it away whole, in the place behind his ribs where the warm coal lived,
-next to the one about bending and quenching, and he stood there until
-his mother's hand found the back of his neck the way it found
+the boy did what he had always done with sentences he liked: he kept
+it, next to the one about bending and quenching, and he stood there
+until his mother's hand found the back of his neck the way it found
 everything, without looking.
 
 "You heard," she said.
@@ -127,13 +126,11 @@ He knocked on the Friday.
 
 He meant to knock on the Wednesday, and on the Thursday he meant to,
 and each time the meaning ran out somewhere around his knuckles and he
-went home instead with nothing on his hands but the splinters of his
-own courage, which is its own kind of woodpile. On Friday he knocked
-because the cold had got into his temper and temper is easier than
-courage.
+went home instead, having done nothing, which upset him more than the
+cold did. On Friday he knocked because the cold had got into his
+temper and temper is easier than courage.
 
-The hammering stopped. The boards vibrated against his fist like a
-held voice.
+The hammering stopped. The door stayed shut against his fist.
 
 "Not today," Tang Hao said, through the door, without opening it, in
 the tone he used for men who came to complain about prices.
@@ -159,8 +156,9 @@ of *don't ask*, and even now — especially now — nobody knocked.
 
 The boy knocked. Or nearly: he got as far as putting his palm flat on
 the cold boards and then took it away again, because inside he could
-hear the two rhythms, father and son, and the second rhythm was
-learning, and being watched while you learn is a kind of cold.
+hear the two hammers — the father's steady, the son's slow — and he
+went away, because nobody likes to watch a boy learn while he is
+still bad at it.
 
 Instead he took the bellows' other job — the one nobody had ever named
 — which was to make sure the yard did not stop being a yard. He split
@@ -168,8 +166,8 @@ what could be split. He stacked the iron stock against the rain that
 was coming the way rain comes in the third month of the cold season,
 with opinions. He mended the lean of the woodpile that everybody saw
 and nobody fixed. He did it before his own work at home and after, in
-the grey hours, and he never once did it in front of the open door,
-because it was not for the open door.
+the grey hours, and he never once did it while someone was watching, because he was
+not doing it to be seen.
 
 When Tang Hao came out on Monday for the water bucket and saw the
 woodpile standing at true for the first time in two years, he looked
@@ -199,8 +197,9 @@ anything in him that wanted to explain three days of silence, it never
 came near the surface, because Tang Hao did not run his life on the
 surface.
 
-When the boy's arms began to shake — the honest point, the far side
-of it — he eased the bellows to the resting stroke without being told,
+When the boy's arms began to shake — the honest point, where the easy
+work stops — he eased the bellows to the resting stroke without being
+told,
 and Tang Hao, still not turning, said, "Good. It's not a horse; you
 don't have to kill it." And that, in the west-side language, was a
 paragraph.
@@ -253,9 +252,8 @@ and that neither of them was going to stand in front of the other's.
 Tang San almost smiled. "Then yes. I'll go."
 
 A month later, in the dark of the north-end house, his mother asked
-him what he wanted — not in the way adults ask, which is a fence with
-a question painted on it, but the way she asked everything, sideways,
-while he was eating.
+him what he wanted — not straight out, the way other adults ask, but
+the way she asked everything, sideways, while he was eating.
 
 "The road," he said.
 
@@ -290,8 +288,8 @@ no opinions." She set her bowl down. "But you would be gone."
 
 "I would be eight."
 
-"You would be gone," she said again, evenly, as if the word were a
-measurement and not a wound, and he learned something about roads that
+"You would be gone," she said again, evenly, with no anger in it at
+all, and he learned something about roads that
 night that no one had taught him yet: that they cost the person who
 stays more than the person who goes.
 
@@ -308,8 +306,10 @@ bowls without opening it.
 
 "I knew somebody," she said. "Eat."
 
-He ate. The tin stayed shut, which was its own kind of promise: a road
-not yet spent is a road still coming.
+He ate. The tin stayed shut on the table for the whole meal, and then
+it went back behind the stove, and neither of them said anything more
+about it — which in that house meant the matter was settled but not
+finished.
 
 ---
 
@@ -347,19 +347,18 @@ water, the wood, the errands his mother set and the ones she didn't
 set and he did anyway, and after all of it the running — down the
 lane, past the well, along the river road where the mud wanted your
 shoes and gave them back twice as heavy. He ran until his lungs burned
-and then a little past that, because something in him had learned, the
-way it had learned the oak, that the far side of burning was just
-another place to breathe, and it kept going there without asking him.
+and then a little past that, because something in him had learned, the way it learned the oak, that
+if he ran past the burning in his lungs the breath came back even and
+easy further on — and it kept happening without asking him.
 
-The women at the well noticed. "He eats like a forge," they said,
-which was the closest the village ever came to naming what he was
-becoming, and then they laughed, and it went back into the well rope
-and the opinions and the ordinary weather of the village, unnamed.
+The women at the well noticed. "He eats like he's feeding a forge,"
+they said,
+which was the closest the village came to saying what he was. They
+laughed, and the remark went down the well with the rest of the talk.
 
 On the last week, Jack came down the lane on his own business and
-found the boy at the woodpile — not performing, not waiting to be
-seen, just working, at an age where working was a thing you did
-because the pile had become an enemy.
+found the boy at the woodpile — not waiting to be seen, just working —
+a boy with a woodpile in front of him.
 
 Jack watched for a moment. "You know what a working student does," he
 said.
@@ -386,9 +385,8 @@ are coming do not need to. The tin sat behind the stove. The window
 was open because the window was always open. Somewhere on the west
 side a hammer stopped for the day, and the sound of stopping went out
 over the roofs like a held breath, and the two boys — one in each
-house, one going, one wanting — slept without dreaming of each other
-or the road, because the road, at last, was real enough to leave
-alone.
+house, one going, one wanting — slept without dreaming of the road, because a road you know is
+coming does not have to visit you in the night.
 
 In the morning the woodpile was shorter and the lane was longer, and
 the boy carried the first load down before the well had been opened
@@ -398,34 +396,32 @@ to his chin — said to her own doorway, to nobody, "Clean socks and no
 opinions. Hah. That family."
 
 Then the bread came out, and the village woke, and the third month
-went on counting itself down.
+went on counting itself down. Ten days after that, give or take, Old
+Jack would put on his hat for his own business and walk south. Nobody
+in the village knew the date yet. The woodpile knew, in the way that
+woodpiles know — by getting shorter.
 
 ---
 
 ## Footer
 
-- **State:** Chapter 3, "Three Months" — D0+3 months, Douluo Calendar
-  2637. **gated PASS at 3637 words** (band 3600–5000, R13).
-- **Canon span touched:** novel ch2–3 span — three months at the forge,
-  Jack's escort plan, working-student terms (receipts:
-  `canon_coverage/Canon_Coverage_Chapter_03.md`, anchor corroboration
-  2026-10-03). Tang San's beat untouched: the skill behind the shut
-  door is never seen or named; no hammer, no technique, no secret.
-- **OC state:** unnamed; innate 6, zero rings; three months of body
-  work only (talent converts pressure to fit — bible §3, unnamed
-  in-story); want **entered the clock on page** (R12): the road,
-  spoken at the lamp; the saving-tin revealed, unopened.
-- **Family:** mother — the tin, "saving for a road since before you
-  were born"; father still not ruled — absent, silent.
-- **Relationships:** Tang Hao — door shut, then "It wants feeding"
-  (bellows seat returned); Jack — "then we see", the hat-touch, no
-  promise; Tang San — quiet evenings, no secret crossed.
-- **Knowledge firewall:** village knows only talk; Jack knows a
-  listener and a worker; nobody knows about the tin, the running, or
-  the far side of burning.
-- **Exact locked anchors:** No-Fix Law holds; no quota invented; no
-  ceremony invented (banned moves, STORY_ARCS); no endpoint implied;
-  walls hold.
-- **Next continuity bridge (Chapter 4):** the departure canon-shaped —
-  Jack takes Tang San out; his place on that road, if it comes, comes
-  earned on page.
+- Project state: Chapter 3 written and checked (3616 words).
+- Canon span touched: the three months from the novel — Tang Hao keeps
+  his son at the forge, Jack plans to take him to Nuoding, working
+  student: tuition and lodging free, food worked for.
+- The boy's state: unnamed; innate level 6; zero rings; three months of
+  body work — wood, water, bellows, running; he asks for the road at
+  the lamp; the tin shown, unopened.
+- Mother state: unnamed; "your name is hands until you make it
+  something else"; saving for a road since before he was born.
+- Tang Hao state: the door shut three weeks — father teaching son
+  inside, never seen, never named; then "It wants feeding" — the
+  bellows seat is the boy's again.
+- Jack state: "three months, then we see"; watched the boy split wood;
+  touched his hat; made no promise.
+- Tang San state: quiet evenings at the river; tired hands; his secret
+  never crossed; he is going with Jack.
+- Knowledge firewall: the village only talks; Jack knows a listener and
+  a worker; nobody knows about the tin or the running.
+- Next natural pressure: the departure — Jack takes Tang San to Nuoding;
+  the boy's place on that road has to be earned in the story.

@@ -427,29 +427,18 @@ the way it always had, without asking anyone what it was supposed to be.
 
 ## Footer
 
-- **Project state:** Chapter 2 (awakening day) — **gated PASS at 3630
-  words** (band 3600–5000, R13 correction).
-  Originally written as Chapter 1; rehomed here when Chapter 1 was rebuilt
-  to the author's birth-foundation structure (2026-10-03).
-- **Canon span touched:** Douluo novel ch1 + the ch2 awakening ceremony
-  (receipts: `canon_coverage/Canon_Coverage_Chapter_01.md`). Tang San's
-  beat intact: Blue Silver Grass, innate full spirit power, "what a pity,"
-  second soul secret untouched.
-- **OC state:** unnamed; Holy Spirit Village; awakened Ground Fire Dragon
-  Lizard — **named aloud in-story by Su Yuntao** (R4, the author's own
-  words); innate **level 6** — mid, inside R5's 5–7 band, digit written
-  as the crystal's deliberate beat (author, 2026-10-03: crystal mid =
-  numbers); zero rings; womb adaptation shown concretely (warm body,
-  fast healing, cold-tolerance).
-- **Family:** mother present, unnamed by the author's name rule (she is
-  "his mother"); father not ruled — absent, silent.
-- **Exact locked anchors:** cheat-interface mechanics banned everywhere
-  (the author's own words: PRE4, in RULINGS_LOG); No-Fix Law holds (no
-  ceiling written); direction = canon road in parallel + natural
-  butterflies; walls hold against other SL1 lines.
-- **Knowledge firewall:** no character knows the plot; Su Yuntao read the
-  name and level six out loud to the room — surface reading only, nobody
-  knows the womb talent's source; he noted the reading and left.
-- **Next continuity bridge:** village expectation (D1 butterfly), the
-  friendship years, blacksmith's door, then the road to Nuoding — on the
-  author's word.
+- Project state: Chapter 2 written and checked (3756 words).
+- Canon span touched: the awakening ceremony from the novel — Tang San
+  reads Blue Silver Grass with full innate power, "what a pity," his
+  second soul stays hidden.
+- The boy's state: unnamed; the Ground Fire Dragon Lizard wakes; Su
+  Yuntao says the name out loud to the room; innate level 6; zero
+  rings; warm body, fast healing, cold tolerance.
+- Mother state: unnamed; waited at home; knew about the window and the
+  river for years.
+- Su Yuntao state: read the name and the number, said "do not waste
+  it," left for Nuoding.
+- Knowledge firewall: the room heard a name and a number, nothing
+  more; nobody knows where the warmth comes from.
+- Next natural pressure: the village talk, the three months, then the
+  road.

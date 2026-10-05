@@ -194,3 +194,14 @@ again and again." Continuing the self-diagnosis.
   untouched. Gate PASS 3637 words, 0 warnings. No panels (footer only).
 - Footer duties same turn: STATUS, CODEX, TIMELINE (awakening renumbered
   to Ch2, Ch1 birth added), STORY_ARCS, HANDOFF, index.
+### 2026-10-03 — round 12 — "What the hell even this means" → meaning fixed
+- Author verdict: "What the hell even this means" → "You should find
+  yourself." Diagnosed from the files: chapter footers carried agent
+  codes (R-ids, "walls hold", "earned on page") instead of plain state,
+  and Chapter 3 had riddle sentences ("splinters of his own courage",
+  "a road not yet spent is a road still coming", "not for the open
+  door", "far side of burning", "eats like a forge", the fence-simile).
+- All three footers rewritten in the author's own footer shape (plain
+  bullets: project state / canon span / character states / knowledge
+  firewall / next natural pressure). Riddle lines rewritten plain;
+  story unchanged. Gates: 4551 / 3687 / 3647, all PASS, selftest 14/14.

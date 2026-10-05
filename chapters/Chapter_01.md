@@ -486,28 +486,23 @@ themselves.
 
 ## Footer
 
-- **Project state:** Chapter 1 rewritten to the author's structure
-  (birth foundation, fire-phoenix shape) — **gated PASS at 3702 words**
-  (band 3600–5000, R13 correction, receipts: the author's own chapters).
-- **Canon span touched:** Douluo novel ch1 era — Holy Spirit Village,
-  Tang Hao's west-side forge, Tang San already the blacksmith's quiet son
-  (receipts: `canon_coverage/Canon_Coverage_Chapter_01.md`).
-- **OC state:** born in the north-end house; womb adaptation **shown
-  working across the six years** per bible §2 — no bruise from the ice
-  fall, breath correcting itself on runs, training memory (the oak
-  remembers him back), appetite the women notice and can't name; never
-  named in-story; unnamed — name rule holds (his verbatim: no name
-  invented); anti-cheat rule in force (the author's own words are
-  recorded in RULINGS_LOG).
-- **Cast:** mother (exists, unnamed, watching); midwife (design,
-  unnamed); **Tang Hao — real relationship**: open-door forge years,
-  bellows, iron colors, one subject closed; Tang San in canon position
-  (friendship after the bucket); Old Jack — lore-teacher to the boy;
-  no father — not ruled, silent.
-- **Exact locked anchors:** No-Fix Law holds; no power, no rings, no
-  endpoint exists yet or is implied; walls hold.
-- **Knowledge firewall:** nobody knows anything about anything — not the
-  talent, not the future, not each other's names yet.
-- **Next continuity bridge (Chapter 2):** the years to the awakening —
-  first real meeting, the friendship forming, then the ceremony day;
-  canon beats stay canon.
+- Project state: Chapter 1 written and checked (3702 words).
+- Canon span touched: Douluo novel chapter 1 era — Holy Spirit Village,
+  Tang Hao's west-side forge, Tang San already the blacksmith's quiet son.
+- The boy's state: born in the north-end house; unnamed (no name
+  invented — the author's rule); warm from the first breath; the
+  adaptation works across the six years — no bruise from the ice fall,
+  breath fixing itself on the runs, hands remembering the oak, appetite
+  the women notice and can't name.
+- Mother state: unnamed, watching; checks his weather with two fingers;
+  the road-tin not shown yet.
+- Tang Hao state: the open-door years — the boy at the bellows, iron
+  colors, the quenching sentence.
+- Tang San state: the canon boy; friendship starts at the bucket;
+  nothing of his is touched.
+- Old Jack state: tells the boy the village stories; the boy asks the
+  questions.
+- Father: not ruled — absent, silent.
+- Knowledge firewall: nobody knows anything — not the talent, not the
+  future, not even each other's names yet.
+- Next natural pressure: the years up to the awakening ceremony.
