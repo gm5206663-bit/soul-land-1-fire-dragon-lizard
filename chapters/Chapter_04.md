@@ -404,7 +404,7 @@ evening out, ready.
 
 ## Footer
 
-- Project state: Chapter 4 written and checked (3651 words).
+- Project state: Chapter 4 written and checked (3642 words).
 - Canon span touched: the novel's departure — Tang Hao's instruction
   (no forging, pack, Jack takes you), San fussing over his father's
   food before he leaves, Jack escorting him south; the author said "No"

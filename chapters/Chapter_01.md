@@ -486,7 +486,7 @@ themselves.
 
 ## Footer
 
-- Project state: Chapter 1 written and checked (3702 words).
+- Project state: Chapter 1 written and checked (4551 words).
 - Canon span touched: Douluo novel chapter 1 era — Holy Spirit Village,
   Tang Hao's west-side forge, Tang San already the blacksmith's quiet son.
 - The boy's state: born in the north-end house; unnamed (no name

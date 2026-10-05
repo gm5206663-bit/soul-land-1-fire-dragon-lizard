@@ -1,6 +1,6 @@
 # STATUS PANEL — Fire Dragon Lizard (Soul Land 1)
 
-**Live edge: after Chapter 4, `The Road Out` (gated PASS, 3651 words).
+**Live edge: after Chapter 4, `The Road Out` (gated PASS, 3642 words).
 Author said "No" to the boy taking the road — he stays in the village;
 Chapter 4 follows the canon departure. Footers all in plain style.**
 
@@ -30,13 +30,13 @@ For the author's words, see `RULINGS_LOG.md`; for canon receipts,
 
 ## 1. Latest written artifacts
 
-- Latest prose: `chapters/Chapter_04.md` — **The Road Out** (3651
+- Latest prose: `chapters/Chapter_04.md` — **The Road Out** (3642
   words, gate PASS).
-- Latest coverage: `canon_coverage/Canon_Coverage_Chapter_03.md`
+- Latest coverage: `canon_coverage/Canon_Coverage_Chapter_04.md`
   (his storyos table format: beats consumed / scene ledger / knowledge
   delta / prop delta / power check / butterfly register).
 - Chapter gates: Chapter_01 PASS (4551) · Chapter_02 PASS (3687) ·
-  Chapter_03 PASS (3642) · Chapter_04 PASS (3651) · selftest 14/14.
+  Chapter_03 PASS (3642) · Chapter_04 PASS (3642) · selftest 14/14.
 - Foundation gate: PASS · stage 0 unlocked · 4 chapters on disk.
 - Validation receipt: `audits/CHAPTER_VALIDATION_2026-10-03.md`;
   `audits/RECEIPTS_2026-10-03_cycle4.md` (RECEIPT_TEMPLATE shape).

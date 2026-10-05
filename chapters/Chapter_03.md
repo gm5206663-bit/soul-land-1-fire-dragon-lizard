@@ -390,10 +390,10 @@ coming does not have to visit you in the night.
 
 In the morning the woodpile was shorter and the lane was longer, and
 the boy carried the first load down before the well had been opened
-for the day, and nobody saw it except the baker's wife, who was always
-already awake, and who — when the boy had gone past with the wood up
-to his chin — said to her own doorway, to nobody, "Clean socks and no
-opinions. Hah. That family."
+for the day, and nobody saw it except his mother, who had been awake
+at the open window the whole time, and who — when the boy had gone
+past with the wood up to his chin — said to the doorway, to nobody,
+"Clean socks and no opinions. Hah. That family."
 
 Then the bread came out, and the village woke, and the third month
 went on counting itself down. Ten days after that, give or take, Old
@@ -405,7 +405,7 @@ woodpiles know — by getting shorter.
 
 ## Footer
 
-- Project state: Chapter 3 written and checked (3616 words).
+- Project state: Chapter 3 written and checked (3642 words).
 - Canon span touched: the three months from the novel — Tang Hao keeps
   his son at the forge, Jack plans to take him to Nuoding, working
   student: tuition and lodging free, food worked for.

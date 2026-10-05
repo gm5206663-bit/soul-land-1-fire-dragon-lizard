@@ -78,8 +78,8 @@ place on it earned on page, never assumed. New coverage before prose.
 
 | Field | Entry |
 |---|---|
-| Fic chapter | Chapter_02 — The Fire in the Star (3630 words, gate PASS) |
-| Canon source consumed | SWSEC ch.1 awakening-day frame (ceremony, father's absence, blessing reveal) — compressed |
+| Fic chapter | Chapter_02 — The Fire in the Star (3687 words, gate PASS) |
+| Canon source consumed | SWSEC ch.1 awakening-day frame (ceremony, father's absence) — compressed; a planned blessing-reveal scene was never written and is marked NOT IN PROSE |
 | Source fetch | Fetched in-round; NO_MISTAKE screening applied |
 | Branch status | First canon deviation: OC attends ceremony (baseline absorbed) |
 
@@ -89,7 +89,7 @@ place on it earned on page, never assumed. New coverage before prose.
 | 1 | Six-year bridge morning + mother | expand | His voice: domestic before the stage |
 | 2 | Road meeting with Tang San | keep | Relationship continuity |
 | 3 | Hall + Su Yuntao ceremony | expand | Failed-children texture is canon's own weight |
-| 4 | OC's testing (living crystal) | expand | Deviation beat; father's absence + mother's dread |
+| 4 | OC's testing (living crystal) | expand | Deviation beat; father absent, mother waits at home dreading |
 | 5 | No element → "the fire in the star" | keep | Father-echo title beat |
 | 6 | Blessing reveal to father (POV cross) | **NOT IN PROSE — deferred** | Was listed before it existed; scene not written; on the author's word |
 | 7 | Evening at the bend | expand | Convergence before the road splits |
@@ -100,24 +100,24 @@ place on it earned on page, never assumed. New coverage before prose.
 | North-end house | Morning | OC, mother | Six years later |
 | Road, bend | Morning | OC, Tang San | Walk together |
 | Old man's hall | Day | Su Yuntao, villagers, all children | Ceremony |
-| Hall (testing) | Day | OC, mother (doorway), father (absent) | Deviation beat |
+| Hall (testing) | Day | OC, Su Yuntao, villagers (mother waits at home; father absent) | Testing beat |
 | Road bend | Dusk | OC, Tang San | Coda |
 
 ### Knowledge delta
 | Who learns | Before | After | Earliest valid change |
 |---|---|---|---|
-| Village | OC is "healthy" | OC has no tested soul power + implausible blessing | Ceremony night |
-| Mother | Suspects the window-weather | Blessing confirms fear is too small | Testing beat |
-| Tang San | OC is his constant | OC will walk a road with no soul power | Bend, dusk |
-| OC | Expecting | It is not what he expected; he is not afraid | Testing + coda |
+| Village | OC is "healthy" | the fire lizard woke; Su Yuntao read "level six" aloud | Ceremony day |
+| Mother | Knew for six years (window, river, shins) | Sees the lizard in her doorway; puts the fear down | Doorway beat (she never attends) |
+| Tang San | The OC is his constant | The OC woke a fire lizard and level 6; the road is coming for one of them | Ceremony day + bend |
+| OC | The awakening is today; no idea what will come | A fire lizard wakes, level six read aloud, "do not waste it" | Testing beat |
 | Su Yuntao + room | Beast spirit, unclassified, crystal silent for every child | Spirit **named aloud** — Ground Fire Dragon Lizard; crystal reads **level 6** (mid) | Testing beat (R4 + R14, author's words) |
 
 ### Power check
 | Rank/SP before | Change | Floor/Ceiling |
 |---|---|---|
-| None | No element, no ring, no soul power; blessing = adult power in debt | Floors: never a rank, never a figure in prose (R11); blessing consumes itself |
+| innate 6, zero rings | No rank change this chapter; crystal reads level 6 on the page (R14 deliberate beat) | No rings, no ranks, no endpoint |
 
 ### Butterfly register
 | Event | Divergence | Status |
 |---|---|---|
-| OC present at blessing | Deviates from canon's silent-father night; father reacts in fiction | Logged; generation note attached (not a rule change) |
+| OC at the blessing | **NOT IN PROSE — removed**; the planned blessing scene never existed in the text | Corrected 2026-10-03 full sweep |

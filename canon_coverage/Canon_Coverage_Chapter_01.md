@@ -80,7 +80,7 @@ canon; the OC never displaces them.
 
 | Field | Entry |
 |---|---|
-| Fic chapter | Chapter_01 — Two Beginnings (3702 words, gate PASS) |
+| Fic chapter | Chapter_01 — Two Beginnings (4551 words, gate PASS) |
 | Canon source consumed | None — birth foundation, pre-canon span (SWSEC ch.1 backdrop only: village, year-1 awakening frame) |
 | Source fetch | n/a — foundation chapter; all content original, screened against BANNED_TOKENS |
 | Branch status | Baseline branch established; no canon character age-shifted |
@@ -112,7 +112,7 @@ canon; the OC never displaces them.
 | Who learns | Before | After | Earliest valid change |
 |---|---|---|---|
 | OC's mother | Child is "healthy" | Child is warm-blooded (never stated aloud) | First night, filing only — no confrontation yet |
-| OC | Born knowing nothing | River moods, well rope, dogs, elders, iron colors, "quenching makes it become something else" | Ages 3–5, scene by scene |
+| OC | Born knowing nothing | River moods, well rope, dogs, elders, iron colors, "quenching makes it become something else" | Ages 4–6, scene by scene |
 | Tang Hao | Boys are furniture | A boy who works the bellows exact and asks about the metal's scream | From the first winter morning |
 | Old Jack | Counts children | Has one listener worth telling the village's origin to | By the years montage |
 | Village | — | "Healthy" as a euphemism | Ongoing; no one confronts |

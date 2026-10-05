@@ -1,3 +1,7 @@
+> **SUPERSEDED — DO NOT USE.** Replaced by the full-sweep receipt
+> `audits/RECEIPTS_2026-10-03_full_sweep.md` (counts in this file were
+> true at cycle-4 time and are no longer live).
+
 # Receipts — 2026-10-03 — cycle 4 (band correction + expansion)
 
 Live edge: main; author verdict recorded (emoji-only, not a ruling); self-check

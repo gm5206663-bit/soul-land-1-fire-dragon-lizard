@@ -38,7 +38,7 @@ village. Tang San's canon departure untouched.
 | Location | Time | Present | Positions |
 |---|---|---|---|
 | Square / forge lane | Day before, morning announcement | Jack, villagers, boys, mother | The date lands |
-| West-side house | Same evening | Tang Hao, San | The instruction; the fussing |
+| West-side house | Same evening | Tang Hao, San, OC (at the fire) | Packing; two packers and a fire, no speeches |
 | North-end house | Same evening | OC, mother | The tin stays shut; he is not going |
 | Square → south road | Departure morning | Jack, San, village, OC, mother | Two leave; the rest wave |
 | Hill / river / forge | The days after | OC, mother, Tang Hao (door open) | The empty place; the bellows seat |

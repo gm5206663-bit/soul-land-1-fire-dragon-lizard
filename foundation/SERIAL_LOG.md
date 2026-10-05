@@ -214,3 +214,18 @@ again and again." Continuing the self-diagnosis.
 - Coverage written first (off-POV road marked NOT IN PROSE). Gate PASS
   3651 words, 0 warnings. Footers: plain style, same turn; STATUS,
   CODEX, TIMELINE, STORY_ARCS, HANDOFF, index updated.
+### 2026-10-03 — round 14 — full sweep ("check everything completely")
+- Found and fixed: (1) all four footers carried stale word counts;
+  (2) ch3 ending leaked a private lamp line to the baker's wife —
+  speaker corrected to the mother at the open window; (3) ch2 coverage
+  described a blessing scene that was never in the prose — rows marked
+  NOT IN PROSE / corrected (mother never attends the hall, village
+  learns name+level, power row = innate 6); (4) coverage headers,
+  STATUS, CODEX counts set to live: 4551 / 3687 / 3642 / 3642;
+  (5) RELATIONSHIPS updated same turn (mother want+tin; new Tang Hao
+  and Jack rows); (6) ch4 coverage ledger — OC present at the packing
+  evening; (7) old cycle-4 receipt prepended SUPERSEDED; new
+  full-sweep receipt written; CHAPTER_VALIDATION got a current-state
+  section (add-only).
+- Gates: all four chapters PASS 0 warnings, selftest 14/14, foundation
+  PASS, no banned tokens, no blessing in prose.
