@@ -233,4 +233,8 @@ prose — level 6 (inside R5's 5–7 band) as a deliberate beat; R11's
 "figures in STATUS, never prose" yields to the author's live words on
 this beat. And the name rules activate in-story: R4's "Ground Fire
 Dragon Lizard" is spoken aloud (ch2, Su Yuntao reads it to the room).
-The father clause is held as an open question — never filled.
+The father clause: the author's next answer (same round, ask-form) redirected it to "no relationship between Tang hao and him and others All" — so it was about Tang Hao, and the OC↔Tang Hao relationship was built the same day (ch1 forge years). The OC's own father stays not ruled — never filled.
+
+### Name-constraint source audit (2026-10-03, author ordered: "check everything")
+
+Footers and `CHARACTERS.md` carried "no name — never invent one" and cited "the author's rule." Audit result: **no verbatim author ruling on person names exists in this log** — R4 names the martial soul only. The citation was an unverified agent attribution, same species as the R13 band default. Corrected the citation (ch1 footer). The constraint itself is left in force — only the author can hand over names — and the author's own typed words on the subject remain recorded above ("there is no name and others All things").

@@ -80,7 +80,7 @@ canon; the OC never displaces them.
 
 | Field | Entry |
 |---|---|
-| Fic chapter | Chapter_01 — Two Beginnings (4551 words, gate PASS) |
+| Fic chapter | Chapter_01 — Two Beginnings (4547 words, gate PASS) |
 | Canon source consumed | None — birth foundation, pre-canon span (SWSEC ch.1 backdrop only: village, year-1 awakening frame) |
 | Source fetch | n/a — foundation chapter; all content original, screened against BANNED_TOKENS |
 | Branch status | Baseline branch established; no canon character age-shifted |

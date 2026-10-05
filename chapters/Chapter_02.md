@@ -1,7 +1,5 @@
 # Chapter 2: The Fire in the Star
 
-Six years came and went the way years do in small villages: invisibly, entirely.
-
 He woke because the house was cold and he liked it that way.
 
 The window had been open all night. Frost sat on the sill like a thin
@@ -59,10 +57,10 @@ entire, doing errands at a distance.
 She did smile at that — the quick one, there and gone. "That is the
 first honest thing anyone has said in this house this month."
 
-"Father says honest things," he offered.
+"Old Jack says honest things," he offered.
 
-"Your father says sentences that can be carried into a courtroom
-without damage. There is a difference." She stood, took the bowls, and
+"Old Jack says everything he thinks, which is not the same thing,
+but it will do at this hour." She stood, took the bowls, and
 passed her two fingers across his forehead on the way — the old check,
 the weather check, as automatic as breathing — and her hand lingered
 one beat longer than the check required, and he let it, because he was
@@ -427,7 +425,7 @@ the way it always had, without asking anyone what it was supposed to be.
 
 ## Footer
 
-- Project state: Chapter 2 written and checked (3687 words).
+- Project state: Chapter 2 written and checked (3676 words).
 - Canon span touched: the awakening ceremony from the novel — Tang San
   reads Blue Silver Grass with full innate power, "what a pity," his
   second soul stays hidden.

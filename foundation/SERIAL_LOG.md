@@ -229,3 +229,19 @@ again and again." Continuing the self-diagnosis.
   section (add-only).
 - Gates: all four chapters PASS 0 warnings, selftest 14/14, foundation
   PASS, no banned tokens, no blessing in prose.
+### 2026-10-03 — round 15 — deep story check ("not even close to the mistakes")
+- Re-read every chapter against every file. Real mistakes found and fixed:
+  (1) ch2 had a PHANTOM FATHER at breakfast ("Father says honest things" /
+  "carried into a courtroom") contradicting every chapter and CHARACTERS
+  ("father not ruled — absent, silent") — replaced with Jack exchange;
+  (2) ch2 opened with stale "Six years came and went" — ch1 narrates the
+  six years now — cut to the morning directly; (3) ch1 west-side "His
+  father" pronouns read as the OC's father — changed to "the blacksmith";
+  (4) ch1 "two boys who did not yet know each other's names" —
+  contradicted this chapter's own "Xiao San" and all of ch2 — removed;
+  (5) ch1 "the warm one's boy" pointed the baby-nickname at the mother;
+  (6) ch3 "Ten days after that" broken time anchor — "Ten days short of
+  the end of it"; (7) false citation "the author's rule" for person names
+  — no such ruling exists in RULINGS_LOG — citation corrected, source
+  audit recorded, constraint left in force.
+- Final counts synced everywhere: 4547 / 3676 / 3650 / 3642 — all PASS.

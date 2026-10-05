@@ -78,7 +78,7 @@ place on it earned on page, never assumed. New coverage before prose.
 
 | Field | Entry |
 |---|---|
-| Fic chapter | Chapter_02 — The Fire in the Star (3687 words, gate PASS) |
+| Fic chapter | Chapter_02 — The Fire in the Star (3676 words, gate PASS) |
 | Canon source consumed | SWSEC ch.1 awakening-day frame (ceremony, father's absence) — compressed; a planned blessing-reveal scene was never written and is marked NOT IN PROSE |
 | Source fetch | Fetched in-round; NO_MISTAKE screening applied |
 | Branch status | First canon deviation: OC attends ceremony (baseline absorbed) |

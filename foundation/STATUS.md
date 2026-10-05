@@ -35,8 +35,8 @@ For the author's words, see `RULINGS_LOG.md`; for canon receipts,
 - Latest coverage: `canon_coverage/Canon_Coverage_Chapter_04.md`
   (his storyos table format: beats consumed / scene ledger / knowledge
   delta / prop delta / power check / butterfly register).
-- Chapter gates: Chapter_01 PASS (4551) · Chapter_02 PASS (3687) ·
-  Chapter_03 PASS (3642) · Chapter_04 PASS (3642) · selftest 14/14.
+- Chapter gates: Chapter_01 PASS (4547) · Chapter_02 PASS (3676) ·
+  Chapter_03 PASS (3650) · Chapter_04 PASS (3642) · selftest 14/14.
 - Foundation gate: PASS · stage 0 unlocked · 4 chapters on disk.
 - Validation receipt: `audits/CHAPTER_VALIDATION_2026-10-03.md`;
   `audits/RECEIPTS_2026-10-03_cycle4.md` (RECEIPT_TEMPLATE shape).

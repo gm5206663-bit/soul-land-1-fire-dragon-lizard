@@ -396,8 +396,9 @@ past with the wood up to his chin — said to the doorway, to nobody,
 "Clean socks and no opinions. Hah. That family."
 
 Then the bread came out, and the village woke, and the third month
-went on counting itself down. Ten days after that, give or take, Old
-Jack would put on his hat for his own business and walk south. Nobody
+went on counting itself down. Ten days short of the end of it,
+give or take, Old Jack would put on his hat for his own business and
+walk south. Nobody
 in the village knew the date yet. The woodpile knew, in the way that
 woodpiles know — by getting shorter.
 
@@ -405,7 +406,7 @@ woodpiles know — by getting shorter.
 
 ## Footer
 
-- Project state: Chapter 3 written and checked (3642 words).
+- Project state: Chapter 3 written and checked (3650 words).
 - Canon span touched: the three months from the novel — Tang Hao keeps
   his son at the forge, Jack plans to take him to Nuoding, working
   student: tuition and lodging free, food worked for.

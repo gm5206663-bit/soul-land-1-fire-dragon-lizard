@@ -183,23 +183,23 @@ old man while the sparks came down, and if you asked him what he wanted
 to be, he gave you an answer so sensible it made you want to push him
 into the river.
 
-His father did not push him into rivers.
+The blacksmith did not push him into rivers.
 
-His father put a hammer in his hands instead, and the boy held it the
+The blacksmith put a hammer in his hands instead, and the boy held it the
 way he held everything — seriously, exactly, as if the weight of the
 thing had been waiting for him to understand it.
 
 He was small for it. Everyone said so, and no one said it to the boy,
 because the boy had a way of receiving observations that made grown men
 feel they had been the ones observed. He did not swing. He stood at the
-anvil's edge while his father worked — three strokes, turn, quench,
+anvil's edge while the blacksmith worked — three strokes, turn, quench,
 three strokes — and when he was set to the bellows he worked the
 bellows exactly, and when he was sent for water he came back with the
 bucket full and not spilled, and if a tool was in the wrong place he
 put it in the right place without being asked, which is the most
 unnerving thing a child can do in a workshop.
 
-"You watch too much," his father told him once, without turning.
+"You watch too much," the blacksmith told him once, without turning.
 
 "Yes," said the boy, and did not stop.
 
@@ -272,7 +272,7 @@ have stopped if the village elder had ordered it.
 
 Summer: he carried water the way other boys carried arguments — easily,
 one arm, talking the whole way — and the women at the well learned that
-sending "the warm one's boy" was worth two sendings of anyone else.
+sending the warm one was worth two sendings of anyone else.
 
 Autumn: he fell out of the big oak by the west field, down through the
 branches like a sack of stones, and sat at the bottom of the tree
@@ -404,8 +404,8 @@ one elder with white hair and an important manner — went on counting its
 children, and minding its own business, and waiting for nothing in
 particular, which is how a village waits for everything that matters.
 
-Under the same sky, in the same year, two boys who did not yet know each
-other's names were learning, separately, how to be alive in their bodies
+Under the same sky, in the same year, two boys were learning, separately,
+how to be alive in their bodies
 — one in the silence of a forge, one in the heat of a north-end house —
 while the road between them shortened by a few footsteps every season.
 
@@ -486,11 +486,12 @@ themselves.
 
 ## Footer
 
-- Project state: Chapter 1 written and checked (4551 words).
+- Project state: Chapter 1 written and checked (4547 words).
 - Canon span touched: Douluo novel chapter 1 era — Holy Spirit Village,
   Tang Hao's west-side forge, Tang San already the blacksmith's quiet son.
-- The boy's state: born in the north-end house; unnamed (no name
-  invented — the author's rule); warm from the first breath; the
+- The boy's state: born in the north-end house; unnamed — no name
+  assigned anywhere in the project (see RULINGS_LOG note 2026-10-03);
+  warm from the first breath; the
   adaptation works across the six years — no bruise from the ice fall,
   breath fixing itself on the runs, hands remembering the oak, appetite
   the women notice and can't name.
@@ -504,5 +505,5 @@ themselves.
   questions.
 - Father: not ruled — absent, silent.
 - Knowledge firewall: nobody knows anything — not the talent, not the
-  future, not even each other's names yet.
+  future, not what either boy is becoming.
 - Next natural pressure: the years up to the awakening ceremony.
