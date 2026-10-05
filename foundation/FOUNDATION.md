@@ -35,8 +35,10 @@ pre-written — it happens on the page, naturally, and it earns itself.
 
 ## State
 
-Stage 0 complete. Chapter 1 shipped and gated. The OC is still unnamed —
-prose never invents one. The three-blank spine format is banned.
+Stage 0 complete. Chapters 1–4 shipped and gated. The OC is named
+**Chen Xing** (mother **Xiu**, father **Chen Jian** — R15, author's
+standing demand; the old no-name note had no source). The three-blank
+spine format is banned.
 
 ## Read order
 
