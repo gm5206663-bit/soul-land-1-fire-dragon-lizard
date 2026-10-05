@@ -199,13 +199,18 @@ what the square deserves — and the boy shook it, and both of them did
 it far too seriously, and then Jack said, "Boys," and that was the
 whole of it.
 
-The north-end mother came to the gate with San — not to the square,
-because the square belonged to the hats and the gate belonged to
-whoever was leaving — and she had put in his pocket, without
-announcing it, four hard rolls and a piece of cheese wrapped in cloth,
-and when she gave him the rest straight, without any softness in it
-that he would have to carry, he listened the way he listened to
-everything, fully, and said, "Yes, ma'am," and adjusted the strap once.
+The north-end house came to the gate with San — the mother with her
+rolls and the cheese, and behind her the father, Chen Jian, who had
+come back a day early from the Farfield beam job because a boy walking
+to a city is a thing a village measures only once. He did not make a speech. He shook the blacksmith's son's hand with
+both of his own, the way one maker checks another's work, and said,
+"Mind the hands. They're the part of you the city will believe first."
+"Yes, sir," said San — more than he said to most grown men — and
+adjusted the strap once.
+
+The mother gave him the rolls she had put in his pocket without
+announcing it, and the rest straight, without any softness in it that
+he would have to carry:
 
 "Walk fast. Eat first. And when you get there, find out who empties
 the ash and ask them how it's done — because the boy who does the
@@ -404,16 +409,18 @@ evening out, ready.
 
 ## Footer
 
-- Project state: Chapter 4 written and checked (3642 words).
+- Project state: Chapter 4 written and checked (3694 words).
 - Canon span touched: the novel's departure — Tang Hao's instruction
   (no forging, pack, Jack takes you), San fussing over his father's
   food before he leaves, Jack escorting him south; the author said "No"
   to the plan where the boy takes the road, so he stays in the
   village.
-- The boy's state: unnamed; innate level 6; zero rings; not going —
+- The boy's state: Chen Xing; innate level 6; zero rings; not going —
   his want stays alive and unspent; the tin still shut.
-- Mother state: "when you know what it's for, you tell me, and we'll
-  open it"; she does not spend what isn't time.
+- Mother state: Xiu — "when you know what it's for, you tell me, and
+  we'll open it"; she does not spend what isn't time.
+- Father state: Chen Jian at the gate, back a day early from Farfield;
+  both-hands handshake with San; no speech.
 - Tang San state: gone to Nuoding with Jack as a working student; the
   name-of-the-broth promise handed over unwritten — he'll learn to
   write first.

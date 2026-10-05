@@ -16,6 +16,7 @@ Read order: RULINGS_LOG → OPEN_RULINGS → STATUS → the rest → HANDOFF las
 | 2026-10-03 | **R14** — crystal mid readout carries its digit (level 6, R5 band); R4 name **spoken in-story**; six years rebuilt to bible §2 (talent works, Tang Hao relationship, Jack lore — author verdicts round 8–10) | `RULINGS_LOG.md` R14, `SERIAL_LOG.md` |
 | 2026-10-03 | **Chapter 3 written and gated** — author's word "Next"; coverage-first in his storyos table format; `Chapter_03` "Three Months" 3650 words PASS; no promise, no quota, canon departure still ahead | `chapters/Chapter_03.md`, `canon_coverage/Canon_Coverage_Chapter_03.md` |
 | 2026-10-03 | **Chapter 4 written and gated** — author said "No" (verbatim) to the boy taking the road in ch4; chapter follows the canon departure instead: San goes with Jack, the boy stays. `Chapter_04` "The Road Out" 3642 words PASS | `chapters/Chapter_04.md`, `canon_coverage/Canon_Coverage_Chapter_04.md` |
+| 2026-10-03 | **R15 — names + father** — author: "there is no name and others All things" / "what your father create or degine them" / "No,, you do nothing good," → **Chen Xing / Xiu / Chen Jian** assigned and woven through ch1–ch4; father = carpenter, creates/designs the village's working wood; old no-name rule had no source (audit) | `RULINGS_LOG.md` R15, `CHARACTERS.md` |
 
 ## Index
 

@@ -26,3 +26,4 @@ The author's exact words for every ruling are in `RULINGS_LOG.md`.
 2. Coverage file → prose → chapter gate → STATUS → foundation gate →
    push.
 | R14 | Crystal readout + name | Mid readout carries its digit (level 6, R5 band); R4 name spoken in-story. Father clause open — not filled |
+| R15 | Names | Chen Xing / Xiu / Chen Jian assigned per the author's repeated demand — overwrite anytime; father = carpenter, creates/designs the village's working wood |

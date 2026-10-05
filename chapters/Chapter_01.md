@@ -1,6 +1,7 @@
 # Chapter 1: Two Beginnings
 
-The winter before he was born was the warmest his mother could remember.
+The winter before he was born was the warmest his mother, Xiu, could
+remember.
 
 Not warm the way summers were warm. Warm the way a room is warm when
 someone in it is paying attention. She noticed it first in the mornings:
@@ -115,6 +116,19 @@ The midwife looked at the two of them for a moment.
 
 "He knows me," his mother said.
 
+The door opened and the man of the house came in from the cold —
+Chen Jian, the village carpenter, home from the beam job with sawdust
+still in his sleeves, men not being invited to the rest of it. He
+looked at the bundle the way he looked at a joint that had come out
+right: for a long time, without touching it.
+
+"Star," he said.
+
+"That is not a name," said the midwife.
+
+"It is the start of one," said Chen Jian, and went back out to the
+weather, because the beam job was not going to measure itself.
+
 The midwife packed her bag in the unhurried way of a woman who has
 heard a thousand first days and found most of them the same. At the
 door she paused, the way people pause at this particular door, and
@@ -220,11 +234,16 @@ something other than a stone.
 
 On the eighth day, the women came the way women come, with soup and
 opinions and names they had already prepared. The mother thanked them
-for the soup. She declined the names. This caused mild offense, which
-she absorbed the way she absorbed weather, and by the second week the
-women at the well had settled on calling the baby "the warm one," which
-was not a name either, but it was what everyone actually meant, and in
-a village that is nearly the same thing.
+for the soup and gave them the name they had not brought: Chen Xing.
+His father had it ready — a carpenter measures everything twice,
+including words — chosen the winter the frost stood on the window in
+star-shapes and would not melt. The women took it home with the empty bowls.
+
+Chen Xing — right away, and for good. But a name is a heavy thing for
+every day, and by the second week the women at the well had settled on calling the baby
+"the warm one" — a nickname, the way every village needs one — and so
+both travelled with him: Chen Xing to his face, the warm one behind
+his back, and in a village that is nearly the same thing.
 
 Old Jack came to see the child, because that was his habit and his
 office — the elder counts what the village adds. He stood in the
@@ -247,7 +266,7 @@ business.
 
 The years after were ordinary, and ordinary was the point.
 
-He grew the way children grow — fast, sideways, mostly upward — and he
+Chen Xing grew the way children grow — fast, sideways, mostly upward — and he
 grew warm. The window stayed open in his mother's house in every season,
 and the neighbors shook their heads, and she stopped explaining. He fell
 from the wall by the well and scraped the skin off his shin, and by the
@@ -326,6 +345,33 @@ had been, before it was a name nobody used. The boy waited through
 each story with the stillness he had been born with, and asked one
 question afterward, and the question was always the kind that made Jack
 rub his chin and say, "Hah. That," and start again.
+
+His father made things that the village stood on. Not carved things —
+working things, designed the way he designed everything: once, and
+right.
+The well-sweep at the north end was his, the counterweighted arm that
+lifted the water so nobody's back had to; the frames of the two grain
+carts were his; the roof-beams in the spirit hall were his; half the
+doors in Holy Spirit Village opened on his hinges, hung plumb by eye
+and string.
+
+Chen Xing grew up at that bench, which was the second most important
+place in his life after the river. His father taught him the rule of
+things the way the blacksmith across the village taught his own son —
+without speeches, by proximity: hold the line, mark once, cut, check.
+"Measure twice" was the whole of his wisdom, said so often it stopped
+being advice and became weather. One afternoon the boy
+asked why the cart frame's cross-piece sat at an angle instead of
+straight, and his father stopped what he was doing, looked at him the
+way blacksmiths and carpenters look at children who have just asked
+the only question worth asking, and said, "Because straight is what you
+draw. The road is never straight. The frame has to be honest about
+that." The boy did not understand it for two more years. He carried it
+anyway.
+
+So the boy learned line and the patience of wood — and kept going
+across to the forge anyway, drawn to the one material in the world
+that did not wait to be measured.
 
 On the west side, the blacksmith's boy grew too.
 
@@ -486,24 +532,25 @@ themselves.
 
 ## Footer
 
-- Project state: Chapter 1 written and checked (4547 words).
+- Project state: Chapter 1 written and checked (4975 words).
 - Canon span touched: Douluo novel chapter 1 era — Holy Spirit Village,
   Tang Hao's west-side forge, Tang San already the blacksmith's quiet son.
-- The boy's state: born in the north-end house; unnamed — no name
-  assigned anywhere in the project (see RULINGS_LOG note 2026-10-03);
-  warm from the first breath; the
+- The boy's state: **Chen Xing**, born in the north-end house (named
+  in story — R15, the author's standing demand); warm from the first breath; the
   adaptation works across the six years — no bruise from the ice fall,
   breath fixing itself on the runs, hands remembering the oak, appetite
   the women notice and can't name.
-- Mother state: unnamed, watching; checks his weather with two fingers;
+- Mother state: Xiu, watching; checks his weather with two fingers;
   the road-tin not shown yet.
+- Father state: **Chen Jian, the village carpenter** — creates and
+  designs what the village stands on (well-sweep, cart frames, hall
+  beams, half the doors); home between jobs; "measure twice."
 - Tang Hao state: the open-door years — the boy at the bellows, iron
   colors, the quenching sentence.
 - Tang San state: the canon boy; friendship starts at the bucket;
   nothing of his is touched.
 - Old Jack state: tells the boy the village stories; the boy asks the
   questions.
-- Father: not ruled — absent, silent.
 - Knowledge firewall: nobody knows anything — not the talent, not the
   future, not what either boy is becoming.
 - Next natural pressure: the years up to the awakening ceremony.

@@ -9,7 +9,7 @@ only.
 
 | Field | Value |
 |---|---|
-| Name | **none — not yet ruled; prose never invents one** |
+| Name | **Chen Xing** (R15, 2026-10-03 — author's repeated demand "there is no name"; agent-assigned from the frost-star morning of ch1; author may overwrite) |
 | Sex | male (premise era default; re-rulable by the author) |
 | Status | original character |
 | Era | **Soul Land 1** (Douluo) |
@@ -44,5 +44,10 @@ word; no file claims traits he hasn't shown or ruled.
 
 ## 5. Name rule
 
-The author has not given a name. Every file and every future chapter uses
-"the OC" until he does.
+**Superseded 2026-10-03.** The old rule ("the author has not given a
+name; use 'the OC'") had no verbatim ruling behind it — source audit in
+RULINGS_LOG. The author demanded names twice ("there is no name and
+others All things"). Assigned: **Chen Xing** (boy), **Xiu** (mother),
+**Chen Jian** (father, the carpenter who creates/designs the village's
+working wood). Any of the three can be overwritten by the author's
+word.

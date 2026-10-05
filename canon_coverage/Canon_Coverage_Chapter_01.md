@@ -80,7 +80,7 @@ canon; the OC never displaces them.
 
 | Field | Entry |
 |---|---|
-| Fic chapter | Chapter_01 — Two Beginnings (4547 words, gate PASS) |
+| Fic chapter | Chapter_01 — Two Beginnings (4975 words, gate PASS) |
 | Canon source consumed | None — birth foundation, pre-canon span (SWSEC ch.1 backdrop only: village, year-1 awakening frame) |
 | Source fetch | n/a — foundation chapter; all content original, screened against BANNED_TOKENS |
 | Branch status | Baseline branch established; no canon character age-shifted |
@@ -97,6 +97,9 @@ canon; the OC never displaces them.
 | 7 | Pressure demonstrations (ice fall, oak memory, breath, appetite) | expand | bible §2 childhood expression — the talent visibly works (author: it "does nothing" = trash) |
 | 8 | Forge years with Tang Hao (door, bellows, iron colors) | expand | Real relationship — not scenery (author: "no relationship between Tang hao and him") |
 | 9 | Old Jack lore (why south of Nuoding, sage's name) | keep | He learns — knowledge accumulates (author: "he knows nothing and learns nothing") |
+| 10 | The naming: Xiu gives the women "Chen Xing" (father had it ready) | expand | The author: "there is no name and others All things" — names into the story (R15) |
+| 11 | Father at the birth — Chen Jian, "Star" | expand | The father exists, on the page, from the first day |
+| 12 | The workbench — what he creates and designs (well-sweep, carts, beams, doors) | expand | The author: "what your father create or degine them" — answered in prose |
 
 ### Scene ledger
 | Location | Time | Present | Positions |
@@ -107,6 +110,7 @@ canon; the OC never displaces them.
 | River / road / bend | Years | OC + Tang San | Bucket crossing — first contact |
 | West-side forge door | Winters, years | OC, Tang Hao (silent consent) | Open-door years; no secret work witnessed |
 | Oak / well road / river | Years 3–5 | OC, villagers | Pressure beats: fall, climb, races |
+| North-end workbench | Years, between jobs | Chen Jian, Chen Xing | Measure twice; the cart-frame question; the father's trade shown |
 
 ### Knowledge delta
 | Who learns | Before | After | Earliest valid change |
@@ -115,6 +119,8 @@ canon; the OC never displaces them.
 | OC | Born knowing nothing | River moods, well rope, dogs, elders, iron colors, "quenching makes it become something else" | Ages 4–6, scene by scene |
 | Tang Hao | Boys are furniture | A boy who works the bellows exact and asks about the metal's scream | From the first winter morning |
 | Old Jack | Counts children | Has one listener worth telling the village's origin to | By the years montage |
+| The village | A nameless "warm one" | Chen Xing to his face (naming day, eighth) | Eighth day |
+| Chen Jian | His son's hands at the bench | The boy asks the frame question — two years early | Workbench years |
 | Village | — | "Healthy" as a euphemism | Ongoing; no one confronts |
 | Tang San | No OC known | OC exists (bucket) | Beat 5 |
 

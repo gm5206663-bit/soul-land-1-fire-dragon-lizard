@@ -57,17 +57,18 @@ entire, doing errands at a distance.
 She did smile at that — the quick one, there and gone. "That is the
 first honest thing anyone has said in this house this month."
 
-"Old Jack says honest things," he offered.
+"Father says honest things," he offered — his father, Chen Jian, at
+the door with his rule-stick, home from the Farfield job in the night.
 
-"Old Jack says everything he thinks, which is not the same thing,
-but it will do at this hour." She stood, took the bowls, and
+"Your father says sentences that can be carried into a courtroom
+without damage. There is a difference." She stood, took the bowls, and
 passed her two fingers across his forehead on the way — the old check,
 the weather check, as automatic as breathing — and her hand lingered
 one beat longer than the check required, and he let it, because he was
 six today, and the day was the day, and even he could feel that the
 house was holding its breath a little.
 
-"Go on," she said. "The village is waiting for you."
+"Go on, Chen Xing," she said. "The village is waiting for you."
 
 ---
 
@@ -425,15 +426,17 @@ the way it always had, without asking anyone what it was supposed to be.
 
 ## Footer
 
-- Project state: Chapter 2 written and checked (3676 words).
+- Project state: Chapter 2 written and checked (3694 words).
 - Canon span touched: the awakening ceremony from the novel — Tang San
   reads Blue Silver Grass with full innate power, "what a pity," his
   second soul stays hidden.
-- The boy's state: unnamed; the Ground Fire Dragon Lizard wakes; Su
+- The boy's state: Chen Xing; the Ground Fire Dragon Lizard wakes; Su
   Yuntao says the name out loud to the room; innate level 6; zero
   rings; warm body, fast healing, cold tolerance.
-- Mother state: unnamed; waited at home; knew about the window and the
+- Mother state: Xiu; waited at home; knew about the window and the
   river for years.
+- Father state: Chen Jian at breakfast (home from the Farfield job),
+  the courtroom-sentence line; then away again.
 - Su Yuntao state: read the name and the number, said "do not waste
   it," left for Nuoding.
 - Knowledge firewall: the room heard a name and a number, nothing

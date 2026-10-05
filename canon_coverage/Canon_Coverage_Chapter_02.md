@@ -78,7 +78,7 @@ place on it earned on page, never assumed. New coverage before prose.
 
 | Field | Entry |
 |---|---|
-| Fic chapter | Chapter_02 — The Fire in the Star (3676 words, gate PASS) |
+| Fic chapter | Chapter_02 — The Fire in the Star (3694 words, gate PASS) |
 | Canon source consumed | SWSEC ch.1 awakening-day frame (ceremony, father's absence) — compressed; a planned blessing-reveal scene was never written and is marked NOT IN PROSE |
 | Source fetch | Fetched in-round; NO_MISTAKE screening applied |
 | Branch status | First canon deviation: OC attends ceremony (baseline absorbed) |
@@ -86,7 +86,7 @@ place on it earned on page, never assumed. New coverage before prose.
 ### Beats consumed in order
 | # | Beat | Keep/compress/expand | Why |
 |---|---|---|---|
-| 1 | Six-year bridge morning + mother | expand | His voice: domestic before the stage |
+| 1 | Morning at home: Xiu, breakfast, father home from Farfield (the courtroom line) | expand | His voice: domestic before the stage; the father on the page (R15) |
 | 2 | Road meeting with Tang San | keep | Relationship continuity |
 | 3 | Hall + Su Yuntao ceremony | expand | Failed-children texture is canon's own weight |
 | 4 | OC's testing (living crystal) | expand | Deviation beat; father absent, mother waits at home dreading |
@@ -97,7 +97,7 @@ place on it earned on page, never assumed. New coverage before prose.
 ### Scene ledger
 | Location | Time | Present | Positions |
 |---|---|---|---|
-| North-end house | Morning | OC, mother | Six years later |
+| North-end house | Morning | Chen Xing, Xiu, Chen Jian | Ceremony morning; "Go on, Chen Xing" |
 | Road, bend | Morning | OC, Tang San | Walk together |
 | Old man's hall | Day | Su Yuntao, villagers, all children | Ceremony |
 | Hall (testing) | Day | OC, Su Yuntao, villagers (mother waits at home; father absent) | Testing beat |

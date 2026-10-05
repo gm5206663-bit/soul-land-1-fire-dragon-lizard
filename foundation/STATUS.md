@@ -1,7 +1,7 @@
 # STATUS PANEL — Fire Dragon Lizard (Soul Land 1)
 
-**Live edge: after Chapter 4, `The Road Out` (gated PASS, 3642 words).
-Author said "No" to the boy taking the road — he stays in the village;
+**Live edge: after Chapter 4, `The Road Out` (gated PASS, 3694 words).
+Author said "No" to the boy taking the road — he stays in the village. Names assigned (R15): Chen Xing / Xiu / Chen Jian; father = the carpenter who creates and designs.
 Chapter 4 follows the canon departure. Footers all in plain style.**
 
 Purpose: single current-state panel for continuation. When the story
@@ -30,13 +30,13 @@ For the author's words, see `RULINGS_LOG.md`; for canon receipts,
 
 ## 1. Latest written artifacts
 
-- Latest prose: `chapters/Chapter_04.md` — **The Road Out** (3642
+- Latest prose: `chapters/Chapter_04.md` — **The Road Out** (3694
   words, gate PASS).
 - Latest coverage: `canon_coverage/Canon_Coverage_Chapter_04.md`
   (his storyos table format: beats consumed / scene ledger / knowledge
   delta / prop delta / power check / butterfly register).
-- Chapter gates: Chapter_01 PASS (4547) · Chapter_02 PASS (3676) ·
-  Chapter_03 PASS (3650) · Chapter_04 PASS (3642) · selftest 14/14.
+- Chapter gates: Chapter_01 PASS (4975) · Chapter_02 PASS (3694) ·
+  Chapter_03 PASS (3666) · Chapter_04 PASS (3694) · selftest 14/14.
 - Foundation gate: PASS · stage 0 unlocked · 4 chapters on disk.
 - Validation receipt: `audits/CHAPTER_VALIDATION_2026-10-03.md`;
   `audits/RECEIPTS_2026-10-03_cycle4.md` (RECEIPT_TEMPLATE shape).
@@ -65,14 +65,18 @@ For the author's words, see `RULINGS_LOG.md`; for canon receipts,
 
 ## 4. Character status
 
-- **the OC** (unnamed — never invent one): Holy Spirit Village; Ground
-  Fire Dragon Lizard; innate mid (5–7, digit nowhere in prose); zero
-  rings; womb adaptation active and unnamed in-story; warm body, fast
-  healing; best friend of Tang San.
+- **Chen Xing** (the OC — named R15, author's standing demand): Holy
+  Spirit Village; Ground Fire Dragon Lizard; innate level 6 (R5 mid;
+  the crystal reads "six" on the page — R14); zero rings; womb
+  adaptation active and unnamed in-story; warm body, fast healing;
+  best friend of Tang San.
 - **Tang San**: canon state; watching the door of his father's forge;
   second soul hidden from everyone.
-- **The mother**: exists, unnamed, watching; knows her son is different,
-  has no word for it. Father: not ruled — absent, silent.
+- **Xiu** (mother): watching; knows her son is different, has no word
+  for it; the road-tin.
+- **Chen Jian** (father): village carpenter — creates/designs the
+  well-sweep, cart frames, hall beams, half the doors; away at jobs;
+  home between them. Named + defined R15.
 - **Su Yuntao / Old Jack / Tang Hao**: canon positions, unchanged.
 
 ## 5. Locks and bans (one line each)

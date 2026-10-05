@@ -304,7 +304,8 @@ bowls without opening it.
 
 "That isn't fair," he said. "You didn't know me."
 
-"I knew somebody," she said. "Eat."
+"I knew somebody," she said. "Eat. Your father's at the Farfield job
+till week's end — this road talk is between us."
 
 He ate. The tin stayed shut on the table for the whole meal, and then
 it went back behind the stove, and neither of them said anything more
@@ -406,15 +407,16 @@ woodpiles know — by getting shorter.
 
 ## Footer
 
-- Project state: Chapter 3 written and checked (3650 words).
+- Project state: Chapter 3 written and checked (3666 words).
 - Canon span touched: the three months from the novel — Tang Hao keeps
   his son at the forge, Jack plans to take him to Nuoding, working
   student: tuition and lodging free, food worked for.
-- The boy's state: unnamed; innate level 6; zero rings; three months of
+- The boy's state: Chen Xing; innate level 6; zero rings; three months of
   body work — wood, water, bellows, running; he asks for the road at
   the lamp; the tin shown, unopened.
-- Mother state: unnamed; "your name is hands until you make it
-  something else"; saving for a road since before he was born.
+- Mother state: Xiu; "your name is hands until you make it something
+  else"; saving for a road since before he was born; father on the
+  Farfield job, road talk between them.
 - Tang Hao state: the door shut three weeks — father teaching son
   inside, never seen, never named; then "It wants feeding" — the
   bellows seat is the boy's again.

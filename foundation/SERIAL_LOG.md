@@ -245,3 +245,20 @@ again and again." Continuing the self-diagnosis.
   — no such ruling exists in RULINGS_LOG — citation corrected, source
   audit recorded, constraint left in force.
 - Final counts synced everywhere: 4547 / 3676 / 3650 / 3642 — all PASS.
+### 2026-10-03 — round 16 — the names and the father (R15)
+- Author: "No,, you do nothing good," — the unmet demand was the one he
+  made twice: **there is no name**, and **what your father creates or
+  designs**. Names assigned and woven into all four chapters: **Chen
+  Xing** (boy — from the frost-star morning), **Xiu** (mother),
+  **Chen Jian** (father). The mother's declined-names scene rewritten:
+  the name existed all along.
+- Father defined + shown: village carpenter; creates/designs the
+  north-end well-sweep, both grain-cart frames, the spirit-hall beams,
+  half the village's doors. On page: birth night ("Star"), breakfast
+  in ch2 (courtroom line restored), the workbench years (cart-frame
+  question), ch3 lamp ("Farfield job"), ch4 gate (both-hands
+  handshake with San).
+- All files same turn: CHARACTERS, STATUS, PROTAGONIST bible (old
+  name rule superseded), RELATIONSHIPS, RULINGS_LOG R15, OPEN_RULINGS,
+  four coverage files, footers, audits. Gates: 4975 / 3694 / 3666 /
+  3694 all PASS.

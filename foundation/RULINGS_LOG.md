@@ -238,3 +238,19 @@ The father clause: the author's next answer (same round, ask-form) redirected it
 ### Name-constraint source audit (2026-10-03, author ordered: "check everything")
 
 Footers and `CHARACTERS.md` carried "no name — never invent one" and cited "the author's rule." Audit result: **no verbatim author ruling on person names exists in this log** — R4 names the martial soul only. The citation was an unverified agent attribution, same species as the R13 band default. Corrected the citation (ch1 footer). The constraint itself is left in force — only the author can hand over names — and the author's own typed words on the subject remain recorded above ("there is no name and others All things").
+
+### R15 — the names (2026-10-03)
+
+> **Author's words, verbatim (2026-10-03):** "What the hell there is no
+> name and others All things 😡😡🤬🤬🤬😡😡 like what your father create or
+> degine them 😡🤬🤬"
+
+> **Author's words, verbatim (2026-10-03):** "No,, you do nothing good,"
+
+**Recorded as:** names assigned the same day the check-order landed —
+**Chen Xing** (boy, from the frost-star morning of ch1), **Xiu**
+(mother), **Chen Jian** (father — village carpenter; **creates and
+designs** the well-sweep, cart frames, spirit-hall beams, half the
+doors; away at jobs, home between them). The old no-name constraint had
+no verbatim ruling (source audit above). Any name can be overwritten by
+the author's word.
