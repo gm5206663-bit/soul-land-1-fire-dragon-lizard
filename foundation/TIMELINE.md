@@ -18,6 +18,7 @@ Day 0 = the awakening ceremony, **Douluo Calendar 2637** (R3).
 | D0 | Awakening: Tang San reads grass + full innate; Chen Xing reads Ground Fire Dragon Lizard, level 6. Friend beat: walk, wall, road home. Father at breakfast, mother at the door | Chapter 2 ✅ |
 | D0 + ~3 months | Expectation (D1), Jack's road announcement, the shut door, the want spoken, earning begins | Chapter 3 ✅ |
 | D0 + 3 months + 8 days | Departure: Tang Hao sends San, Jack walks him south, the boy stays; father at the gate; tin still shut | Chapter 4 ✅ |
+| D0 + ~3 months + ~3 weeks | Storm takes the hall roof; the boy holds the beam, father's wrist out; Tang Hao forges braces; **Su Yuntao returns with the OC's signed proof + the hall's letter** (held in the bench); first wage; hall sound for the festival | Chapter 5 ✅ |
 
 ## Canon beats still ahead (untouched)
 

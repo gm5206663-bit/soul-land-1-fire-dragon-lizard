@@ -17,6 +17,7 @@ Read order: RULINGS_LOG → OPEN_RULINGS → STATUS → the rest → HANDOFF las
 | 2026-10-03 | **Chapter 3 written and gated** — author's word "Next"; coverage-first in his storyos table format; `Chapter_03` "Three Months" 3677 words PASS; no promise, no quota, canon departure still ahead | `chapters/Chapter_03.md`, `canon_coverage/Canon_Coverage_Chapter_03.md` |
 | 2026-10-03 | **Chapter 4 written and gated** — author said "No" (verbatim) to the boy taking the road in ch4; chapter follows the canon departure instead: San goes with Jack, the boy stays. `Chapter_04` "The Road Out" 3718 words PASS | `chapters/Chapter_04.md`, `canon_coverage/Canon_Coverage_Chapter_04.md` |
 | 2026-10-03 | **R15 — names + father** — author: "there is no name and others All things" / "what your father create or degine them" / "No,, you do nothing good," → **Chen Xing / Xiu / Chen Jian** assigned and woven through ch1–ch4; father = carpenter, creates/designs the village's working wood; old no-name rule had no source (audit) | `RULINGS_LOG.md` R15, `CHARACTERS.md` |
+| 2026-10-03 | **Chapter 5 written and gated** — author: "Why you even think su yuntao don't give another latter for oc, what you think a dragon type martial soul with innate 6 level soul' power is joke" → **The Proof**: Su Yuntao returns with the OC's signed awakening proof + the hall's letter (held in the bench); storm repair; father's trade handed down; `Chapter_05` "The Proof" 3693 words PASS | `chapters/Chapter_05.md`, `canon_coverage/Canon_Coverage_Chapter_05.md` |
 
 ## Index
 

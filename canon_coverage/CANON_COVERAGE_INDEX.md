@@ -16,3 +16,7 @@ Next: Chapter 3 coverage before prose — friendship years → blacksmithing
 - **Chapter_04 — The Road Out**: novel departure span (father's
   instruction, San's fussing, Jack escort); author: "No" to the boy
   taking the road. `Canon_Coverage_Chapter_04.md`.
+- **Chapter_05 — The Proof**: proof mechanic (Su Yuntao issues signed
+  proofs — Baike 素云涛 + gate-scene receipt) + village-gap receipt;
+  author verbatim demanded the letter for the OC.
+  `Canon_Coverage_Chapter_05.md`.

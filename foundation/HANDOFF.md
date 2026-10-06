@@ -4,10 +4,11 @@ Read this before you touch anything. Then `STATUS.md`.
 
 ## State in one breath
 
-Chapters 1–4 shipped and gated (birth foundation → awakening day →
-three months → the road out; the boy stays — author said "No"). The
-family is named: Chen Xing / Xiu / Chen Jian the carpenter (R15).
-All 13 lanes ruled. Chapter 5 waits for the author's word. Structure
+Chapters 1–5 shipped and gated (birth foundation → awakening day →
+three months → the road out → the proof; the boy stays — author said
+"No"; Su Yuntao brings the OC's signed proof + the hall's letter,
+author's standing demand). The family is named: Chen Xing / Xiu /
+Chen Jian the carpenter (R15). All 13 lanes ruled. Chapter 5 waits for the author's word. Structure
 follows the author's fire-phoenix project: coverage before prose,
 panel-style status, R01–R24 rules, banned-token regressions.
 

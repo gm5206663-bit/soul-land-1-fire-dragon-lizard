@@ -270,3 +270,20 @@ again and again." Continuing the self-diagnosis.
   scene aligned (father speaks the already-chosen name — no "start of
   one" drift); workbench scene forward-reference to the forge removed.
 - Final live counts: 4975 / 3713 / 3677 / 3718 — all PASS.
+### 2026-10-03 — round 18 — Chapter 5 "The Proof"
+- Author: "Next" → coverage drafted (storm/roof) → author corrected
+  mid-flight (verbatim): "Why you even think su yuntao don't give
+  another latter for oc, what you think a dragon type martial soul with
+  innate 6 level soul' power is joke" → Su Yuntao's follow-up PAPER for
+  the OC became the chapter's center. Canon receipt found: Su Yuntao
+  personally issues awakening proofs (Baike 素云涛; the signed proof is
+  what opens the Nuoding gate in canon).
+- Chapter 5: the storm takes the spirit hall's roof (the father's own
+  beams); the boy holds the slipped beam, father's wrist out; two
+  makers at one repair, the honest angle applied; Su Yuntao returns —
+  proof signed by his hand + the hall's letter, read aloud, kept in
+  the father's bench; sealed cut seen by the dark-crystal girl; first
+  wage in the boot; hall sound for the festival. Tin still shut; San
+  off POV; Tang Hao's letter-departure untouched (canon-ahead).
+- Gate PASS 3693; banned-token grep clean; coverage written before
+  prose (rewritten once, same turn, after the author's correction).

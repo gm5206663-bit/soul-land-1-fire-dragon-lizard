@@ -30,13 +30,14 @@ For the author's words, see `RULINGS_LOG.md`; for canon receipts,
 
 ## 1. Latest written artifacts
 
-- Latest prose: `chapters/Chapter_04.md` — **The Road Out** (3718
+- Latest prose: `chapters/Chapter_05.md` — **The Proof** (3693
   words, gate PASS).
-- Latest coverage: `canon_coverage/Canon_Coverage_Chapter_04.md`
+- Latest coverage: `canon_coverage/Canon_Coverage_Chapter_05.md`
   (his storyos table format: beats consumed / scene ledger / knowledge
   delta / prop delta / power check / butterfly register).
 - Chapter gates: Chapter_01 PASS (4975) · Chapter_02 PASS (3713) ·
-  Chapter_03 PASS (3677) · Chapter_04 PASS (3718) · selftest 14/14.
+  Chapter_03 PASS (3677) · Chapter_04 PASS (3718) ·
+  Chapter_05 PASS (3693) · selftest 14/14.
 - Foundation gate: PASS · stage 0 unlocked · 4 chapters on disk.
 - Validation receipt: `audits/CHAPTER_VALIDATION_2026-10-03.md`;
   `audits/RECEIPTS_2026-10-03_cycle4.md` (RECEIPT_TEMPLATE shape).
