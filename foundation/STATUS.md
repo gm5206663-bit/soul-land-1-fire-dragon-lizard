@@ -1,8 +1,8 @@
 # STATUS PANEL — Fire Dragon Lizard (Soul Land 1)
 
-**Live edge: after Chapter 4, `The Road Out` (gated PASS, 3718 words).
-Author said "No" to the boy taking the road — he stays in the village. Names assigned (R15): Chen Xing / Xiu / Chen Jian; father = the carpenter who creates and designs.
-Chapter 4 follows the canon departure. Footers all in plain style.**
+**Live edge: after Chapter 5, `The Proof` (gated PASS, 3693 words).
+Su Yuntao returns with the boy's signed awakening proof and reads the hall's letter aloud; the village takes the new shape; the paper lives in the bench with the plumb-line — "cut it honest."
+Chapters 1-4 stand as shipped (Ch 4 *The Road Out*: the author's "No" — the boy stays in the village; R15 names Chen Xing / Xiu / Chen Jian; the father the carpenter). Footers all in plain style.**
 
 Purpose: single current-state panel for continuation. When the story
 changes, this file changes the same turn. Never rebuild it from memory.
@@ -50,7 +50,7 @@ For the author's words, see `RULINGS_LOG.md`; for canon receipts,
 - Covered: birth foundation (Ch1) · awakening day DC 2637 (Ch2).
 - Next source: the friendship-years/blacksmithing stretch of Douluo
   ch1–2 aftermath; Nuoding road when canon reaches it.
-- Next chapter boundary: Chapter 3 — coverage before prose, on the
+- Next chapter boundary: Chapter 6 — coverage before prose, on the
   author's word.
 
 ## 3. Current scene after Chapter 2

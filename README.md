@@ -11,9 +11,9 @@
 
 | | |
 |---|---|
-| **Live edge** | `chapters/Chapter_02.md` — *"The Fire in the Star"* (2931 words, gate PASS); Chapter 1 = *"Two Beginnings"* (2430, PASS) |
+| **Live edge** | `chapters/Chapter_05.md` — *"The Proof"* (3693 words, gate PASS) — Su Yuntao returns with the boy's signed awakening proof; the hall's letter read aloud; the paper lives in the bench. Ch 1 *Two Beginnings* · 2 *The Fire in the Star* · 3 *Three Months* · 4 *The Road Out* — all PASS |
 | **Stage 0** | Complete — 13/13 lanes ruled |
-| **Next** | Chapter 3 on the author's word — coverage, prose, gate, push |
+| **Next** | Chapter 6 on the author's word — coverage, prose, gate, push |
 
 ## Read order
 
