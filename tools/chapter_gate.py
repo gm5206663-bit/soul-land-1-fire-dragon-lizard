@@ -2,7 +2,9 @@
 """chapter_gate.py — the chapter gate for soul-land-1-fire-dragon-lizard.
 
 Rulings it enforces (foundation/RULINGS_LOG.md):
-  R13 — band: chapters are 2400–3400 words (FAIL outside the band).
+  R13 — band: 3600–5000 words (corrected 2026-10-03 against the author's
+  own chapters; see BAND_MIN/BAND_MAX below — the 2400–3400 default was an
+  unchecked agent guess the author never typed).
   PRE4 — NO SYSTEM anywhere (banned tokens below).
   R11 — figures belong to STATUS/panels, never prose (informational checks).
   Stage-0 lock — if foundation/OPEN_RULINGS.md still carries a red-lane
